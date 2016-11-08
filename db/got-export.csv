@@ -1,904 +1,904 @@
-_id,name,gender,culture,born,died,titles,aliases,father,mother,spouse,allegiances,books
-2,Walder,Male,,,,,Hodor,,,,House Stark of Winterfell,A Game of Thrones
-29,Abelar Hightower,Male,,,,Ser,,,,,House Hightower of the Hightower,The Hedge Knight
-30,Addam Frey,Male,,,,Ser,,,,,House Frey of the Crossing,The Mystery Knight
-37,Aegon Frey,Male,,In or between 253 AC and 272 AC,,,Aegon Bloodborn,,,,House Frey of the Crossing,A Clash of Kings
-38,Aegon I,Male,,27 BC, at Dragonstone,37 AC, at Dragonstone,King of All Westeros,Shield of His People,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms
-39,Aegon II,Male,,107 AC, at King's Landing,131 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm,Aegon the Elder
-40,Aegon III,Male,Valyrian,120 AC, at Dragonstone,157 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm,Aegon the Younger
-41,Aegon IV,Male,,135 AC, at King's Landing,184 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm,Aegon the Unworthy
-44,Aegon Targaryen,Male,Valyrian,,,Prince,,,,,House Targaryen of King's Landing,The World of Ice and Fire
-45,Aegon Targaryen,Male,Valyrian,In or between 50 AC and 59 AC,,Prince,,,,,House Targaryen of King's Landing,The World of Ice and Fire
-46,Aegon V,Male,,200 AC, at King's Landing,259 AC, at Summerhall,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm,Aegon the Unlikely
-48,Aelinor Penrose,Female,Valyrian,,,Queen,,,,61,House Penrose of Parchments,House Targaryen of King's Landing
-49,Aemma Arryn,Female,,In 82 AC,In 105 AC,Queen,,,,1076,House Arryn of the Eyrie,House Targaryen of King's Landing
-51,Aemon Costayne,Male,,,,,,,,,House Costayne of Three Towers,A Storm of Swords
-52,Aemon Estermont,Male,Stormlands,,,Ser,,,,,House Estermont of Greenstone,A Clash of Kings
-53,Aemon Rivers,Male,,,,Ser,,,,,House Frey of the Crossing,A Clash of Kings
-57,Aenys I,Male,,7 AC, at Dragonstone,42 AC, at Dragonstone,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm,
-59,Aerion Targaryen,Male,Valyrian,At Dragonstone,At Dragonstone,Lord of Dragonstone,,,,1070,House Targaryen of King's Landing,The World of Ice and Fire
-61,Aerys I,Male,,or between 172 AC and 176 AC, at King's Landing,221 AC,King of the Andals, the Rhoynar, and the First Men,Lord of the Seven Kingdoms,Protector of the Realm,
-62,Aerys II,Male,,244 AC, at King's Landing,283 AC, at the Red Keep in King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm,The Mad King
-66,Alannys Harlaw,Female,Ironborn,,,Queen of the Iron Islands,Lanny,,,12,House Greyjoy of Pyke,House Harlaw of Harlaw
-67,Albar Royce,Male,,,,Ser,,,,,House Royce of the Gates of the Moon,A Game of Thrones
-68,Alekyne Florent,Male,,,,Lord of Brightwater (attainted),,,,,House Florent of Brightwater Keep,A Clash of Kings
-70,Alesander Frey,Male,,In or between 265 AC and 281 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-71,Alesander Staedmon,Male,,,,Lord of Broad Arch,the Pennylover,,,,House Staedmon of Broad Arch,A Clash of Kings
-73,Alester Norcross,Male,,In 290 AC or 291 AC,,,,,,,House Norcross,A Clash of Kings
-74,Alester Oakheart,Male,,,At Prince's Pass,,,,,,House Oakheart of Old Oak,A Feast for Crows
-75,Alester Tyrell,Male,Andal,,,Ser,,,,,House Gardener of Highgarden,House Tyrell of Highgarden
-77,Alla Tyrell,Female,,In or around 286 AC (roughly),,,,,,,House Tyrell of Highgarden,A Storm of Swords
-79,Alliser Thorne,Male,,In 248 AC (roughly),,Ser,,,,,House Thorne,A Game of Thrones
-80,Allyria Dayne,Female,,,,,,,,,House Dayne of Starfall,A Storm of Swords
-81,Alyce Graceford,Female,,,,Lady,,,,,House Graceford of Holyhall,A Storm of Swords
-82,Alyn Ambrose,Female,,,,,,,,,House Ambrose,A Clash of Kings
-85,Alyn Estermont,Female,Stormlands,,,Ser,,,,,House Estermont of Greenstone,A Clash of Kings
-86,Alyn Frey,Female,,In 295 AC or 296 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-87,Alyn Haigh,Female,,In or between 256 AC or 291 AC,,,,,,,House Haigh,A Clash of Kings
-88,Alyn Hunt,Female,,,,Ser,,,,,House Hunt,A Feast for Crows
-89,Alyn Stackspear,Female,,,,Ser,,,,,House Stackspear,A Game of Thrones
-92,Alys Arryn,Female,,In or between 218 AC and 249 AC,,,,,,373,House Arryn of the Eyrie,House Waynwood of Ironoaks
-93,Alys Arryn,Female,,,,,,,,868,House Arryn of the Eyrie,House Targaryen of King's Landing
-94,Alys Beesbury,Female,,,,,,,,624,House Beesbury of Honeyholt,A Storm of Swords
-95,Alys Frey,Female,,,,,,,,535,House Frey of the Crossing,A Clash of Kings
-97,Alys Karstark,Female,Northmen,,,Lady of Winterfell,,,,207,House Karstark of Karhold,House Stark of Winterfell
-98,Alys Karstark,Female,Northmen,,,,,,,143,House Karstark of Karhold,House Stark of Winterfell
-99,Alysane Mormont,Female,Northmen,In or between ~273 AC and 278 AC,,,The Young She-Bear,,,,House Mormont of Bear Island,A Feast for Crows
-100,Alysanne Bulwer,Female,,In 291 AC,,Lady of Blackcrown,,,,,House Bulwer of Blackcrown,A Storm of Swords
-101,Alysanne Farman,Female,,,,Lady,,,,422,House Farman of Faircastle,House Lannister of Casterly Rock
-102,Alysanne Hightower,Female,,,,,,,,141,House Ambrose,House Hightower of the Hightower
-103,Alysanne Lefford,Female,,,,Lady of Golden Tooth,,,,,House Lefford of the Golden Tooth,A Feast for Crows
-106,Alysanne Tarth,Female,,,,,,,,,House Tarth of Evenfall Hall,A Feast for Crows
-107,Alyssa Arryn,Female,,,,,,,,,House Arryn of the Eyrie,A Game of Thrones
-108,Alyssa Blackwood,Female,,In 253 AC or before,In or between 269 AC and 278 AC,Lady,,,,1093,House Blackwood of Raventree Hall,House Frey of the Crossing
-109,Alyssa Targaryen,Female,Valyrian,In or between 51 AC and 60 AC,,Princess,,,,157,House Targaryen of King's Landing,The World of Ice and Fire
-111,Alyx Frey,Female,,In 282 AC,,,,1004,1217,,House Frey of the Crossing,A Clash of Kings
-112,Amarei Crakehall,Female,,In 245 AC or before,In 264 AC,,,,,1093,House Crakehall of Crakehall,House Frey of the Crossing
-114,Amerei Frey,Female,,In 282 AC,,Lady of Darry,Gatehouse Ami,,,1799,House Frey of the Crossing,House Lannister of Darry
-116,Andar Royce,Male,Valemen,At Runestone,,Ser,,,,,House Royce of Runestone,A Game of Thrones
-118,Andrew Estermont,Male,,,,Ser,,,,,House Estermont of Greenstone,A Clash of Kings
-121,Androw Ashford,Male,Reach,At Ashford,,Ser,,,,,House Ashford of Ashford,The Hedge Knight
-122,Androw Frey,Male,,In 295 AC or 296 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-124,Antario Jast,Male,,,,Lord,,,,616,House Jast,A Clash of Kings
-125,Anya Waynwood,Female,,,,Lady of Ironoaks,,,,,House Waynwood of Ironoaks,A Game of Thrones
-127,Ardrian Celtigar,Male,,In 229 AC or later,,Lord of Claw Isle,the Red Crab,,,,House Celtigar of Claw Isle,A Clash of Kings
-131,Arianne Tarth,Female,,,,,,,,,House Tarth of Evenfall Hall,A Feast for Crows
-133,Armond Caswell,Male,,,,Lord of Bitterbridge,,,,,House Caswell of Bitterbridge,The Mystery Knight
-134,Arnolf Karstark,Male,Northmen,At Karhold,,Castellan of Karhold,Lord Arnolf,,,,House Karstark of Karhold,A Feast for Crows
-136,Arra Norrey,Female,Northern mountain clans,,,Lady of Winterfell,,,,259,House Norrey,House Stark of Winterfell
-138,Arron Qorgyle,Male,,,,Ser,,,,,House Qorgyle of Sandstone,A Storm of Swords
-139,Arstan Selmy,Male,Westeros,,,Lord of Harvest Hall,,,,,House Selmy of Harvest Hall,A Dance with Dragons
-140,Arthor Karstark,Male,Northmen,,,,,,,,House Karstark of Karhold,A Dance with Dragons
-141,Arthur Ambrose,Male,,,,Lord,,,,102,House Ambrose,A Storm of Swords
-143,Artos Stark,Male,Northmen,,,,Artos the Implacable,,,98,House Stark of Winterfell,A Clash of Kings
-145,Arwood Frey,Male,,In or between 263 AC and 281 AC,,Ser,,501,173,948,House Frey of the Crossing,A Clash of Kings
-146,Arwyn Frey,Female,,In 285 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-147,Arwyn Oakheart,Female,,,,Lady of Old Oak,,,,,House Oakheart of Old Oak,A Game of Thrones
-152,Aubrey Ambrose,Male,,,,Ser,,,,,House Ambrose,The Sworn Sword
-155,Baelon Targaryen,Male,Valyrian,At Dragonstone,,,,,,,House Targaryen of King's Landing,The World of Ice and Fire
-160,Baelor I,Female,,144 AC, at King's Landing,171 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm,Baelor the Beloved
-163,Balon Botley,Male,Ironborn,,,,,,,,House Botley of Lordsport,A Feast for Crows
-164,Balon Swann,Male,Stormlander,,,Ser,,,,,House Swann of Stonehelm,A Game of Thrones
-165,Barba Bracken,Female,,In 155 AC,,,,,,,House Bracken of Stone Hedge,A Dance with Dragons
-166,Barbrey Dustin,Female,Northmen,,,Lady of Barrowton,,,,1110,House Dustin of Barrowton,House Ryswell of the Rills
-172,Bayard Norcross,Male,,,,Ser,,,,,House Norcross,A Feast for Crows
-173,Bellena Hawick,Female,,,,,,,,501,House Frey of the Crossing,House Hawick of Saltpans
-176,Benedar Belmore,Male,,,,Lord of Strongsong,,,,,House Belmore of Strongsong,A Feast for Crows
-185,Bennarion Botley,Male,Ironborn,,,,,,,,House Botley of Lordsport,A Feast for Crows
-187,Beony Beesbury,Female,,,,,,,,854,House Beesbury of Honeyholt,House Frey of the Crossing
-188,Beren Tallhart,Male,Northmen,In 289 AC,,,,,,,House Tallhart of Torrhen's Square,A Clash of Kings
-189,Berena Hornwood,Female,Northmen,,,,,,,625,House Hornwood of Hornwood,House Tallhart of Torrhen's Square
-191,Beron Blacktyde,Male,,,,,Blind Beron Blacktyde,,,,House Blacktyde of Blacktyde,A Feast for Crows
-193,Bertram Beesbury,Male,,,,Ser,,,,,House Beesbury of Honeyholt,A Storm of Swords
-196,Bethany Bolton,Female,Northmen,,,Lady of the Dreadfort,,,,933,House Bolton of the Dreadfort,House Ryswell of the Rills
-197,Bethany Bracken,Female,,In 156 AC or later,In 178 AC,,,,,,House Bracken of Stone Hedge,The World of Ice and Fire
-198,Bethany Redwyne,Female,,,,Lady of Goldengrove,,,,731,House Redwyne of the Arbor,House Rowan of Goldengrove
-199,Bethany Rosby,Female,,In 265 AC or before,In or between 282 AC and 284 AC,Lady,,,,1093,House Frey of the Crossing,House Rosby of Rosby
-201,Boremund Harlaw,Male,Ironborn,,,Master of Harridan Hill,Boremund the Blue,,,,House Harlaw of Harridan Hill,A Feast for Crows
-204,Bradamar Frey,Male,,In 289 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-209,Brandon Stark,Female,First Men,,,King of Winter,Bran the Builder,,,,House Stark of Winterfell,A Game of Thrones
-214,Brandon Tallhart,Female,Northmen,In 284 AC or 285 AC,,,,,,,House Tallhart of Torrhen's Square,A Clash of Kings
-215,Branston Cuy,Male,,,,Lord of Sunflower Hall,,,,,House Cuy of Sunhouse,A Feast for Crows
-219,Bryan Frey,Male,,In or between 281 AC and 291 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-224,Buford Bulwer,Male,,,,Ser,The Old Ox,,,,House Bulwer of Blackcrown,The Mystery Knight
-226,Calla Blackfyre,Female,Valyrian,,,,,,,47,House Blackfyre of King's Landing,The World of Ice and Fire
-227,Carellen Smallwood,Female,,,,,,,,,House Smallwood of Acorn Hall,A Storm of Swords
-228,Carolei Waynwood,Female,,,,,,,,417,House Waynwood of Ironoaks,A Clash of Kings
-229,Casper Wylde,Male,,,,Lord of the Rain House,,,,,House Wylde of Rain House,A Dance with Dragons
-231,Cassella Vaith,Female,Dornishmen,,,Lady of Vaith,,,,,House Vaith of the Red Dunes,The Sworn Sword
-234,Cedrik Storm,Male,,,,,the Bastard of Bronzegate,,,,House Buckler of Bronzegate,A Storm of Swords
-235,Cerenna Lannister,Female,,,,,,,,,House Lannister of Casterly Rock,A Game of Thrones
-236,Cerissa Brax,Female,,,,Lady of Casterly Rock,,,,283,House Brax of Hornvale,House Lannister of Casterly Rock
-237,Cersei Frey,Female,,In 292 AC or 293 AC,,,the Little Bee,,,,House Frey of the Crossing,A Clash of Kings
-240,Clarence Charlton,Male,,,,Ser,,,,,House Charlton,The Mystery Knight
-241,Clarence Crabb,Male,,,,Ser,Clarence the Short,,,,House Crabb,A Feast for Crows
-243,Clayton Suggs,Male,,,,Ser,,,,,House Baratheon of Dragonstone,A Feast for Crows
-244,Clement Crabb,Male,,,,Ser,,,,,House Crabb,A Feast for Crows
-245,Clement Piper,Male,Rivermen,,,Lord of Pinkmaiden,,,,,House Piper of Pinkmaiden,A Game of Thrones
-248,Cleyton Caswell,Male,,,,Ser,,,,,House Caswell of Bitterbridge,The Sworn Sword
-249,Colen of Greenpools,Male,,,,Ser,,,,,House Baratheon of Storm's End,A Clash of Kings
-251,Colmar Frey,Male,,In 288 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-252,Corenna Swann,Female,,,,,,,,994,House Frey of the Crossing,House Swann of Stonehelm
-257,Crake,Male,,In Age of Heroes,,,Crake the Boarkiller,,,,House Crakehall of Crakehall,The World of Ice and Fire
-261,Creighton Redfort,Male,Valemen,,,Ser,,,,,House Redfort of Redfort,A Feast for Crows
-262,Cynthea Frey,Female,,In 290 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-263,Cyrenna Swann,Female,,In 236 AC or before,In or between 249 AC and 257 AC,,,,,1093,House Frey of the Crossing,House Swann of Stonehelm
-266,Daella Targaryen,Female,Valyrian,In 199 AC,,Princess,,,,,House Targaryen of King's Landing,The Sworn Sword
-269,Daemon Targaryen,Male,Valyrian,In 81 AC,In 130 AC, at the Gods Eye,Prince,Commander of the City Watch,Master of coin,Master of laws,King of the Stepstones and the Narrow Sea,Protector of the Realm
-271,Daenerys Targaryen,Female,,In 172 AC,,Princess,,,,719,House Nymeros Martell of Sunspear,House Targaryen of King's Landing
-272,Daenora Targaryen,Female,Valyrian,,,Princess,,,,58,House Targaryen of King's Landing,The World of Ice and Fire
-273,Daeron I,Male,,143 AC, at King's Landing,161 AC, at Dorne,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm,The Young Dragon
-277,Daeron Vaith,Male,Dornish,,,Lord of the Red Dunes,,,,,House Vaith of the Red Dunes,A Feast for Crows
-278,Dagon Greyjoy,Male,Ironborn,,,Lord of Pyke,,,,,House Greyjoy of Pyke,A Feast for Crows
-279,Dagos Manwoody,Male,,,,Lord of Kingsgrave,,,,,House Manwoody of Kingsgrave,A Storm of Swords
-281,Dale Drumm,Male,,,,,Dale the Dread,,,,House Drumm of Old Wyk,A Feast for Crows
-284,Damon Lannister,Male,,In 244 AC or 245 AC,,,,,,363,House Lannister of Casterly Rock,The World of Ice and Fire
-285,Damon Marbrand,Male,,,,Lord of Ashemark,,,,,House Marbrand of Ashemark,A Storm of Swords
-286,Damon Paege,Male,,,,Ser,,,,,House Paege,A Clash of Kings
-288,Damon Vypren,Male,,In 265 AC or later,,Ser,,,,,House Vypren,A Clash of Kings
-289,Danelle Lothston,Female,,,,Lady of Harrenhal,Mad Danelle,,,,House Lothston of Harrenhal,A Feast for Crows
-290,Danos Slynt,Male,,,,,,,,,House Slynt of Harrenhal,A Storm of Swords
-291,Danwell Frey,Male,,In or between 252 AC and 261 AC,,Ser,,,,1125,House Frey of the Crossing,A Game of Thrones
-292,Darlessa Marbrand,Female,,,,,,,,1049,House Lannister of Casterly Rock,House Marbrand of Ashemark
-295,Deana Hardyng,Female,,,,,,,,1100,House Frey of the Crossing,House Hardyng
-296,Delena Florent,Female,,,,,,,,500,House Florent of Brightwater Keep,House Norcross
-297,Della Frey,Female,,In 296 AC,,,Deaf Della,,,,House Frey of the Crossing,A Clash of Kings
-298,Delonne Allyrion,Female,Dornish,,,Lady of Godsgrace,,,,,House Allyrion of Godsgrace,A Storm of Swords
-299,Dennis Plumm,Male,,,,Ser,,,,,House Plumm,A Storm of Swords
-301,Denys Darklyn,Male,,,,Lord of Duskendale,,,,967,House Darklyn of Duskendale,A Feast for Crows
-302,Denys Drumm,Male,Ironborn,,,,,,,,House Drumm of Old Wyk,A Feast for Crows
-304,Denys Redwyne,Male,,,,,,,,,House Redwyne of the Arbor,A Feast for Crows
-305,Denyse Hightower,Female,,,,,,,,307,House Hightower of the Hightower,A Feast for Crows
-306,Desmond Grell,Male,,In or between 237 AC and 240 AC (roughly),,Ser,,,,,House Grell,A Game of Thrones
-307,Desmond Redwyne,Male,,,,Ser,,,,305,House Redwyne of the Arbor,A Feast for Crows
-308,Devan Seaworth,Male,,In 287 AC,,,,,,,House Baratheon of Dragonstone,House Seaworth of Cape Wrath
-309,Deziel Dalt,Male,,,,The Knight of Lemonwood,,,,,House Dalt of Lemonwood,A Storm of Swords
-311,Dickon Frey,Male,,In 294 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-312,Dickon Manwoody,Male,,,,,,,,,House Manwoody of Kingsgrave,A Storm of Swords
-313,Dickon Tarly,Male,,In or between 287 AC and 290 AC,,,,,,359,House Tarly of Horn Hill,A Game of Thrones
-314,Domeric Bolton,Male,,In or between 279 AC and 281 AC (roughly),In 297 AC,,,,,,House Bolton of the Dreadfort,A Clash of Kings
-316,Donel Greyjoy,Male,Ironborn,,,,,,,,House Greyjoy of Pyke,A Feast for Crows
-319,Donnel Drumm,Male,Ironborn,,,,,,,,House Drumm of Old Wyk,A Feast for Crows
-320,Donnel Haigh,Male,,In or between 255 AC and 282 AC,,Ser,,,,,House Haigh,A Clash of Kings
-322,Donnel Swann,Male,Stormlander,,,Ser,Ser Donnel the Constant,,,,House Swann of Stonehelm,A Clash of Kings
-323,Donnor Saltcliffe,Male,Ironborn,,,Lord,,,,,House Saltcliffe of Saltcliffe,A Clash of Kings
-327,Dorna Swyft,Female,,,,,,,,605,House Swyft of Cornfield,A Game of Thrones
-332,Duram Bar Emmon,Male,,In 284 AC,,Lord of Sharp Point,,,,,House Bar Emmon of Sharp Point,A Clash of Kings
-334,Dyanna Dayne,Female,,,In or between 201 AC and 209 AC,Lady,,,,695,House Dayne of Starfall,House Targaryen of King's Landing
-337,Eddara Tallhart,Female,Northmen,In 289 AC or 290 AC,,Lady of Torrhen's Square,,,,,House Tallhart of Torrhen's Square,A Clash of Kings
-339,Eddard Stark,Male,Northmen,In 263 AC, at Winterfell,In 299 AC, at Great Sept of Baelor in King's Landing,Lord of Winterfell,Warden of the North,Hand of the King,Protector of the Realm,Regent
-341,Eddison Tollet,Male,Valemen,,,,Dolorous Edd,,,,House Tollett of the Grey Glen,A Clash of Kings
-342,Eden Risley,Male,,,,Ser,,,,,House Risley,The Mystery Knight
-343,Edgerran Oakheart,Male,,,,Lord,Edgerran the Open-Handed,,,,House Oakheart of Old Oak,A Feast for Crows
-344,Edmund Ambrose,Male,,,,Ser,,,,,House Ambrose,A Feast for Crows
-352,Edwyn Frey,Male,,In or between 259 AC and 278 AC,,,,,,534,House Frey of the Crossing,A Clash of Kings
-355,Eglantine,Female,,,,Septa,,,,,House Baratheon of King's Landing,A Feast for Crows
-358,Eldred Codd,Male,Ironborn,,,,,,,,House Codd,A Feast for Crows
-359,Eleanor Mooton,Female,,In 286 AC or 287 AC,,,,,,313,House Mooton of Maidenpool,House Tarly of Horn Hill
-362,Elinor Tyrell,Female,,In 286 AC (roughly),,,,,,,House Tyrell of Highgarden,A Storm of Swords
-363,Ella Lannister,Female,,,,,,,,284,House Lannister of Casterly Rock,The World of Ice and Fire
-364,Ellaria Sand,Female,Dornish,,,,The serpent's whore,,,1770,House Nymeros Martell of Sunspear,House Uller of Hellholt
-365,Ellery Vance,Female,,,,Ser,,,,,House Vance of Atranta,A Storm of Swords
-366,Ellyn Ever Sweet,Female,,,,,,,,,House Beesbury of Honeyholt,The World of Ice and Fire
-368,Elmar Frey,Male,,In 290 AC,,,,,,,House Frey of the Crossing,A Game of Thrones
-369,Elwood Meadows,Male,Reach,In 278 AC or 279 AC,,Lord of Grassy Vale,,,,,House Baratheon of Dragonstone,House Meadows of Grassy Vale
-370,Elyana Vypren,Female,,In or between 264 AC and 282 AC,,,,,,587,House Vypren,House Wylde of Rain House
-371,Elyas Willum,Male,,,,,,,,,House Willum,A Clash of Kings
-372,Elyn Norridge,Female,,,,,,,,665,House Norridge,House Tyrell of Highgarden
-373,Elys Waynwood,Male,,,,Ser,,,,92,House Waynwood of Ironoaks,A Feast for Crows
-374,Elys Westerling,Male,,,,Ser,,,,,House Westerling of the Crag,A Storm of Swords
-375,Emberlei Frey,Female,,In 296 AC or 297 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-377,Emmon Frey,Male,,In 237 AC or 238 AC,,Lord of Riverrun,Emm,,,415,House Frey of Riverrun,House Lannister of Casterly Rock
-378,Emphyria Vance,Female,,,,,,,,,House Vance of Wayfarer's Rest,A Feast for Crows
-380,Eon Hunter,Female,,In 220 AC or before (roughly),In +/- 300 AC,Lord of Longbow Hall,Old Lord Hunter,,,,House Hunter of Longbow Hall,A Game of Thrones
-381,Erena Glover,Female,Northmen,In 297 AC or 298 AC,,,,,,,House Glover of Deepwood Motte,A Clash of Kings
-382,Ermesande Hayford,Female,,In 298 AC,,Lady of Hayford,,,,1051,House Hayford of Hayford,House Lannister of Casterly Rock
-383,Erren Florent,Female,,,,Ser,,,,,House Florent of Brightwater Keep,A Clash of Kings
-387,Eustace Hunter,Male,,,,Ser,,,,,House Hunter of Longbow Hall,A Feast for Crows
-391,Falena Stokeworth,Female,,In 125 AC,,Lady of Harrenhal,,,,656,House Lothston of Harrenhal,House Stokeworth of Stokeworth
-393,Flement Brax,Male,,,,Ser,,,,765,House Brax of Hornvale,A Game of Thrones
-394,Forley Prester,Male,,,,Ser,,,,,House Prester of Feastfires,A Game of Thrones
-395,Foss the Archer,Male,,,,,,,,,House Fossoway of Cider Hall,The World of Ice and Fire
-397,Galbart Glover,Male,Northmen,At Deepwood Motte,,Master of Deepwood Motte,,,,,House Glover of Deepwood Motte,A Game of Thrones
-402,Garrett Paege,Male,,,,,,,,,House Paege,A Feast for Crows
-403,Garrison Prester,Male,,,,Lord of Feastfires,,,,,House Prester of Feastfires,A Feast for Crows
-407,Garth Hightower,Male,,At Oldtown,,Ser,Garth Greysteel,,,,House Hightower of the Hightower,A Feast for Crows
-408,Garth Tyrell,Male,,,,Lord Seneschal,Garth the Gross,,,,House Tyrell of Highgarden,A Game of Thrones
-411,Gawen Glover,Male,Northmen,In 295 AC or 296 AC,,,,,,,House Glover of Deepwood Motte,A Clash of Kings
-413,Gawen Westerling,Male,Westermen,,,Lord of the Crag,,,,997,House Westerling of the Crag,A Game of Thrones
-415,Genna Lannister,Female,,In 245 AC,,Lady,,,,377,House Frey of Riverrun,House Lannister of Casterly Rock
-416,Gerald Gower,Male,,,,Ser,,,,,House Gower,A Storm of Swords
-417,Geremy Frey,Male,,In 263 AC,In or between 289 AC and 299 AC,Ser,,,,228,House Frey of the Crossing,A Clash of Kings
-418,Gerion Lannister,Male,,In 255 AC,In circa 291 AC,,Gery,,,,House Lannister of Casterly Rock,A Game of Thrones
-419,Germund Botley,Male,Ironborn,,,Lord of Lordsport,,,,,House Botley of Lordsport,A Feast for Crows
-420,Gerold Grafton,Male,,,,Lord of Gulltown,,,,,House Grafton of Gulltown,A Feast for Crows
-425,Gilbert of the Vines,Male,,,,,,,,,House Redwyne of the Arbor,The World of Ice and Fire
-430,Godry Farring,Male,,,,Ser,Godry the Giantslayer,,,,House Baratheon of Dragonstone,House Farring
-432,Gormond Drumm,Male,Ironborn,,,,Gormond the Oldfather,,,,House Drumm of Old Wyk,A Feast for Crows
-433,Gormond Goodbrother,Male,Ironborn,In 282 AC or 283 AC,,,,,,,House Goodbrother of Hammerhorn,A Feast for Crows
-434,Gorold Goodbrother,Male,Ironborn,,,Lord of Hammerhorn,,,,,House Goodbrother of Hammerhorn,A Clash of Kings
-435,Gowen Baratheon,Male,,,,,,,,1044,House Baratheon of Storm's End,A Game of Thrones
-436,Gran Goodbrother,Male,Ironborn,,,,,,,,House Goodbrother of Hammerhorn,A Feast for Crows
-437,Grance Morrigen,Male,,,,Ser,,,,,House Morrigen of Crow's Nest,The Hedge Knight
-440,Greydon Goodbrother,Male,Ironborn,,,,,,,,House Goodbrother of Hammerhorn,A Feast for Crows
-441,Gulian Qorgyle,Male,,,,Ser,,,,,House Qorgyle of Sandstone,A Feast for Crows
-442,Gulian Swann,Male,,In 259 AC or before,,Lord of Stonehelm,,,,,House Swann of Stonehelm,A Clash of Kings
-444,Gunthor Hightower,Male,,,,Ser,,,,552,House Hightower of the Hightower,A Feast for Crows
-445,Guthor Grimm,Male,,,,Lord of Greyshield,,,,,House Grimm of Greyshield,A Feast for Crows
-447,Gwayne Corbray,Male,,,,Ser,,,,,House Corbray of Heart's Home,A Feast for Crows
-448,Gwayne Gaunt,Male,,,At Duskendale,Ser,,,,,House Gaunt,A Storm of Swords
-450,Gwin Goodbrother,Female,Ironborn,,,,,,,,House Goodbrother of Hammerhorn,A Feast for Crows
-451,Gwynesse Harlaw,Female,Ironborn,,,,,,,,House Harlaw of Harlaw,A Feast for Crows
-452,Gwyneth Yronwood,Female,Dornish,In 287 AC or 288 AC,,,,,,,House Yronwood of Yronwood,A Dance with Dragons
-453,Gylbert Farwynd,Male,Ironborn,,,Lord of the Lonely Light,,,,,House Farwynd of the Lonely Light,A Storm of Swords
-455,Gyles Farwynd,Male,Ironborn,,,,,,,,House Farwynd of the Lonely Light,A Feast for Crows
-456,Gyles Grafton,Male,,,,,,,,,House Grafton of Gulltown,A Feast for Crows
-459,Gysella Goodbrother,Female,Ironborn,,,,,,,,House Goodbrother of Hammerhorn,A Feast for Crows
-461,Hallis Mollen,Male,Northmen,,,Captain of the guards for Winterfell,Hal,,,,House Mollen,House Stark of Winterfell
-462,Halmon Paege,Male,,,,Ser,,,,,House Paege,A Clash of Kings
-464,Harbert Paege,Male,,,,Ser,,,,,House Paege,The Mystery Knight
-466,Harlan Hunter,Male,,,,Ser,,,,,House Hunter of Longbow Hall,A Game of Thrones
-468,Harlon Botley,Male,Ironborn,,,,,,,,House Botley of Lordsport,A Feast for Crows
-469,Harlon Greyjoy,Male,Ironborn,,At Pyke,,,,,,House Greyjoy of Pyke,A Feast for Crows
-470,Harmen Uller,Male,,,,Lord of Hellholt,,,,,House Uller of Hellholt,A Storm of Swords
-471,Harmond Umber,Male,Northmen,,,Lord of the Last Hearth,The Drunken Giant,,,,House Umber of the Last Hearth,A Dance with Dragons
-476,Harrion Karstark,Male,Northmen,At Karhold,,Lord of Karhold,Harry,,,,House Karstark of Karhold,A Game of Thrones
-478,Harrold Osgrey,Male,,,At the Redgrass Field,Ser,,,,,House Osgrey of Standfast,The Sworn Sword
-480,Harry Strickland,Male,,,,Captain-General,Homeless Harry Strickland,,,,House Strickland,A Dance with Dragons
-483,Harwood Stout,Male,Northmen,,,Lord of Goldgrass,,,,,House Dustin of Barrowton,House Stout of Goldgrass
-485,Harwyn Plumm,Male,,,,Ser,Hardstone,,,,House Plumm,A Storm of Swords
-486,Harys Haigh,Male,,In or between 254 AC and 282 AC,,Ser,,,,,House Frey of the Crossing,House Haigh
-489,Helicent Uffering,Female,,In 171 AC (roughly),,,,,,,House Uffering,The Sworn Sword
-492,Herrock Kenning,Male,Ironborn,,,Lord of Kayce,Herrock the Whoreson,,,,House Kenning of Harlaw,House Kenning of Kayce
-493,Hilmar Drumm,Male,Ironborn,,,,Hilmar the Cunning,,,,House Drumm of Old Wyk,A Feast for Crows
-494,Hoare,Male,,,,Lord Commander of the Night's Watch,,,,,House Hoare of Orkmont,A Game of Thrones
-495,Hoarfrost Umber,Male,Northmen,,,Lord of the Last Hearth,,,,,House Umber of the Last Hearth,A Dance with Dragons
-496,Hobber Redwyne,Male,Reach,At the Arbor,,Ser,Slobber,,,,House Redwyne of the Arbor,A Game of Thrones
-497,Hooded Man,Male,,In Age of Heroes,,,,,,,House Banefort of Banefort,The World of Ice and Fire
-498,Horas Redwyne,Male,Reach,At the Arbor,,Ser,Horror,,,,House Redwyne of the Arbor,A Game of Thrones
-499,Horton Redfort,Male,Valemen,,,Lord of Redfort,,,,,House Redfort of Redfort,A Storm of Swords
-500,Hosman Norcross,Male,,,,Ser,,,,296,House Norcross,A Clash of Kings
-501,Hosteen Frey,Male,,In or between 250 AC and 258 AC,,Ser,Ser Stupid,,,173,House Frey of the Crossing,A Game of Thrones
-502,Hoster Frey,Male,,In 287 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-505,Hotho Harlaw,Male,Ironborn,,,Master of the Tower of Glimmering,Hotho Humpback,,,,House Harlaw of the Tower of Glimmering,A Feast for Crows
-509,Hugh Beesbury,Male,,,,Ser,,,,,House Beesbury of Honeyholt,A Feast for Crows
-510,Hugh Grandison,Male,,,,Lord of Grandview,Greybeard,,,,House Grandison of Grandview,A Feast for Crows
-511,Hugo Vance,Male,,,,Ser,,,,,House Vance of Atranta,A Storm of Swords
-515,Humfrey Hewett,Male,,,,Lord of Oakenshield,,,,,House Hewett of Oakenshield,A Feast for Crows
-516,Humfrey Swyft,Male,,,,Ser,,,,,House Swyft of Cornfield,A Feast for Crows
-518,Hyle Hunt,Male,,,,Ser,,,,,House Hunt,A Feast for Crows
-519,Igon Vyrwel,Male,,,,,,,,,House Tyrell of Highgarden,House Vyrwel of Darkdell
-521,Ilyn Payne,Male,Westeros,,,Ser King's Justice,,,,,House Payne,A Game of Thrones
-523,Jacelyn Bywater,Male,,,In 299 AC, at King's Landing,Ser,Captain of the Mud Gate,Commander of the City Watch,Lord,Ironhand,
-526,Jaehaerys I,Male,,34 AC, at King's Landing,103 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm,The Conciliator
-527,Jaehaerys II,Male,,225 AC, at King's Landing,262 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm,
-528,Jaime Frey,Female,,In 299 AC or 300 AC,,,,,,,House Frey of the Crossing,A Feast for Crows
-530,Jammos Frey,Male,,In 266 AC or 267 AC,,Ser,,,,952,House Frey of the Crossing,A Clash of Kings
-531,Janei Lannister,Female,,In 296 AC or 297 AC,,,,,,,House Lannister of Casterly Rock,A Game of Thrones
-532,Janna Tyrell,Female,,,,,,,,577,House Fossoway of New Barrel,House Tyrell of Highgarden
-534,Janyce Hunter,Female,,,,,,,,352,House Frey of the Crossing,House Hunter of Longbow Hall
-535,Jared Frey,Male,,At 248 AC or 249 AC,In 300 AC (suspected),Ser,,,,95,House Frey of the Crossing,A Game of Thrones
-537,Jarman Buckwell,Male,,,In 300 AC (supposedly),Ser,,,,,House Buckwell of the Antlers,A Clash of Kings
-539,Jason Mallister,Male,,At Seagard,,Lord of Seagard,,,,,House Mallister of Seagard,A Game of Thrones
-541,Jasper Redfort,Male,Valemen,,,Ser,,,,,House Redfort of Redfort,A Feast for Crows
-542,Jasper Waynwood,Male,,,,,,,,,House Waynwood of Ironoaks,A Feast for Crows
-544,Jeffory Mallister,Male,,,At King's Landing,,,,,,House Mallister of Seagard,A Clash of Kings
-545,Jeffory Norcross,Male,,,,Ser,Neveryield,,,,House Norcross,A Feast for Crows
-546,Jena Dondarrion,Female,,,,,,,,161,House Dondarrion of Blackhaven,House Targaryen of King's Landing
-549,Jeyne Beesbury,Female,,,,,,,,866,House Beesbury of Honeyholt,House Frey of the Crossing
-550,Jeyne Darry,Female,Westeros,,,,,,,1275,House Darry of Darry,A Storm of Swords
-551,Jeyne Farman,Female,,,,,,,,1403,House Clifton,House Farman of Faircastle
-552,Jeyne Fossoway,Female,,,,,,,,444,House Fossoway of New Barrel,A Feast for Crows
-553,Jeyne Goodbrook,Female,,In 293 AC,,,,,,,House Goodbrook,A Clash of Kings
-554,Jeyne Lothston,Female,,In 164 AC,,,,,,,House Lothston of Harrenhal,The World of Ice and Fire
-555,Jeyne Lydden,Female,,,,,,,,994,House Lydden of Deep Den,A Clash of Kings
-556,Jeyne Marbrand,Female,,,In 255 AC,Lady of Casterly Rock,,,,1057,House Lannister of Casterly Rock,House Marbrand of Ashemark
-557,Jeyne Poole,Female,Northmen,At Winterfell,,,Arya Stark,,,849,House Poole,A Game of Thrones
-558,Jeyne Royce,Female,,,,,,,,572,House Arryn of the Eyrie,House Royce of Runestone
-559,Jeyne Swann,Female,,,,,,,,,House Swann of Stonehelm,A Storm of Swords
-563,Joanna Swyft,Female,,,,,,,,,House Swyft of Cornfield,A Storm of Swords
-564,Jocelyn Swyft,Female,,,,,,,,,House Swyft of Cornfield,A Feast for Crows
-566,Joffrey Caswell,Male,,In 190 AC or 191 AC,,Lord of Bitterbridge,,,,,House Caswell of Bitterbridge,The Mystery Knight
-568,Johanna Lannister,Female,,At the Crag,,Lady of Casterly Rock,,,,538,House Lannister of Casterly Rock,House Westerling of the Crag
-569,Johanna Swann,Female,,,,,The Black Swan,,,,House Swann of Stonehelm,The Rogue Prince
-570,John the Oak,Male,,,,,The First Knight,,,,House Oakheart of Old Oak,The World of Ice and Fire
-573,Jon Bettley,Male,,,,Ser,Beardless Jon,,,,House Bettley,A Feast for Crows
-574,Jon Brax,Male,,In 296 AC,,,,,,,House Brax of Hornvale,A Clash of Kings
-575,Jon Bulwer,Male,,,,Lord of Blackcrown,,,,1073,House Bulwer of Blackcrown,A Storm of Swords
-578,Jon Hollard,Male,,,,Ser,,,,,House Hollard,A Feast for Crows
-579,Jon Lynderly,Male,,,,Lord of the Snakewood,,,,,House Lynderly of the Snakewood,A Feast for Crows
-580,Jon Myre,Male,Ironborn,,,,Pinchface Jon,,,,House Myre of Harlaw,A Storm of Swords
-581,Jon Penrose,Male,,,,Ser,,,,,House Penrose of Parchments,The Hedge Knight
-582,Jon Redfort,Male,Valemen,,,Ser,,,,,House Redfort of Redfort,A Feast for Crows
-583,Jon Snow,Male,Northmen,In 283 AC,,Lord Commander of the Night's Watch,Lord Snow,Ned Stark's Bastard,The Snow of Winterfell,The Crow-Come-Over,The 998th Lord Commander of the Night's Watch,The Bastard of Winterfell
-584,Jon Stark,Male,,,,King in the North,,,,,House Stark of Winterfell,A Game of Thrones
-587,Jon Wylde,Male,,,,Ser,,,,370,House Wylde of Rain House,A Clash of Kings
-590,Jonos Frey,Male,,In 291 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-594,Jorelle Mormont,Female,Northmen,In or between 278 AC and 289 AC,,,Jory,,,,House Mormont of Bear Island,A Feast for Crows
-596,Joseth Mallister,Male,,,,Ser,,,,,House Mallister of Seagard,The Hedge Knight
-597,Josmyn Peckledon,Male,,In 284 AC or 285 AC,,,Peck,,,,House Peckledon,A Clash of Kings
-598,Josua Willum,Male,,,,,,,,,House Willum,A Clash of Kings
-599,Jothos Slynt,Male,,,,,,,,,House Slynt of Harrenhal,A Storm of Swords
-600,Joyeuse Erenford,Female,,In 282 AC or 283 AC,,Lady of the Crossing,,,,1093,House Erenford,House Frey of the Crossing
-601,Justin Massey,Male,,,,Ser,The Smiler,,,,House Baratheon of Dragonstone,House Massey of Stonedance
-602,Jyanna Frey,Female,,,,,,,,180,House Frey of the Crossing,A Clash of Kings
-603,Karlon Stark,Male,Northmen,,,Lord of Karl's Hold,,,,,House Karstark of Karhold,House Stark of Winterfell
-606,Kirth Vance,Male,,,,,,,,,House Vance of Atranta,A Storm of Swords
-607,Kyle Condon,Male,,,,Ser,,,,,House Condon,A Storm of Swords
-608,Kyle Royce,Male,,,At King's Landing,,,,,,House Royce of Runestone,A Clash of Kings
-609,Kyra Frey,Female,,In or between 262 AC and 277 AC,,,,,,404,House Frey of the Crossing,A Clash of Kings
-612,Lambert Turnberry,Male,,,,Ser,,,,,House Turnberry,A Feast for Crows
-615,Lann,Male,,In Age of Heroes,,,Lann the Clever,,,,House Lannister of Casterly Rock,A Game of Thrones
-616,Lanna Lannister,Female,,In or between 271 AC and 286 AC,,,,,,124,House Jast,House Lannister of Casterly Rock
-617,Larence Snow,Male,Northmen,In 286 AC,,,,,,,House Hornwood of Hornwood,A Clash of Kings
-619,Leana Frey,Female,,In 299 AC or 300 AC,,,,,,,House Frey of the Crossing,A Feast for Crows
-620,Lenwood Tawney,Male,Ironborn,,,,Little Lenwood Tawney,,,,House Tawney of Orkmont,A Feast for Crows
-621,Leo Blackbar,Male,,,,Ser,,,,783,House Blackbar of Bandallon,A Storm of Swords
-624,Leo Tyrell,Male,,,,Ser,,,,94,House Tyrell of Highgarden,A Storm of Swords
-626,Leona Tyrell,Female,,,,,,,,,House Tyrell of Highgarden,A Storm of Swords
-627,Leona Woolfield,Female,,,,,,,,1122,House Manderly of White Harbor,House Woolfield
-628,Leonella Lefford,Female,,,,,,,,649,House Frey of the Crossing,House Lefford of the Golden Tooth
-629,Leslyn Haigh,Female,,,,Ser,,,,819,House Haigh,A Clash of Kings
-630,Lester Morrigen,Male,,,,Lord of Crows Nest,,,,,House Morrigen of Crow's Nest,A Storm of Swords
-632,Lewys Lydden,Male,,,,Lord of the Deep Den,,,,,House Lydden of Deep Den,A Game of Thrones
-633,Lewys Piper,Male,Rivermen,,,,Little Lew,,,,House Piper of Pinkmaiden,A Feast for Crows
-634,Leyla Hightower,Female,,,,,,,,1553,House Hightower of the Hightower,A Feast for Crows
-635,Leyton Hightower,Male,,,,Lord of the Hightower,Lord of the Port,Voice of Oldtown,Defender of the Citadel,Beacon of the South,Old Man of Oldtown,
-636,Lia Serry,Female,,,,,,,,1019,House Serry of Southshield,House Tyrell of Highgarden
-637,Liane Vance,Female,,,,,,,,,House Vance of Wayfarer's Rest,A Feast for Crows
-638,Lollys Stokeworth,Female,,In 265 AC,,Lady of Stokeworth,Lollys Lackwit,,,217,House Stokeworth of Stokeworth,A Clash of Kings
-639,Lomas Estermont,Male,Stormlands,,,Ser,,,,,House Estermont of Greenstone,A Clash of Kings
-641,Lord Ashford,Male,Reach,,,Lord of Ashford,,,,,House Ashford of Ashford,The Hedge Knight
-645,Lorent Lorch,Male,,,,Ser,,,,,House Lorch,A Feast for Crows
-647,Lorent Tyrell,Male,,,,,,,,,House Tyrell of Highgarden,A Storm of Swords
-648,Lorra Royce,Female,,,,Lady of Winterfell,,,,192,House Royce of Runestone,House Stark of Winterfell
-651,Lothor Brune,Female,,,,Ser,Lothor Apple-Eater,,,,House Baelish of Harrenhal,House Brune of Brownhollow
-652,Lucamore Strong,Male,,,,Ser,Lucamore the Lusty,,,,House Strong of Harrenhal,A Feast for Crows
-653,Lucas Codd,Male,Ironborn,,,,Left-Hand Lucas,,,,House Codd,A Feast for Crows
-654,Lucas Corbray,Male,,,,Ser,,,,,House Corbray of Heart's Home,A Feast for Crows
-658,Lucas Tyrell,Male,,,,,,,,,House Tyrell of Highgarden,A Storm of Swords
-660,Lucias Vypren,Male,,,,Lord,,,,690,House Vypren,A Clash of Kings
-661,Lucimore Botley,Male,Ironborn,,,,,,,,House Botley of Lordsport,A Feast for Crows
-662,Lucion Lannister,Male,,In or between 270 AC and 285 AC,,Ser,,,,,House Lannister of Casterly Rock,A Storm of Swords
-663,Lucos Chyttering,Male,,In 283 AC,,Lord,Little Lucos,,,,House Chyttering,A Storm of Swords
-665,Luthor Tyrell,Male,,,,Ser,,,,372,House Tyrell of Highgarden,A Storm of Swords
-666,Luthor Tyrell,Male,,,,,,,,,House Tyrell of Highgarden,A Storm of Swords
-667,Lyanna Mormont,Female,Northmen,In 290 AC,,,,,,,House Mormont of Bear Island,A Feast for Crows
-668,Lyarra Stark,Female,Northmen,,,,,,,887,House Stark of Winterfell,The World of Ice and Fire
-670,Lyle Crakehall,Male,,At Crakehall,,Ser,Strongboar,,,,House Crakehall of Crakehall,A Clash of Kings
-673,Lymond Goodbrook,Male,,,,Lord,,,,,House Goodbrook,A Storm of Swords
-674,Lymond Lychester,Male,Rivermen,,,Lord of Castle Lychester,,,,,House Lychester,A Storm of Swords
-675,Lymond Mallister,Male,,,,Lord of Seagard,,,,,House Mallister of Seagard,The Rogue Prince
-676,Lymond Vikary,Male,,,,Ser,,,,,House Vikary,A Clash of Kings
-677,Lyn Corbray,Male,,At Heart's Home,,Ser,,,,,House Corbray of Heart's Home,A Game of Thrones
-678,Lynesse Hightower,Female,,,,,,,,1560,House Hightower of the Hightower,A Clash of Kings
-679,Lyonel Baratheon,Male,,,In or between 239 AC and 245 AC,Ser  Lord of Storm's End Lord Paramount of the Stormlands  Storm King (briefly),The Laughing Storm,,,,House Baratheon of Storm's End,The Hedge Knight
-682,Lyonel Frey,Male,,In or between 259 AC and 283 AC,,Ser,,,,741,House Frey of Riverrun,A Clash of Kings
-686,Lyonel Tyrell,Male,,,,,,,,,House Tyrell of Highgarden,A Storm of Swords
-687,Lyra Mormont,Female,Northmen,In or between 277 AC and 288 AC,,,,,,,House Mormont of Bear Island,A Feast for Crows
-689,Lysa Meadows,Female,,,,,,,,785,House Meadows of Grassy Vale,House Tyrell of Highgarden
-690,Lythene Frey,Female,,In 251 AC and 259 AC,,,,,,660,House Frey of the Crossing,A Clash of Kings
-692,Maege Mormont,Female,Northmen,In or between 239 AC and 257 AC,,Lady of Bear Island,The She-Bear,,,,House Mormont of Bear Island,A Game of Thrones
-693,Maegelle Frey,Female,,In or between 249 AC and 266 AC,,,,,,1305,House Frey of the Crossing,A Clash of Kings
-695,Maekar I,Male,,or between 174 AC and 178 AC, at King's Landing,233 AC, at Starpike,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm,Prince of Summerhall
-698,Maldon Massey,Male,First Men,,,Lord of Stonedance,,,,,House Massey of Stonedance,The World of Ice and Fire
-700,Malwyn Frey,Male,,In 284 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-702,Manfred Dondarrion,Male,,,,Ser,,,,,House Dondarrion of Blackhaven,The Hedge Knight
-703,Manfred Lothston,Male,,,,,,,,,House Lothston of Harrenhal,The Sworn Sword
-704,Manfred Swann,Male,,,,Ser,,,,,House Swann of Stonehelm,A Storm of Swords
-706,Manfryd Lothston,Male,,,,,Manfryd o' the Black Hood,,,,House Lothston of Harrenhal,A Feast for Crows
-707,Manfryd Yew,Male,,,,Ser,,,,,House Yew,A Feast for Crows
-708,Margot Lannister,Female,,,,Lady of Starpike,,,,1027,House Lannister of Casterly Rock,House Peake of Starpike
-709,Mariah Martell,Female,Dornish,,,Princess,Myriah Martell,,,274,House Nymeros Martell of Sunspear,House Targaryen of King's Landing
-711,Marissa Frey,Female,,In 286 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-712,Mariya Darry,Female,,,,,,,,751,House Darry of Darry,House Frey of the Crossing
-713,Mark Mullendore,Male,,,,Ser,,,,,House Mullendore of Uplands,A Clash of Kings
-716,Marna Locke,Female,Northmen,,,Lady of Winterfell,,,,351,House Locke of Oldcastle,House Stark of Winterfell
-717,Maron Botley,Male,,,,,Fishwhiskers,,,,House Botley of Lordsport,A Clash of Kings
-719,Maron Nymeros Martell,Male,Dornish,,,Prince of Dorne,,,,271,House Nymeros Martell of Sunspear,A Feast for Crows
-721,Marq Piper,Male,Rivermen,At Pinkmaiden Castle,,Ser,,,,,House Piper of Pinkmaiden,A Game of Thrones
-723,Marsella Waynwood,Female,,,,,,,,994,House Frey of the Crossing,House Waynwood of Ironoaks
-725,Martyn Lannister,Male,,In or between 285 AC and 287 AC,,,,,,,House Lannister of Casterly Rock,A Game of Thrones
-726,Martyn Mullendore,Male,,,,Lord of Uplands,,,,,House Mullendore of Uplands,A Feast for Crows
-727,Marwyn Belmore,Male,,,,Ser,Ser Ding-Dong,,,,House Belmore of Strongsong,A Clash of Kings
-728,Mary Mertyns,Female,Westeros,,,Lady of Mistwood,,,,,House Mertyns of Mistwood,A Dance with Dragons
-730,Mathis Frey,Male,,In 294 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-732,Maynard Plumm,Male,,,,Ser,,,,,House Plumm,The Mystery Knight
-736,Megga Tyrell,Female,,In 286 AC (roughly),,,,,,,House Tyrell of Highgarden,A Storm of Swords
-737,Melantha Blackwood,Female,,,,Lady of Winterfell,,,,1111,House Blackwood of Raventree Hall,House Stark of Winterfell
-738,Melara Crane,Female,,,,,,,,72,House Crane of Red Lake,House Florent of Brightwater Keep
-739,Melara Hetherspoon,Female,,In 264 AC or 265 AC,In 276 AC,,,,,,House Hetherspoon,A Feast for Crows
-740,Meldred Merlyn,Male,Ironborn,,,Lord of Pebbleton,The Merlyn,,,,House Merlyn of Pebbleton,A Clash of Kings
-741,Melesa Crakehall,Female,,,,,,,,682,House Crakehall of Crakehall,A Clash of Kings
-742,Melessa Florent,Female,,,,,,,,850,House Florent of Brightwater Keep,House Tarly of Horn Hill
-744,Melissa Blackwood,Female,,In or between 156 AC and 160 AC,,,Missy,,,,House Blackwood of Raventree Hall,A Dance with Dragons
-745,Melwyn Sarsfield,Male,,,,Ser,,,,974,House Sarsfield of Sarsfield,A Storm of Swords
-746,Meredyth Crane,Female,,At Red Lake,,,Merry,,,,House Crane of Red Lake,A Storm of Swords
-747,Merianne Frey,Female,,In 288 AC,,,Merry Frey,,,,House Frey of the Crossing,A Clash of Kings
-748,Merlon Crakehall,Male,,,,Ser,,,,,House Crakehall of Crakehall,A Storm of Swords
-750,Merrell Florent,Male,,,,,,,,,House Florent of Brightwater Keep,A Clash of Kings
-752,Meryn Trant,Male,,,,Ser,,,,,House Trant of Gallowsgrey,A Game of Thrones
-753,Michael Mertyns,Male,,,,Ser,The White Owl,,,,House Mertyns of Mistwood,A Feast for Crows
-754,Mina Tyrell,Female,,,,,,,,815,House Redwyne of the Arbor,House Tyrell of Highgarden
-755,Minisa Whent,Female,Rivermen,,At Riverrun,Lady of Riverrun,,,,503,House Tully of Riverrun,House Whent of Harrenhal
-759,Morgil Hastwyck,Male,,,,Ser,,,,,House Hastwyck,House Targaryen of King's Landing
-760,Moribald Chester,Male,,,,Lord of Greenshield,,,,,House Chester of Greenshield,A Feast for Crows
-761,Morros Slynt,Male,,,,Lord,,,,,House Slynt of Harrenhal,A Clash of Kings
-762,Mors Manwoody,Male,,,,,,,,,House Manwoody of Kingsgrave,A Storm of Swords
-763,Mors Martell,Male,,In 248 AC or 257 AC,In 248 AC or 258 AC,,,,,,House Nymeros Martell of Sunspear,A Feast for Crows
-765,Morya Frey,Female,,In 268 AC or 269 AC,,Lady,,,,393,House Brax of Hornvale,House Frey of the Crossing
-768,Mychel Redfort,Female,Valemen,,,Ser,,,,1133,House Redfort of Redfort,A Game of Thrones
-769,Mylenda Caron,Female,,In or between 258 AC and 265 AC,,,,,,824,House Caron of Nightsong,House Frey of the Crossing
-770,Myles Manwoody,Male,,,,Ser,,,,,House Manwoody of Kingsgrave,A Storm of Swords
-772,Myles Smallwood,Male,,,,Hand of the King,,,,,House Smallwood of Acorn Hall,A Storm of Swords
-773,Myranda Lefford,Female,,,,,,,,984,House Lannister of Casterly Rock,House Lefford of the Golden Tooth
-774,Myranda Royce,Female,,In 279 AC (roughly),,,Randa,,,,House Royce of the Gates of the Moon,A Clash of Kings
-776,Myria Jordayne,Female,,,,,,,,,House Jordayne of the Tor,A Storm of Swords
-777,Myriame Manderly,Female,Northmen,,,Lady of Winterfell,,,,918,House Manderly of White Harbor,House Stark of Winterfell
-778,Myrielle Lannister,Female,,,,,,,,,House Lannister of Casterly Rock,A Game of Thrones
-780,Norbert Vance,Male,,,,Lord of Atranta,,,,,House Vance of Atranta,A Storm of Swords
-781,Nymella Toland,Female,Dornish,,,Lady of Ghost Hill,,,,,House Toland of Ghost Hill,A Storm of Swords
-783,Olene Tyrell,Female,,,,,,,,621,House Tyrell of Highgarden,A Storm of Swords
-785,Olymer Tyrell,Male,,,,Ser,,,,689,House Tyrell of Highgarden,A Storm of Swords
-786,Olyvar Frey,Male,,In 281 AC,,,,,,,House Frey of the Crossing,A Game of Thrones
-787,Olyvar Oakheart,Male,,,In 161 AC,Ser,The Green Oak,,,,House Oakheart of Old Oak,A Feast for Crows
-788,Ondrew Locke,Male,Northmen,,,Lord of Oldcastle,,,,,House Locke of Oldcastle,A Clash of Kings
-789,Orbert Caswell,Male,,,At Castle Black,Lord Commander of the Night's Watch,The Black Centaur,,,,House Caswell of Bitterbridge,A Feast for Crows
-791,Ormond Osgrey,Male,,,,Lord of Coldmoat,,,,,House Osgrey of Standfast,The Sworn Sword
-792,Ormond Westerling,Male,,,,Ser,,,,,House Westerling of the Crag,The Hedge Knight
-795,Ormund Wylde,Male,,,,Ser,,,,,House Baratheon of Dragonstone,House Wylde of Rain House
-798,Osbert Serry,Male,,,,Lord of Southshield,,,,,House Serry of Southshield,A Feast for Crows
-800,Osmund Frey,Male,,In 297 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-801,Osmund Kettleblack,Male,,,,Ser,Oswald Kettleblack,,,,House Kettleblack,A Clash of Kings
-802,Osney Kettleblack,Male,,,,Ser,,,,,House Kettleblack,A Clash of Kings
-803,Ossifer Plumm,Male,,,In 176 AC,Lord,,,,1358,House Plumm,A Storm of Swords
-804,Oswell Kettleblack,Male,,,,,Kettleblack,,,,House Baelish of Harrenhal,House Kettleblack
-806,Othell Yarwyck,Male,,,,First Builder,,,,,House Yarwyck,A Game of Thrones
-807,Otho Bracken,Male,,,,Ser,The Brute of Bracken,,,,House Bracken of Stone Hedge,The Hedge Knight
-810,Owen Inchfield,Male,,,,Ser,,,,,House Inchfield,A Feast for Crows
-812,Parmen Crane,Male,,At Red Lake,,Ser,Parmen the Purple,,,,House Crane of Red Lake,A Clash of Kings
-813,Pate,Male,First Men,,,,Pate the Plowman,,,,House Moreland,The World of Ice and Fire
-814,Patrek Mallister,Male,,,,,,,,,House Mallister of Seagard,A Game of Thrones
-817,Perra Frey,Female,,In 294 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-818,Perra Royce,Female,,In 221 AC or before,In or between 241 AC and 249 AC,,,,,1093,House Frey of the Crossing,House Royce of Runestone
-819,Perriane Frey,Female,,In or between 241 AC and 248 AC,,,,,,629,House Haigh,A Clash of Kings
-820,Perwyn Frey,Male,,In or between 270 AC and 278 AC,,Ser,,,,,House Frey of the Crossing,A Game of Thrones
-821,Perwyn Osgrey,Male,,,,Lord of Coldmoat,Perwyn the Proud,,,,House Osgrey of Standfast,The Sworn Sword
-822,Peter Plumm,Male,,,,Ser,,,,,House Plumm,A Storm of Swords
-826,Philip Plumm,Male,,,,Lord,,,,,House Plumm,A Storm of Swords
-827,Podrick Payne,Male,,In 286 AC or 287 AC,,,Pod,,,,House Payne,A Game of Thrones
-830,Qarl Kenning,Male,Ironborn,,,,Queer Qarl Kenning,,,,House Kenning of Harlaw,A Dance with Dragons
-835,Quellon Botley,Male,Ironborn,,,,,,,,House Botley of Lordsport,A Feast for Crows
-837,Quenten Banefort,Male,,,,Lord of Banefort,,,,,House Banefort of Banefort,A Game of Thrones
-838,Quentin Tyrell,Male,,,At Ashford,Ser,,,,,House Tyrell of Highgarden,A Storm of Swords
-839,Quenton Greyjoy,Male,Ironborn,,,,,,,,House Greyjoy of Pyke,A Feast for Crows
-842,Quentyn Ball,Male,,,At Near Redgrass Field,Ser,Fireball,,,,House Ball,The Sworn Sword
-845,Quentyn Qorgyle,Male,,,,Lord of Sandstone,,,,,House Qorgyle of Sandstone,A Feast for Crows
-847,Ralf Stonehouse,Male,Ironborn,,,Captain of Red Jester,Red Ralf Stonehouse,,,,House Stonehouse of Old Wyk,A Feast for Crows
-848,Ralph Buckler,Male,,,,Lord,,,,,House Buckler of Bronzegate,A Storm of Swords
-851,Ravella Swann,Female,,,,Lady of Acorn Hall,,,,1020,House Smallwood of Acorn Hall,House Swann of Stonehelm
-853,Raymun Fossoway,Male,,,,Ser,,,,,House Fossoway of New Barrel,The Hedge Knight
-854,Raymund Frey,Male,,In 264 AC,,Ser,,,,187,House Frey of the Crossing,A Clash of Kings
-855,Raymund Tyrell,Male,,,,,,,,,House Tyrell of Highgarden,A Storm of Swords
-857,Raynard Ruttiger,Male,,,,Ser,,,,,House Ruttiger,A Feast for Crows
-860,Regenard Estren,Male,,,,Lord of Wyndhall,,,,,House Estren of Wyndhall,A Game of Thrones
-861,Renfred Rykker,Male,,,,Lord of Duskendale,,,,,House Rykker of Duskendale,A Feast for Crows
-863,Renly Norcross,Male,,In 296 AC or 297 AC,,,,,,,House Norcross,A Clash of Kings
-864,Reynard Webber,Male,,,,Lord of Coldmoat,,,,,House Webber of Coldmoat,The Sworn Sword
-865,Rhae Targaryen,Female,Valyrian,In or between 201 AC and 209 AC,,Princess,,,,,House Targaryen of King's Landing,The Sworn Sword
-866,Rhaegar Frey,Female,,In or between 269 AC and 273 AC,In 300 AC (suspected),,,,,549,House Frey of the Crossing,A Clash of Kings
-868,Rhaegel Targaryen,Male,Valyrian,In or between 173 AC and 177 AC,In 215 AC,Prince of Dragonstone,,,,93,House Targaryen of King's Landing,The Hedge Knight
-870,Rhaelle Targaryen,Female,,In or between 229 AC and 233 AC,,Princess,,,,794,House Baratheon of Storm's End,House Targaryen of King's Landing
-874,Rhaenyra Targaryen,Female,Valyrian,In 97 AC,In 130 AC, at Dragonstone,Princess of Dragonstone,Lady of the Seven Kingdoms (claimant),The Realm's Delight,The Whore of Dragonstone,King Maegor with Teats,Maegor's Teats
-877,Rhea Florent,Female,,,,,,,,635,House Florent of Brightwater Keep,House Hightower of the Hightower
-879,Rhialta Vance,Female,,,,,,,,,House Vance of Wayfarer's Rest,A Feast for Crows
-880,Rhonda Rowan,Female,,,,,,,,159,House Rowan of Goldengrove,A Feast for Crows
-881,Richard Horpe,Male,,,,Ser,The Slayer,,,,House Baratheon of Dragonstone,House Horpe
-882,Richard Lonmouth,Male,,,,Ser,The Knight of Skull and Kisses,,,,House Lonmouth,A Storm of Swords
-883,Richard Morrigen,Male,,,,Ser,,,,,House Morrigen of Crow's Nest,A Dance with Dragons
-885,Rickard Ryswell,Male,Northmen,,,,,,,,House Ryswell of the Rills,A Feast for Crows
-889,Rickard Tyrell,Male,,,,,,,,,House Tyrell of Highgarden,A Storm of Swords
-890,Rickard Wylde,Male,,In 295 AC,,,,,,,House Wylde of Rain House,A Clash of Kings
-893,Robb Reyne,Female,,,,Ser,,,,,House Reyne of Castamere,The Sworn Sword
-895,Robert Ashford,Male,Reach,At Ashford,,Ser,,,,,House Ashford of Ashford,The Hedge Knight
-897,Robert Brax,Male,,In 290 AC,,,,,,,House Brax of Hornvale,A Clash of Kings
-899,Robert Frey,Male,,In 286 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-900,Robert Frey,Male,,In 283 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-901,Robert I Baratheon,Male,,262 AC, at Storm's End,298 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm,Ser[1]
-902,Robert Paege,Male,,,,Ser,,,,,House Paege,A Storm of Swords
-903,Robett Glover,Male,Northmen,At Deepwood Motte,,,,,,998,House Glover of Deepwood Motte,A Game of Thrones
-904,Robin Greyjoy,Male,Ironborn,,At Pyke,,,,,,House Greyjoy of Pyke,A Feast for Crows
-906,Robin Hollard,Male,,,,,,,,,House Hollard,A Feast for Crows
-907,Robin Moreland,Male,,,,Lord,,,,,House Moreland,A Feast for Crows
-908,Robin Peasebury,Male,,,,Lord of Poddingfield,Lord Pea Pord,,,,House Baratheon of Dragonstone,House Peasebury of Poddingfield
-910,Robyn Rhysling,Female,,,,Ser,,,,,House Rhysling,The Hedge Knight
-911,Robyn Ryswell,Female,Northmen,,,,,,,589,House Ryswell of the Rills,House Stark of Winterfell
-915,Rodrik Ryswell,Female,Northmen,,,Lord of the Rills,,,,,House Ryswell of the Rills,A Feast for Crows
-916,Rodrik Stark,Female,Northmen,,,King in the North,,,,,House Stark of Winterfell,A Game of Thrones
-917,Rodrik Stark,Female,Northmen,,,,The Wandering Wolf,,,1175,House Stark of Winterfell,A Dance with Dragons
-919,Roelle,Female,,,,Septa,,,,,House Tarth of Evenfall Hall,A Feast for Crows
-920,Rohanne,Female,Tyroshi,,In or after 211 AC,,,,,267,House Blackfyre of King's Landing,The World of Ice and Fire
-921,Roland Crakehall,Male,,,,Ser,,,,,House Crakehall of Crakehall,The Hedge Knight
-922,Roland Crakehall,Male,,,,Lord of Crakehall,,,,,House Crakehall of Crakehall,A Clash of Kings
-924,Rolland Darklyn,Male,,,,Ser,,,,,House Darklyn of Duskendale,A Feast for Crows
-926,Rolland Uffering,Male,,,,Ser,,,,1891,House Uffering,The Sworn Sword
-928,Ronald Connington,Male,,,,Ser the Knight of Griffin's Roost,,,,,House Connington of Griffin's Roost,A Dance with Dragons
-929,Ronald Vance,Male,,,,Ser,Ronald the Bad,,,,House Vance of Atranta,A Storm of Swords
-930,Ronnel Harclay,Male,,,,,,,,,House Harclay,A Storm of Swords
-931,Ronnel Stout,Male,Northmen,,,,,,,,House Stout of Goldgrass,A Storm of Swords
-932,Ronnet Connington,Male,,In 274 AC,,Ser Knight of Griffin's Roost,Red Ronnet,,,,House Connington of Griffin's Roost,A Clash of Kings
-934,Roose Ryswell,Male,Northmen,,,,,,,,House Ryswell of the Rills,A Feast for Crows
-935,Roryn Drumm,Male,Ironborn,,,,Roryn the Reaver,,,,House Drumm of Old Wyk,A Feast for Crows
-936,Rosamund Lannister,Female,,,,,,,,,House Lannister of Lannisport,A Feast for Crows
-937,Roslin Frey,Female,Rivermen,In 282 AC or 283 AC,,,,,,346,House Frey of the Crossing,House Tully of Riverrun
-939,Royce Coldwater,Male,,,,Lord of Coldwater Burn,,,,,House Coldwater of Coldwater Burn,A Feast for Crows
-940,Runcel Hightower,Male,,,,Lord Commander of the Night's Watch,,,,,House Hightower of the Hightower,A Storm of Swords
-942,Rupert Crabb,Male,,,,Ser,,,,,House Crabb,A Feast for Crows
-944,Ryam Florent,Male,,,,Ser,,,,,House Florent of Brightwater Keep,A Clash of Kings
-946,Rycherd Crane,Male,,,,Ser,,,,949,House Crane of Red Lake,A Clash of Kings
-947,Ryella Frey,Female,,In 294 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-948,Ryella Royce,Female,,,,,,,,145,House Frey of the Crossing,House Royce of Runestone
-949,Rylene Florent,Female,,,,,,,,946,House Crane of Red Lake,House Florent of Brightwater Keep
-951,Saera Targaryen,Female,Valyrian,In or between 61 AC and 82 AC,,Princess,,,,,House Targaryen of King's Landing,The Rogue Prince
-952,Sallei Paege,Female,,,,,,,,530,House Frey of the Crossing,House Paege
-953,Samwell Spicer,Male,,,,Ser,,,,,House Spicer of Castamere,A Storm of Swords
-956,Sandor Frey,Male,,In 287 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-958,Sargon Botley,Male,Ironborn,,,,,,,,House Botley of Lordsport,A Feast for Crows
-959,Sarra Frey,Female,,In 285 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-960,Sarya Whent,Female,,,,Lady,,,,1093,House Frey of the Crossing,House Whent of Harrenhal
-962,Sebastion Errol,Male,,,,Lord of Haystack Hall,,,,,House Errol of Haystack Hall,A Dance with Dragons
-963,Sebaston Farman,Male,Westerman,,,Lord of Fair Isle,,,,,House Farman of Faircastle,A Feast for Crows
-964,Sefton Staunton,Male,,,,Septon,,,,,House Staunton of Rook's Rest,The Sworn Sword
-965,Selmond Stackspear,Male,,,,Lord,,,,,House Stackspear,A Storm of Swords
-966,Selwyn Tarth,Male,,In 245 AC or 246 AC,,Lord of Evenfall,the Evenstar,,,,House Tarth of Evenfall Hall,A Clash of Kings
-967,Serala of Myr,Female,Myrish,In Myr,,Lady of Duskendale,The Lace Serpent,,,301,House Darklyn of Duskendale,A Feast for Crows
-968,Serra Frey,Female,,In 285 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-972,Shella Whent,Female,Rivermen,,In +/- 300 AC,Lady of Harrenhal,,,,1099,House Whent of Harrenhal,A Game of Thrones
-973,Shiera Crakehall,Female,,,,,,,,282,House Crakehall of Crakehall,House Lannister of Casterly Rock
-974,Shierle Swyft,Female,,,,,,,,745,House Swyft of Cornfield,A Storm of Swords
-976,Shirei Frey,Female,,In 292 AC or 293 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-977,Shyra Errol,Female,,,,Lady of Haystack Hall,,,,,House Errol of Haystack Hall,A Clash of Kings
-978,Sigfry Stonetree,Male,Ironborn,,,,,,,,House Stonetree of Harlaw,A Feast for Crows
-979,Sigfryd Harlaw,Male,Ironborn,,,Master of Harlaw Hall,Sigfryd Silverhair,,,,House Harlaw of Harlaw Hall,A Feast for Crows
-980,Sigorn,Male,Thenn,At Thenn,,Magnar of Thenn,,,,96,House Thenn,A Feast for Crows
-981,Simon Leygood,Male,,,,Ser,,,,,House Leygood,The Sworn Sword
-982,Simon Staunton,Male,,,,Ser,,,,1891,House Staunton of Rook's Rest,The Sworn Sword
-985,Steffarion Sparr,Male,Ironborn,,,,,,,,House Sparr of Great Wyk,A Feast for Crows
-988,Steffon Fossoway,Male,,,,Ser,,,,,House Fossoway of Cider Hall,The Hedge Knight
-989,Steffon Frey,Male,,In or between 263 AC and 280 AC,,,Steffon the Sweet,,,,House Frey of the Crossing,A Clash of Kings
-990,Steffon Hollard,Male,,,,Ser,,,,,House Hollard,A Feast for Crows
-991,Steffon Stackspear,Male,,,,Ser,,,,,House Stackspear,A Storm of Swords
-992,Steffon Swyft,Male,,,,Ser,,,,,House Swyft of Cornfield,A Storm of Swords
-993,Steffon Varner,Male,,,,Lord,,,,,House Varner,A Clash of Kings
-996,Sumner Crakehall,Male,,,,Lord of Crakehall,,,,,House Crakehall of Crakehall,A Storm of Swords
-997,Sybell Spicer,Female,,,,Lady of the Crag,,,,413,House Spicer of Castamere,House Westerling of the Crag
-998,Sybelle Glover,Female,Northmen,,,Lady of Deepwood Motte,,,,903,House Glover of Deepwood Motte,House Locke of Oldcastle
-1000,Sylwa Paege,Female,,,,,,,,1107,House Frey of the Crossing,House Paege
-1003,Symond Botley,Male,Ironborn,,,,,,,,House Botley of Lordsport,A Feast for Crows
-1008,Talla Tarly,Female,,,,,,,,,House Tarly of Horn Hill,A Storm of Swords
-1009,Tallad,Male,,,,Ser,Tallad the Tall,,,,House Baratheon of King's Landing,A Clash of Kings
-1011,Tanton Fossoway,Male,,,,Ser,,,,,House Fossoway of Cider Hall,A Clash of Kings
-1012,Terrance Lynderly,Male,,,,,,,,,House Lynderly of the Snakewood,A Feast for Crows
-1013,Terrence Kenning,Male,,,,Lord of Kayce,,,,,House Kenning of Kayce,A Storm of Swords
-1014,Terrence Toyne,Male,,,In 178 AC,Ser,,,,,House Toyne,A Storm of Swords
-1015,The Sparr,Female,Ironborn,,,The Sparr,,,,,House Sparr of Great Wyk,A Feast for Crows
-1016,The Stonehouse,Female,Ironborn,,,Lord Stonehouse,,,,,House Stonehouse of Old Wyk,A Feast for Crows
-1019,Theodore Tyrell,Male,,,,Ser,,,,636,House Tyrell of Highgarden,A Storm of Swords
-1020,Theomar Smallwood,Male,,,,Lord of Acorn Hall,,,,851,House Smallwood of Acorn Hall,A Storm of Swords
-1027,Titus Peake,Male,,,,Lord of Starpike,,,,708,House Peake of Starpike,A Storm of Swords
-1028,Tom Costayne,Male,,,,Ser,Long Tom Costayne,,,,House Costayne of Three Towers,A Feast for Crows
-1030,Tommen Costayne,Female,,,,Lord of the Three Towers,,,,,House Costayne of Three Towers,A Feast for Crows
-1035,Trebor Jordayne,Male,,,,Lord of the Tor,,,,,House Jordayne of the Tor,A Feast for Crows
-1036,Tremond Gargalen,Male,Dornish,,,Lord of Salt Shore,,,,,House Gargalen of Salt Shore,A Storm of Swords
-1037,Tristan Mudd,Male,,,,Lord Commander of the Night's Watch,,,,,House Mudd of Oldstones,A Storm of Swords
-1038,Tristan Ryger,Male,,,,,,,,,House Ryger of Willow Wood,A Storm of Swords
-1039,Tristifer Botley,Male,Ironborn,At Lordsport,,Heir to Lordsport,Tris,,,,House Botley of Lordsport,A Feast for Crows
-1042,Triston Sunderland,Male,,,,Lord of the Three Sisters,,,,,House Sunderland of the Three Sisters,A Feast for Crows
-1043,Trystane Martell,Male,Dornish,In 287 AC,,Prince,,,,,House Nymeros Martell of Sunspear,A Game of Thrones
-1044,Tya Lannister,Female,,,,,,,,435,House Baratheon of Storm's End,House Lannister of Casterly Rock
-1045,Tyana Wylde,Female,,,,,,,,56,House Frey of the Crossing,House Wylde of Rain House
-1046,Tybolt Crakehall,Male,,,,Ser,,,,,House Crakehall of Crakehall,A Storm of Swords
-1047,Tybolt Hetherspoon,Male,,,,Ser,,,,,House Hetherspoon,A Feast for Crows
-1049,Tygett Lannister,Male,,In 250 AC,In or after 285 AC,Ser,Tyg,,,292,House Lannister of Casterly Rock,A Game of Thrones
-1053,Tysane Frey,Female,,In 292 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-1054,Tyta Frey,Female,,In 269 AC or 270 AC,,,Tyta the Maid,,,,House Frey of the Crossing,A Clash of Kings
-1058,Tywin Frey,Male,,In 287 AC or 288 AC,,Ser,Ty,,,,House Frey of Riverrun,House Frey of the Crossing
-1059,Tywin Frey,Male,,In 299 AC or 300 AC,,,,,,,House Frey of the Crossing,A Feast for Crows
-1061,Ulwyck Uller,Male,,,,Ser,,,,,House Uller of Hellholt,A Storm of Swords
-1062,Urrigon Greyjoy,Male,Ironborn,In 268 AC or 269 AC,At Pyke,,Urri,,,,House Greyjoy of Pyke,A Feast for Crows
-1063,Utherydes Wayn,Male,,In or between 237 AC and 241 AC (roughly),,Steward,,,,,House Tully of Riverrun,House Wayn
-1064,Uthor Tollett,Male,Valemen,,,Lord of the Grey Glen,,,,,House Tollett of the Grey Glen,A Feast for Crows
-1066,Vaemond Velaryon,Male,Valyrian,,In 126 AC,Ser,,,,,House Velaryon of Driftmark,The Rogue Prince
-1070,Velaena Velaryon,Female,Valyrian,,,Lady of Dragonstone,,,,59,House Targaryen of King's Landing,House Velaryon of Driftmark
-1071,Vickon Botley,Male,Ironborn,,,,,,,,House Botley of Lordsport,A Feast for Crows
-1073,Victaria Tyrell,Female,,,,,,,,575,House Tyrell of Highgarden,A Storm of Swords
-1075,Victor Tyrell,Male,,,,Ser,,,,,House Tyrell of Highgarden,A Storm of Swords
-1076,Viserys I,Male,,77 AC, at King's Landing,129 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm,The Young King
-1077,Viserys II,Male,,122 AC, at Dragonstone,172 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm,Hand of the King
-1078,Viserys Plumm,Male,,In 176 AC or 177 AC,,Lord,,,,,House Plumm,The Mystery Knight
-1079,Viserys Targaryen,Male,Valyrian,In 276 AC, at King's Landing,In 298 AC, at Vaes Dothrak,King of the Andals, the Rhoynar and the First Men, Lord of the Seven Kingdoms and Protector of the Realm,The Beggar King,Khal Rhaggat (The Cart King)
-1081,Walda Frey,Female,,In 290 AC or 291 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-1082,Walda Frey,Female,,In 294 AC or 295 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-1083,Walda Frey,Female,,In 280 AC or 281 AC,,,Fair Walda,,,,House Frey of the Crossing,A Clash of Kings
-1085,Walda Frey,Female,,In 288 AC or 289 AC,,,White Walda,,,,House Frey of the Crossing,A Clash of Kings
-1086,Walda Rivers,Female,,In 294 AC or 295 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-1087,Walda Rivers,Female,,In 295 AC,,,,,,,House Frey of the Crossing,A Storm of Swords
-1088,Walder Brax,Male,,In 293 AC,,,,,,,House Brax of Hornvale,A Clash of Kings
-1089,Walder Frey,Male,,In 291 AC,,,Big Walder,,,,House Frey of the Crossing,A Game of Thrones
-1090,Walder Frey,Male,Rivermen,In or between 260 AC and 280 AC,,,Black Walder,,,,House Frey of the Crossing,A Game of Thrones
-1092,Walder Frey,Male,,In 285 AC,,,Red Walder,,,,House Frey of Riverrun,A Clash of Kings
-1094,Walder Goodbrook,Male,,In 290 AC,,,,,,,House Goodbrook,A Clash of Kings
-1095,Walder Haigh,Male,,In 294 AC or 295 AC,,,,,,,House Haigh,A Clash of Kings
-1096,Walder Rivers,Male,Rivermen,,,Ser,Bastard Walder,,,1509,House Frey of the Crossing,A Game of Thrones
-1097,Waldon Wynch,Male,Ironborn,,,Lord of Iron Holt,,,,,House Wynch of Iron Holt,A Clash of Kings
-1098,Wallace Waynwood,Male,,In or between 278 AC and 283 AC,,Ser,,,,,House Waynwood of Ironoaks,A Feast for Crows
-1099,Walter Whent,Male,Rivermen,,,Lord of Harrenhal,Old Lord Whent,,,972,House Whent of Harrenhal,A Storm of Swords
-1100,Walton Frey,Male,,In or between 250 AC and 267 AC,,,,,,295,House Frey of the Crossing,A Clash of Kings
-1102,Waltyr Frey,Male,,In 289 AC,,,Tyr,,,,House Frey of the Crossing,A Clash of Kings
-1103,Warryn Beesbury,Male,,,,Lord of Honeyholt,,,,,House Beesbury of Honeyholt,A Feast for Crows
-1105,Wendel Frey,Male,,In 286 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-1107,Whalen Frey,Male,,In 267 AC or 268 AC,,Ser,,,,1000,House Frey of the Crossing,A Game of Thrones
-1108,Wilbert Osgrey,Male,,,,Ser,the Little Lion,,,,House Osgrey of Standfast,The Sworn Sword
-1113,Willas Tyrell,Male,,In or between 270 AC and 276 AC,,,,,,,House Tyrell of Highgarden,A Game of Thrones
-1115,Willem Frey,Male,,In 289 AC or 290 AC,,,,,,,House Frey of Riverrun,House Frey of the Crossing
-1117,Willem Wylde,Male,,,,Ser,,,,,House Wylde of Rain House,The Hedge Knight
-1118,William Mooton,Male,,,,Lord of Maidenpool,,,,,House Mooton of Maidenpool,A Clash of Kings
-1119,Willis Fell,Male,,,,Ser,,,,,House Fell of Felwood,The Princess and the Queen
-1120,Willis Wode,Male,,,,Ser,,,,,House Whent of Harrenhal,House Wode
-1125,Wynafrei Whent,Female,,,,,,,,291,House Whent of Harrenhal,A Clash of Kings
-1127,Wynton Stout,Male,Northmen,In or before 219 AC,,Ser,,,,,House Stout of Goldgrass,A Storm of Swords
-1128,Ygon Farwynd,Male,,,,,,,,,House Farwynd of the Lonely Light,A Feast for Crows
-1129,Ynys Yronwood,Female,Dornish,,,,,,,1922,House Allyrion of Godsgrace,House Yronwood of Yronwood
-1130,Yohn Farwynd,Male,Ironborn,,,,,,,,House Farwynd of the Lonely Light,A Feast for Crows
-1131,Yohn Royce,Male,Valemen,,,Lord of Runestone,Bronze Yohn,,,,House Royce of Runestone,A Game of Thrones
-1133,Ysilla Royce,Female,Valemen,,,,,,,768,House Redfort of Redfort,House Royce of Runestone
-1134,Zachery Frey,Male,,In 287 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-1136,Zia Frey,Female,,In 285 AC,,,,,,,House Frey of the Crossing,A Clash of Kings
-1150,Alesandor Torrent,Male,,,,Lord of Littlesister,,,,,House Torrent of Littlesister,A Feast for Crows
-1156,Alvyn Sharp,Male,Ironborn,,,,,,,,House Sharp,A Feast for Crows
-1159,Alyn,Female,,,,,Sour Alyn,,,,House Bolton of the Dreadfort,A Dance with Dragons
-1160,Alysanne Bracken,Female,,,,,,,,,House Bracken of Stone Hedge,A Dance with Dragons
-1161,Amabel,Female,,,,,,,,,House Whent of Harrenhal,A Clash of Kings
-1163,Andrey Dalt,Male,Dornish,,,Ser,Drey,,,,House Dalt of Lemonwood,A Feast for Crows
-1164,Andrik,Male,Ironborn,,,Lord of Southshield,Andrik the Unsmiling,,,,House Drumm of Old Wyk,A Clash of Kings
-1167,Argrave the Defiant,Male,,At Nunny,,Ser,,,,,House Butterwell,The Mystery Knight
-1173,Arryk,Male,,,,,"Left or ""Right""",,,,House Tyrell of Highgarden,A Storm of Swords
-1175,Arya Flint,Female,Northern mountain clans,,,,,,,917,House Flint  of the mountains,House Stark of Winterfell
-1182,Baelish,Male,Braavosi,,,,,,,,House Corbray of Heart's Home,A Storm of Swords
-1184,Ballabar,Male,,,,Maester,,,,,House Redwyne of the Arbor,A Clash of Kings
-1185,Bandy,Female,Northmen,,,,,,,,House Stark of Winterfell,A Clash of Kings
-1187,Barbara Bracken,Female,,,,,,,,,House Bracken of Stone Hedge,A Dance with Dragons
-1190,Barth,Male,,,,,,,,,House Stark of Winterfell,A Clash of Kings
-1193,Becca,Female,,,,,,,,,House Arryn of the Eyrie,A Game of Thrones
-1197,Belandra,Female,,,,,,,,,House Nymeros Martell of Sunspear,A Feast for Crows
-1207,Ben,Male,,,,,Ben Blackthumb,,,,House Lannister of Casterly Rock,House Whent of Harrenhal
-1208,Ben,Male,,,,,Ben Bones,,,,House Bolton of the Dreadfort,A Dance with Dragons
-1212,Bess Bracken,Female,,,,,,,,,House Bracken of Stone Hedge,A Dance with Dragons
-1217,Betharios,Female,,,,,Betharios of Braavos,,,1004,House Frey of the Crossing,A Clash of Kings
-1226,Bluetooth,Male,Ironborn,,,,,,,,House Greyjoy of Pyke,A Clash of Kings
-1230,Bors,Male,,,,,,,,,House Nymeros Martell of Sunspear,A Feast for Crows
-1233,Brella,Female,,,,,,,,,House Baratheon of Storm's End,House Lannister of Casterly Rock
-1234,Brenett,Male,,,,Maester,,,,,House Frey of the Crossing,A Storm of Swords
-1240,Bryen,Male,,In or before 220 AC,,,,,,,House Baelish of the Fingers,A Storm of Swords
-1241,Brynden Blackwood,Male,,,,,,,,,House Blackwood of Raventree Hall,A Dance with Dragons
-1244,Butterbumps,Male,,,,,Butterbumps,,,,House Tyrell of Highgarden,A Clash of Kings
-1249,Byron,Male,,,,Ser,Byron the Beautiful,,,,House Baelish of the Fingers,A Feast for Crows
-1250,Cadwyl,Male,Ironborn,,,,,,,,House Greyjoy of Pyke,A Clash of Kings
-1251,Cadwyn,Male,,,,Ser,,,,,House Lannister of Casterly Rock,A Clash of Kings
-1253,Caleotte,Male,,,,Maester,,,,,House Nymeros Martell of Sunspear,A Game of Thrones
-1254,Calon,Male,Northmen,,,,,,,,House Stark of Winterfell,A Clash of Kings
-1256,Carrot,Male,,,,,,,,,House Royce of the Gates of the Moon,A Feast for Crows
-1259,Catelyn Bracken,Female,,,,,,,,,House Bracken of Stone Hedge,A Dance with Dragons
-1261,Cedra,Female,,,,,,,,,House Nymeros Martell of Sunspear,A Feast for Crows
-1263,Cerrick,Male,Ironborn,,,Maester,The Grey Pup,,,,House Webber of Coldmoat,The Sworn Sword
-1271,Clarence Crabb,Male,,,,Ser,,,,,House Crabb,A Feast for Crows
-1276,Clifford Conklyn,Male,,,,Ser,,,,,House Conklyn,The Sworn Sword
-1280,Colemon,Male,,,,Maester,,,,,House Arryn of the Eyrie,A Game of Thrones
-1285,Corliss Penny,Male,,,,Ser,,,,,House Baratheon of Dragonstone,A Feast for Crows
-1286,Corlos,Male,First Men,In Age of Heroes,,Lord of Casterly Rock,Corlos son of Caster,,,,House Casterly of Casterly Rock,The World of Ice and Fire
-1287,Cosgrove,Male,,,,Steward,,,,,House Butterwell,The Mystery Knight
-1292,Cragorn,Male,,,In 300 AC,,,,,,House Greyjoy of Pyke,A Feast for Crows
-1299,Dacks,Male,,,,,,,,,House Redfort of Redfort,A Game of Thrones
-1300,Daegon Shepherd,Male,Ironborn,,,,The Black Shepherd,,,,House Shepherd,A Feast for Crows
-1301,Daemon Sand,Male,Dornish,In 275 or 276 AC,,Ser,Bastard of Godsgrace,,,,House Allyrion of Godsgrace,A Storm of Swords
-1302,Daenaera Velaryon,Female,Valyrian,In 127 AC,,Queen,,,,40,House Targaryen of King's Landing,House Velaryon of Driftmark
-1303,Daenerys Targaryen,Female,Valyrian,In 284 AC, at Dragonstone,,Queen of the Andals and the Rhoynar and the First Men, Lord of the Seven Kingdoms,Khaleesi of the Great Grass Sea,Breaker of Shackles/Chains,Queen of Meereen,Princess of Dragonstone
-1306,Dagmer,Male,Ironborn,,,Captain of Foamdrinker,Dagmer Cleftjaw,,,,House Greyjoy of Pyke,A Clash of Kings
-1307,Dagon Ironmaker,Male,Ironborn,,,,,,,,House Ironmaker,A Feast for Crows
-1308,Dake,Male,,,At Coldmoat,,,,,,House Osgrey of Standfast,The Sworn Sword
-1309,Dake,Male,,,,,,,,,House Lannister of Casterly Rock,A Feast for Crows
-1312,Dalla,Female,,,,,,,,,House Baratheon of Dragonstone,A Clash of Kings
-1313,Damon,Male,,,,,Damon Dance-for-Me,,,,House Bolton of the Dreadfort,A Dance with Dragons
-1318,Darla Deddings,Female,,,,Lady,,,,,House Deddings,The Princess and the Queen
-1325,Dermot,Male,,,,Ser,Dermot of the Rainwood,,,,House Baratheon of Dragonstone,House Baratheon of King's Landing
-1336,Donnis,Male,Northmen,,,,,,,,House Stark of Winterfell,A Game of Thrones
-1338,Dorcas,Female,,,,,,,,,House Lannister of Casterly Rock,A Feast for Crows
-1339,Dorea Sand,Female,Dornishmen,In 291 AC or 292 AC,,,,,,,House Nymeros Martell of Sunspear,A Feast for Crows
-1349,Dunaver,Male,,,,Ser,,,,,House Lannister of Casterly Rock,A Clash of Kings
-1350,Dunsen,Male,,,,,,,,,House Clegane,A Clash of Kings
-1355,Edric Storm,Male,,In 287 AC,,,,,,,House Baratheon of Storm's End,A Game of Thrones
-1356,Eggon,Male,,,,,,,,,House Clegane,A Clash of Kings
-1358,Elaena Targaryen,Female,Valyrian,In 150 AC,In or after 220 AC,Princess,,,,803,House Manwoody of Kingsgrave,House Penrose of Parchments
-1361,Elenei,Female,,In Age of Heroes,,,,,,333,House Durrandon,A Clash of Kings
-1371,Enger,Male,,,,,,,,,House Tully of Riverrun,A Clash of Kings
-1377,Erryk,Male,,,,,"Left or ""Right""",,,,House Tyrell of Highgarden,A Storm of Swords
-1380,Eustace Brune,Male,,,,Lord of the Dyre Den,,,,,House Brune of the Dyre Den,A Feast for Crows
-1392,Franklyn Frey,Male,,,,Ser,,,,,House Frey of the Crossing,The Hedge Knight
-1396,Gage,Male,,,,,,,,,House Stark of Winterfell,A Game of Thrones
-1403,Gareth Clifton,Male,,,,Ser,,,,551,House Clifton,A Feast for Crows
-1407,Gariss,Male,,,,,,,,,House Stark of Winterfell,A Clash of Kings
-1409,Garrett Flowers,Male,,,,,,,,,House Tyrell of Highgarden,A Game of Thrones
-1410,Garse Flowers,Male,,,,,,,,,House Tyrell of Highgarden,A Game of Thrones
-1414,Gascoyne,Male,,,,Ser,Gascoyne of the Greenblood,,,,House Nymeros Martell of Sunspear,A Feast for Crows
-1423,Gerrick,Male,Free folk,,,King of the Wildlings,Gerrick Kingsblood,,,,House Redbeard,A Dance with Dragons
-1428,Glendon Hewett,Male,,,,Ser,,,,,House Hewett of Oakenshield,A Storm of Swords
-1430,Godwyn,Male,,,,,,,,,House Lannister of Casterly Rock,A Game of Thrones
-1443,Gretchel,Female,,,,,,,,,House Arryn of the Eyrie,A Feast for Crows
-1445,Grey Worm,Male,,,,,,,,,House Targaryen of King's Landing,A Storm of Swords
-1448,Grisel,Female,,,,,,,,,House Baelish of the Fingers,A Storm of Swords
-1452,Grunt,Male,Northmen,,,,,,,,House Bolton of the Dreadfort,A Dance with Dragons
-1462,Haegon Blackfyre,Male,Valyrian,In or between 189 AC and 193 AC,In 219 AC,,,,,,House Blackfyre of King's Landing,The Mystery Knight
-1467,Hal,Male,,,In 299 AC,,Hal the Hog,,,,House Baratheon of Dragonstone,A Storm of Swords
-1469,Haldon,Male,,,,,Haldon Halfmaester,,,,House Targaryen of King's Landing,A Dance with Dragons
-1480,Harmund Sharp,Male,Ironborn,,,,,,,,House Sharp,A Feast for Crows
-1488,Harwin,Male,Northmen,In 271 AC or later,,,,,,,House Stark of Winterfell,A Game of Thrones
-1489,Hayhead,Male,Northmen,,,,,,,,House Stark of Winterfell,A Clash of Kings
-1495,Helya,Female,,,,,,,,,House Greyjoy of Pyke,A Clash of Kings
-1498,Henly,Male,,,,Maester,,,,,House Slate of Blackpool,A Dance with Dragons
-1504,Hoke,Male,,,,,Hoke the Horseleg,,,,House Lannister of Casterly Rock,A Feast for Crows
-1516,Humfrey Clifton,Male,,,,Ser,,,,,House Baratheon of Dragonstone,House Clifton
-1523,Irri,Female,Dothraki,In 283 AC or 284 AC,,,,,,,House Targaryen of King's Landing,A Game of Thrones
-1526,Jacks,Male,,,,,,,,,House Stark of Winterfell,A Game of Thrones
-1535,Jate Blackberry,Male,,,,,,,,,House Baratheon of Dragonstone,A Storm of Swords
-1537,Jayne Bracken,Female,,,,,,,,,House Bracken of Stone Hedge,A Dance with Dragons
-1542,Jeyne,Female,,,,,Squinty Jeyne,,,,House Osgrey of Standfast,The Sworn Sword
-1544,Jeyne Rivers,Female,,,,,,,,,House Frey of the Crossing,A Clash of Kings
-1548,Jhiqui,Female,Dothraki,In 284 AC,,,,,,,House Targaryen of King's Landing,A Game of Thrones
-1550,Jodge,Male,,,,,,,,,House Lannister of Casterly Rock,A Clash of Kings
-1552,Jommy,Male,,,,,,,,,House Baratheon of Storm's End,A Clash of Kings
-1554,Jon Heddle,Male,,,,Ser,Long Jon,,,,House Heddle,A Feast for Crows
-1559,Jonos Bracken,Male,,At Stone Hedge,,Lord of Stone Hedge,,,,,House Bracken of Stone Hedge,A Game of Thrones
-1562,Jorgen,Male,,,,,,,,,House Webber of Coldmoat,The Sworn Sword
-1565,Joseth,Male,,,,,,,,,House Stark of Winterfell,A Game of Thrones
-1568,Joss Stilwood,Male,,,,,,,,,House Clegane,A Game of Thrones
-1570,Joy Hill,Female,,In 288 AC,,,,,,,House Lannister of Casterly Rock,A Game of Thrones
-1572,Jyana,Female,Crannogmen,,,,,,,506,House Reed of Greywater Watch,A Feast for Crows
-1574,Jynessa Blackmont,Female,Dornish,,,,,,,,House Blackmont of Blackmont,A Storm of Swords
-1581,Kella,Female,,,,,,,,,House Baelish of the Fingers,A Storm of Swords
-1584,Kennos of Kayce,Male,,,,Ser,,,,,House Kenning of Kayce,A Storm of Swords
-1589,Kiera of Tyrosh,Female,Tyroshi,,,Lady,,,,1067,House Targaryen of King's Landing,The Mystery Knight
-1607,Larra Blackmont,Female,Dornish,,,Lady of Blackmont,,,,,House Blackmont of Blackmont,A Storm of Swords
-1614,Lem,Male,,In or around 161 AC,,,,,,,House Osgrey of Standfast,The Sworn Sword
-1618,Leonette Fossoway,Female,,,,Lady,,,,401,House Tyrell of Brightwater Keep,A Storm of Swords
-1619,Lester,Male,,,,,Red Lester,,,,House Lannister of Casterly Rock,A Storm of Swords
-1620,Lew,Male,Northmen,,,,,,,,House Stark of Winterfell,A Game of Thrones
-1621,Lew,Male,,,,,Long Lew,,,,House Tully of Riverrun,A Storm of Swords
-1623,Lewys,Male,,,,,Lewys the Fishwife,,,,House Baratheon of Dragonstone,A Storm of Swords
-1632,Loreza Sand,Female,Dorne,In 293 AC,,,Loree,,,,House Nymeros Martell of Sunspear,A Storm of Swords
-1641,Lucas Nayland,Male,,,,Ser,,,,,House Nayland of Hag's Mire,The Mystery Knight
-1642,Lucifer Hardy,Male,,,,Lord,,,,,House Hardy,A Feast for Crows
-1647,Lum,Male,,,,,,,,,House Lannister of Casterly Rock,A Storm of Swords
-1652,Lyonel,Male,,,,Ser,,,,,House Lannister of Casterly Rock,A Clash of Kings
-1655,Maddy,Female,,,,,,,,,House Arryn of the Eyrie,A Feast for Crows
-1665,Mallor,Male,,,,,Mallor the Dornishman,,,,House Lannister of Casterly Rock,A Game of Thrones
-1674,Martyn Rivers,Male,,,,,,,,,House Frey of the Crossing,A Game of Thrones
-1676,Marya Seaworth,Female,,,,Lady,,,,1319,House Seaworth of Cape Wrath,A Clash of Kings
-1680,Matrice,Female,,,,,,,,,House Baratheon of Dragonstone,A Clash of Kings
-1693,Mela,Female,,,,,,,,,House Arryn of the Eyrie,A Feast for Crows
-1696,Mellara Rivers,Female,,,,,,,,,House Frey of the Crossing,A Clash of Kings
-1697,Mellario,Female,Norvoshi,In or between 248 AC and 263 AC,,,Mellario of Norvos,,,326,House Nymeros Martell of Sunspear,A Game of Thrones
-1698,Mellei,Female,,,,,,,,,House Nymeros Martell of Sunspear,A Feast for Crows
-1713,Moon Boy,Male,,,,,,,,,House Baratheon of King's Landing,A Game of Thrones
-1715,Mord,Male,,,,,,,,,House Arryn of the Eyrie,A Game of Thrones
-1718,Morgan Martell,Male,Andal,,,Lord of the Sandship,,,,,House Nymeros Martell of Sunspear,The World of Ice and Fire
-1719,Morgarth,Male,,,,Ser,Morgarth the Merry,,,,House Baelish of the Fingers,A Feast for Crows
-1723,Morra,Female,,,,,,,,,House Nymeros Martell of Sunspear,A Feast for Crows
-1727,Morton Waynwood,Male,,,,Ser,,,,,House Waynwood of Ironoaks,A Game of Thrones
-1731,Mudge,Male,,,,,,,,,House Osgrey of Standfast,The Sworn Sword
-1737,Murch,Male,Northmen,,,,,,,,House Stark of Winterfell,A Clash of Kings
-1739,Mushroom,Male,,,In or after 136AC,,Mushroom,,,,House Targaryen of King's Landing,The Princess and the Queen
-1743,Myles,Male,,,,Maester,,,,,House Nymeros Martell of Sunspear,A Feast for Crows
-1747,Nage,Male,,,,,,,,,House Bolton of the Dreadfort,A Storm of Swords
-1749,Nan,Female,,,,,Old Nan,,,,House Stark of Winterfell,A Game of Thrones
-1753,Ned Woods,Male,Northmen,,,,Noseless Ned,,,,House Woods,A Dance with Dragons
-1762,Norne Goodbrother,Male,Ironborn,,,Lord of Shatterstone,,,,,House Goodbrother of Shatterstone,A Clash of Kings
-1765,Nute,Male,Ironborn,,,Lord of Oakenshield,Nute the Barber,,,,House Greyjoy of Pyke,A Feast for Crows
-1766,Nymeria Sand,Female,Dornishmen,In 274 AC or 275 AC,,,Lady Nym,,,,House Nymeros Martell of Sunspear,A Storm of Swords
-1769,Obella Sand,Female,Dornishmen,In 287 AC or 288 AC,,,,,,,House Nymeros Martell of Sunspear,A Storm of Swords
-1777,Omer Blackberry,Male,,,,,,,,,House Baratheon of Dragonstone,A Storm of Swords
-1782,Orland of Oldtown,Male,,,,,Ormond of Oldtown,,,,House Baratheon of King's Landing,A Storm of Swords
-1787,Osha,Female,Free folk,,,,,,,,House Stark of Winterfell,A Game of Thrones
-1788,Ossy,Male,,,,,,,,,House Royce of the Gates of the Moon,A Feast for Crows
-1796,Palla,Female,Northmen,,,,,,,,House Stark of Winterfell,A Clash of Kings
-1797,Patchface,Male,,,,,Patches,,,,House Baratheon of Dragonstone,A Clash of Kings
-1798,Pate,Male,,In 291 AC or 292 AC,,,,,,,House Baratheon of King's Landing,A Feast for Crows
-1803,Pate,Male,,In or between 161 AC and 181 AC,,,,,,,House Osgrey of Standfast,The Sworn Sword
-1810,Perros Blackmont,Male,Dornish,,,,,,,,House Blackmont of Blackmont,A Storm of Swords
-1811,Pia,Female,,At Harrenhal,,,Pretty Pia,,,,House Whent of Harrenhal,A Clash of Kings
-1812,Plummer,Male,,,,Steward of Ashford,,,,,House Ashford of Ashford,The Hedge Knight
-1816,Porther,Male,Northmen,,,,,,,,House Stark of Winterfell,A Game of Thrones
-1822,Puckens,Male,,,,,,,,,House Lannister of Casterly Rock,A Feast for Crows
-1829,Qalen,Male,,,In before 299,Maester,,,,,House Greyjoy of Pyke,A Clash of Kings
-1833,Qarl Correy,Male,,,,Ser,,,,,House Velaryon of Driftmark,The Rogue Prince
-1834,Qarl Shepherd,Male,Ironborn,,,,,,,,House Shepherd,A Dance with Dragons
-1841,Quellon Humble,Male,Ironborn,,,,,,,,House Humble,A Feast for Crows
-1843,Quent,Male,Northmen,,,,,,,,House Stark of Winterfell,A Game of Thrones
-1846,Quincy Cox,Male,,,,Serthe Knight of Saltpans,,,,,House Cox of Saltpans,A Feast for Crows
-1848,Qyburn,Male,,In 217AC or after,,Master of whisperers,The Bloody Maester,,,,House Lannister of Casterly Rock,A Clash of Kings
-1853,Ragnor Pyke,Male,Ironborn,,,,,,,,House Greyjoy of Pyke,A Feast for Crows
-1864,Raymar Royce,Male,,,,Lord,,,,,House Royce of the Gates of the Moon,A Storm of Swords
-1865,Raymond Nayland,Male,,,,Ser,,,,,House Nayland of Hag's Mire,A Feast for Crows
-1867,Red Lamb,Male,Lhazarene,,,Ser,Red Lamb,,,,House Targaryen of King's Landing,A Dance with Dragons
-1870,Rennifer Longwaters,Male,,,,Chief Undergaoler,,,,,House Longwaters,A Feast for Crows
-1872,Reznak mo Reznak,Male,Ghiscari,At Meereen,,Seneschal,,,,,House Targaryen of King's Landing,A Dance with Dragons
-1876,Ricasso,Male,,,,Seneschal of Sunspear,,,,,House Nymeros Martell of Sunspear,A Feast for Crows
-1879,Rob,Male,,,,,Big Rob,,,,House Osgrey of Standfast,The Sworn Sword
-1884,Rodrik Arryn,Female,,,,Lord of the Eyrie,,,,265,House Arryn of the Eyrie,The Princess and the Queen
-1888,Roger Ryswell,Male,Northmen,,,,,,,,House Ryswell of the Rills,A Feast for Crows
-1892,Rolder,Male,,,,,,,,,House Lannister of Casterly Rock,A Feast for Crows
-1895,Rolland Longthorpe,Male,,,,Lord of Longsister,,,,,House Longthorpe of Longsister,A Feast for Crows
-1898,Romny Weaver,Male,Ironborn,,,,,,,,House Weaver,A Feast for Crows
-1899,Ronald Storm,Male,,,,,,,,,House Connington of Griffin's Roost,A Dance with Dragons
-1900,Ronel Rivers,Male,,,,,,,,,House Frey of the Crossing,A Game of Thrones
-1916,Ryger Rivers,Male,,,,,,,,,House Frey of the Crossing,A Game of Thrones
-1919,Rymolf,Male,Ironborn,,,,Rymolf Stormdrunk,,,,House Greyjoy of Pyke,A Clash of Kings
-1922,Ryon Allyrion,Male,Dornish,,,Ser,,,,1129,House Allyrion of Godsgrace,A Storm of Swords
-1925,Salladhor Saan,Male,Lysene,,,Prince of the Narrow Sea Lord of Blackwater Bay,Salla,,,,House Baratheon of Dragonstone,A Clash of Kings
-1928,Sam Stoops,Male,,,,,,,,,House Osgrey of Standfast,The Sworn Sword
-1929,Samwell Stone,Male,,,,Ser Master-at-arms of Runestone,Strong Sam Stone,,,,House Royce of Runestone,A Feast for Crows
-1930,Sarella Sand,Female,Dornishmen,In 280 AC or 281 AC,,,,,,,House Nymeros Martell of Sunspear,A Storm of Swords
-1936,Senelle,Female,,,In 300 AC,,,,,,House Lannister of Casterly Rock,A Feast for Crows
-1944,Shiera Seastar,Female,Westeros,In or between 178 AC and 184 AC,,,,,,,House Targaryen of King's Landing,The Sworn Sword
-1945,Shortear,Male,,,,,,,,,House Lannister of Casterly Rock,A Feast for Crows
-1946,Shyra,Female,Northmen,,,,,,,,House Stark of Winterfell,A Clash of Kings
-1947,Sigrin,Male,Ironborn,,,,Sigrin the Shipwright,,,,House Greyjoy of Pyke,A Clash of Kings
-1949,Skinner,Male,,,,,,,,,House Bolton of the Dreadfort,A Dance with Dragons
-1950,Skittrick,Male,Northmen,,,,,,,,House Stark of Winterfell,A Clash of Kings
-1964,Stannis Seaworth,Male,,In 289 AC or 290 AC,,,,1319,1676,,House Seaworth of Cape Wrath,A Clash of Kings
-1967,Steffon Seaworth,Male,,In 293 AC,,,,,,,House Seaworth of Cape Wrath,A Clash of Kings
-1971,Stygg,Male,,,,,,,,,House Greyjoy of Pyke,A Clash of Kings
-1974,Sylas,Male,,,In 294 AC,,Sylas Sourmouth,,,,House Greyjoy of Pyke,A Clash of Kings
-1978,Symon Stripeback,Male,,,,,,,,,House Targaryen of King's Landing,A Dance with Dragons
-1981,Tal Toraq,Male,Summer Isles,,,,,,,,House Targaryen of King's Landing,A Dance with Dragons
-1989,Teora Kyndall,Female,,,In 212 AC,Lady of Casterly Rock,,,,1048,House Kyndall,House Lannister of Casterly Rock
-1997,Theo Frey,Male,,,,Ser,,,,,House Frey of the Crossing,A Game of Thrones
-1999,Theomore Lannister,Male,,At Lannisport,,Maester,,,,,House Manderly of White Harbor,A Feast for Crows
-2001,Thormor Ironmaker,Male,Ironborn,,,,,,,,House Ironmaker,A Feast for Crows
-2004,Three-Tooth,Female,Ironborn,,,Steward of Ten Towers,,,,,House Harlaw of Harlaw,A Feast for Crows
-2011,Timoth,Male,,,,,,,,,House Nymeros Martell of Sunspear,A Feast for Crows
-2012,Tobbot,Male,,,,,,,,,House Clegane,A Clash of Kings
-2019,TomToo,Male,Northmen,,,,,,,,House Stark of Winterfell,A Clash of Kings
-2032,Triston,Male,,,,Ser,Triston of Tally Hill,,,,House Sunglass of Sweetport Sound,A Storm of Swords
-2033,Triston Farwynd,Male,Ironborn,,,Lord of Sealskin Point,,,,,House Farwynd of Sealskin Point,A Feast for Crows
-2037,Turnip,Female,Northmen,,,,,,,,House Stark of Winterfell,A Clash of Kings
-2041,Tyene Sand,Female,Dornish,In 276 AC or 277 AC,,,,,,,House Nymeros Martell of Sunspear,A Storm of Swords
-2042,Tymor,Male,,,,,,,,,House Greyjoy of Pyke,A Clash of Kings
-2045,Tytos Blackwood,Male,,At Raventree Hall,,Lord of Raventree Hall,,,,,House Blackwood of Raventree Hall,A Game of Thrones
-2049,Uller,Male,Ironborn,,,,,,,,House Greyjoy of Pyke,A Clash of Kings
-2052,Umfred,Male,,,,,,,,,House Baelish of the Fingers,A Storm of Swords
-2054,Unknown,Male,Westerosi,In 195 AC or 196 AC,,Lady,,,,113,House Butterwell,House Frey of the Crossing
-2055,Urek Ironmaker,Male,Ironborn,,,,,,,,House Ironmaker,A Feast for Crows
-2061,Urzen,Male,Ironborn,,,,,,,,House Greyjoy of Pyke,A Clash of Kings
-2072,Vylarr,Male,,,,Captain of Lannister household guard,,,,,House Lannister of Casterly Rock,A Clash of Kings
-2077,Walton,Male,,,,,Steelshanks Walton,,,,House Bolton of the Dreadfort,A Clash of Kings
-2079,Wat,Male,,,,,Wat Barleycorn,,,,House Osgrey of Standfast,The Sworn Sword
-2080,Wat,Male,,,,,Blue Bard,,,,House Tyrell of Highgarden,A Feast for Crows
-2083,Wat,Male,,,,,,,,,House Osgrey of Standfast,The Sworn Sword
-2084,Wat,Male,,,,,Wet Wat,,,,House Osgrey of Standfast,The Sworn Sword
-2085,Wat,Male,,,,,Whitesmile Wat,,,,House Lannister of Casterly Rock,A Clash of Kings
-2086,Wate,Male,,,,,,,,,House Targaryen of King's Landing,The Hedge Knight
-2089,Wayn,Male,Northmen,,,,,,,,House Stark of Winterfell,A Game of Thrones
-2093,Wendamyr,Male,,,,Maester,,,,,House Greyjoy of Pyke,A Clash of Kings
-2094,Wendell Webber,Male,,,,Ser,,,,,House Webber of Coldmoat,The Sworn Sword
-2096,Werlag,Male,Ironborn,,,,,,,,House Greyjoy of Pyke,A Clash of Kings
-2097,Wex Pyke,Male,Ironborn,In 286 AC,,,,,,,House Botley of Lordsport,A Clash of Kings
-2100,Will,Male,,,In 299 AC,,Hookface Will,,,,House Baratheon of Dragonstone,A Storm of Swords
-2103,Will,Male,,,,,,,,,House Osgrey of Standfast,The Sworn Sword
-2105,Will,Male,,,,,Treb,,,,House Osgrey of Standfast,The Sworn Sword
-2106,Will Humble,Male,Ironborn,,,,,,,,House Humble,A Feast for Crows
-2111,Willit,Male,,,,,,,,,House Swyft of Cornfield,A Clash of Kings
-2115,Wolmer,Male,,,,,,,,,House Webber of Coldmoat,The Sworn Sword
-2117,Wulfe,Male,Ironborn,,,,Wulfe One-Ear,,,,House Greyjoy of Pyke,A Feast for Crows
-2121,Wylla,Female,,,,,,,,,House Dayne of Starfall,A Game of Thrones
-2124,Yandry,Male,,,,,,,,2132,House Targaryen of King's Landing,A Dance with Dragons
-2128,Yorkel,Male,,,,,,,,,House Targaryen of King's Landing,The Hedge Knight
+_id,name,gender,culture,born,died,titles,aliases,father,mother,spouse,allegiances
+2,Walder,Male,,,,,Hodor,,,,House Stark of Winterfell
+29,Abelar Hightower,Male,,,,Ser,,,,,House Hightower of the Hightower
+30,Addam Frey,Male,,,,Ser,,,,,House Frey of the Crossing
+37,Aegon Frey,Male,,In or between 253 AC and 272 AC,,,Aegon Bloodborn,,,,House Frey of the Crossing
+38,Aegon I,Male,,27 BC, at Dragonstone,37 AC, at Dragonstone,King of All Westeros,Shield of His People,King of the Andals, the Rhoynar and the First Men
+39,Aegon II,Male,,107 AC, at King's Landing,131 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm
+40,Aegon III,Male,Valyrian,120 AC, at Dragonstone,157 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm
+41,Aegon IV,Male,,135 AC, at King's Landing,184 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm
+44,Aegon Targaryen,Male,Valyrian,,,Prince,,,,,House Targaryen of King's Landing
+45,Aegon Targaryen,Male,Valyrian,In or between 50 AC and 59 AC,,Prince,,,,,House Targaryen of King's Landing
+46,Aegon V,Male,,200 AC, at King's Landing,259 AC, at Summerhall,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm
+48,Aelinor Penrose,Female,Valyrian,,,Queen,,,,61,House Penrose of Parchments
+49,Aemma Arryn,Female,,In 82 AC,In 105 AC,Queen,,,,1076,House Arryn of the Eyrie
+51,Aemon Costayne,Male,,,,,,,,,House Costayne of Three Towers
+52,Aemon Estermont,Male,Stormlands,,,Ser,,,,,House Estermont of Greenstone
+53,Aemon Rivers,Male,,,,Ser,,,,,House Frey of the Crossing
+57,Aenys I,Male,,7 AC, at Dragonstone,42 AC, at Dragonstone,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm
+59,Aerion Targaryen,Male,Valyrian,At Dragonstone,At Dragonstone,Lord of Dragonstone,,,,1070,House Targaryen of King's Landing
+61,Aerys I,Male,,or between 172 AC and 176 AC, at King's Landing,221 AC,King of the Andals, the Rhoynar, and the First Men,Lord of the Seven Kingdoms,Protector of the Realm
+62,Aerys II,Male,,244 AC, at King's Landing,283 AC, at the Red Keep in King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm
+66,Alannys Harlaw,Female,Ironborn,,,Queen of the Iron Islands,Lanny,,,12,House Greyjoy of Pyke
+67,Albar Royce,Male,,,,Ser,,,,,House Royce of the Gates of the Moon
+68,Alekyne Florent,Male,,,,Lord of Brightwater (attainted),,,,,House Florent of Brightwater Keep
+70,Alesander Frey,Male,,In or between 265 AC and 281 AC,,,,,,,House Frey of the Crossing
+71,Alesander Staedmon,Male,,,,Lord of Broad Arch,the Pennylover,,,,House Staedmon of Broad Arch
+73,Alester Norcross,Male,,In 290 AC or 291 AC,,,,,,,House Norcross
+74,Alester Oakheart,Male,,,At Prince's Pass,,,,,,House Oakheart of Old Oak
+75,Alester Tyrell,Male,Andal,,,Ser,,,,,House Gardener of Highgarden
+77,Alla Tyrell,Female,,In or around 286 AC (roughly),,,,,,,House Tyrell of Highgarden
+79,Alliser Thorne,Male,,In 248 AC (roughly),,Ser,,,,,House Thorne
+80,Allyria Dayne,Female,,,,,,,,,House Dayne of Starfall
+81,Alyce Graceford,Female,,,,Lady,,,,,House Graceford of Holyhall
+82,Alyn Ambrose,Female,,,,,,,,,House Ambrose
+85,Alyn Estermont,Female,Stormlands,,,Ser,,,,,House Estermont of Greenstone
+86,Alyn Frey,Female,,In 295 AC or 296 AC,,,,,,,House Frey of the Crossing
+87,Alyn Haigh,Female,,In or between 256 AC or 291 AC,,,,,,,House Haigh
+88,Alyn Hunt,Female,,,,Ser,,,,,House Hunt
+89,Alyn Stackspear,Female,,,,Ser,,,,,House Stackspear
+92,Alys Arryn,Female,,In or between 218 AC and 249 AC,,,,,,373,House Arryn of the Eyrie
+93,Alys Arryn,Female,,,,,,,,868,House Arryn of the Eyrie
+94,Alys Beesbury,Female,,,,,,,,624,House Beesbury of Honeyholt
+95,Alys Frey,Female,,,,,,,,535,House Frey of the Crossing
+97,Alys Karstark,Female,Northmen,,,Lady of Winterfell,,,,207,House Karstark of Karhold
+98,Alys Karstark,Female,Northmen,,,,,,,143,House Karstark of Karhold
+99,Alysane Mormont,Female,Northmen,In or between ~273 AC and 278 AC,,,The Young She-Bear,,,,House Mormont of Bear Island
+100,Alysanne Bulwer,Female,,In 291 AC,,Lady of Blackcrown,,,,,House Bulwer of Blackcrown
+101,Alysanne Farman,Female,,,,Lady,,,,422,House Farman of Faircastle
+102,Alysanne Hightower,Female,,,,,,,,141,House Ambrose
+103,Alysanne Lefford,Female,,,,Lady of Golden Tooth,,,,,House Lefford of the Golden Tooth
+106,Alysanne Tarth,Female,,,,,,,,,House Tarth of Evenfall Hall
+107,Alyssa Arryn,Female,,,,,,,,,House Arryn of the Eyrie
+108,Alyssa Blackwood,Female,,In 253 AC or before,In or between 269 AC and 278 AC,Lady,,,,1093,House Blackwood of Raventree Hall
+109,Alyssa Targaryen,Female,Valyrian,In or between 51 AC and 60 AC,,Princess,,,,157,House Targaryen of King's Landing
+111,Alyx Frey,Female,,In 282 AC,,,,1004,1217,,House Frey of the Crossing
+112,Amarei Crakehall,Female,,In 245 AC or before,In 264 AC,,,,,1093,House Crakehall of Crakehall
+114,Amerei Frey,Female,,In 282 AC,,Lady of Darry,Gatehouse Ami,,,1799,House Frey of the Crossing
+116,Andar Royce,Male,Valemen,At Runestone,,Ser,,,,,House Royce of Runestone
+118,Andrew Estermont,Male,,,,Ser,,,,,House Estermont of Greenstone
+121,Androw Ashford,Male,Reach,At Ashford,,Ser,,,,,House Ashford of Ashford
+122,Androw Frey,Male,,In 295 AC or 296 AC,,,,,,,House Frey of the Crossing
+124,Antario Jast,Male,,,,Lord,,,,616,House Jast
+125,Anya Waynwood,Female,,,,Lady of Ironoaks,,,,,House Waynwood of Ironoaks
+127,Ardrian Celtigar,Male,,In 229 AC or later,,Lord of Claw Isle,the Red Crab,,,,House Celtigar of Claw Isle
+131,Arianne Tarth,Female,,,,,,,,,House Tarth of Evenfall Hall
+133,Armond Caswell,Male,,,,Lord of Bitterbridge,,,,,House Caswell of Bitterbridge
+134,Arnolf Karstark,Male,Northmen,At Karhold,,Castellan of Karhold,Lord Arnolf,,,,House Karstark of Karhold
+136,Arra Norrey,Female,Northern mountain clans,,,Lady of Winterfell,,,,259,House Norrey
+138,Arron Qorgyle,Male,,,,Ser,,,,,House Qorgyle of Sandstone
+139,Arstan Selmy,Male,Westeros,,,Lord of Harvest Hall,,,,,House Selmy of Harvest Hall
+140,Arthor Karstark,Male,Northmen,,,,,,,,House Karstark of Karhold
+141,Arthur Ambrose,Male,,,,Lord,,,,102,House Ambrose
+143,Artos Stark,Male,Northmen,,,,Artos the Implacable,,,98,House Stark of Winterfell
+145,Arwood Frey,Male,,In or between 263 AC and 281 AC,,Ser,,501,173,948,House Frey of the Crossing
+146,Arwyn Frey,Female,,In 285 AC,,,,,,,House Frey of the Crossing
+147,Arwyn Oakheart,Female,,,,Lady of Old Oak,,,,,House Oakheart of Old Oak
+152,Aubrey Ambrose,Male,,,,Ser,,,,,House Ambrose
+155,Baelon Targaryen,Male,Valyrian,At Dragonstone,,,,,,,House Targaryen of King's Landing
+160,Baelor I,Female,,144 AC, at King's Landing,171 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm
+163,Balon Botley,Male,Ironborn,,,,,,,,House Botley of Lordsport
+164,Balon Swann,Male,Stormlander,,,Ser,,,,,House Swann of Stonehelm
+165,Barba Bracken,Female,,In 155 AC,,,,,,,House Bracken of Stone Hedge
+166,Barbrey Dustin,Female,Northmen,,,Lady of Barrowton,,,,1110,House Dustin of Barrowton
+172,Bayard Norcross,Male,,,,Ser,,,,,House Norcross
+173,Bellena Hawick,Female,,,,,,,,501,House Frey of the Crossing
+176,Benedar Belmore,Male,,,,Lord of Strongsong,,,,,House Belmore of Strongsong
+185,Bennarion Botley,Male,Ironborn,,,,,,,,House Botley of Lordsport
+187,Beony Beesbury,Female,,,,,,,,854,House Beesbury of Honeyholt
+188,Beren Tallhart,Male,Northmen,In 289 AC,,,,,,,House Tallhart of Torrhen's Square
+189,Berena Hornwood,Female,Northmen,,,,,,,625,House Hornwood of Hornwood
+191,Beron Blacktyde,Male,,,,,Blind Beron Blacktyde,,,,House Blacktyde of Blacktyde
+193,Bertram Beesbury,Male,,,,Ser,,,,,House Beesbury of Honeyholt
+196,Bethany Bolton,Female,Northmen,,,Lady of the Dreadfort,,,,933,House Bolton of the Dreadfort
+197,Bethany Bracken,Female,,In 156 AC or later,In 178 AC,,,,,,House Bracken of Stone Hedge
+198,Bethany Redwyne,Female,,,,Lady of Goldengrove,,,,731,House Redwyne of the Arbor
+199,Bethany Rosby,Female,,In 265 AC or before,In or between 282 AC and 284 AC,Lady,,,,1093,House Frey of the Crossing
+201,Boremund Harlaw,Male,Ironborn,,,Master of Harridan Hill,Boremund the Blue,,,,House Harlaw of Harridan Hill
+204,Bradamar Frey,Male,,In 289 AC,,,,,,,House Frey of the Crossing
+209,Brandon Stark,Female,First Men,,,King of Winter,Bran the Builder,,,,House Stark of Winterfell
+214,Brandon Tallhart,Female,Northmen,In 284 AC or 285 AC,,,,,,,House Tallhart of Torrhen's Square
+215,Branston Cuy,Male,,,,Lord of Sunflower Hall,,,,,House Cuy of Sunhouse
+219,Bryan Frey,Male,,In or between 281 AC and 291 AC,,,,,,,House Frey of the Crossing
+224,Buford Bulwer,Male,,,,Ser,The Old Ox,,,,House Bulwer of Blackcrown
+226,Calla Blackfyre,Female,Valyrian,,,,,,,47,House Blackfyre of King's Landing
+227,Carellen Smallwood,Female,,,,,,,,,House Smallwood of Acorn Hall
+228,Carolei Waynwood,Female,,,,,,,,417,House Waynwood of Ironoaks
+229,Casper Wylde,Male,,,,Lord of the Rain House,,,,,House Wylde of Rain House
+231,Cassella Vaith,Female,Dornishmen,,,Lady of Vaith,,,,,House Vaith of the Red Dunes
+234,Cedrik Storm,Male,,,,,the Bastard of Bronzegate,,,,House Buckler of Bronzegate
+235,Cerenna Lannister,Female,,,,,,,,,House Lannister of Casterly Rock
+236,Cerissa Brax,Female,,,,Lady of Casterly Rock,,,,283,House Brax of Hornvale
+237,Cersei Frey,Female,,In 292 AC or 293 AC,,,the Little Bee,,,,House Frey of the Crossing
+240,Clarence Charlton,Male,,,,Ser,,,,,House Charlton
+241,Clarence Crabb,Male,,,,Ser,Clarence the Short,,,,House Crabb
+243,Clayton Suggs,Male,,,,Ser,,,,,House Baratheon of Dragonstone
+244,Clement Crabb,Male,,,,Ser,,,,,House Crabb
+245,Clement Piper,Male,Rivermen,,,Lord of Pinkmaiden,,,,,House Piper of Pinkmaiden
+248,Cleyton Caswell,Male,,,,Ser,,,,,House Caswell of Bitterbridge
+249,Colen of Greenpools,Male,,,,Ser,,,,,House Baratheon of Storm's End
+251,Colmar Frey,Male,,In 288 AC,,,,,,,House Frey of the Crossing
+252,Corenna Swann,Female,,,,,,,,994,House Frey of the Crossing
+257,Crake,Male,,In Age of Heroes,,,Crake the Boarkiller,,,,House Crakehall of Crakehall
+261,Creighton Redfort,Male,Valemen,,,Ser,,,,,House Redfort of Redfort
+262,Cynthea Frey,Female,,In 290 AC,,,,,,,House Frey of the Crossing
+263,Cyrenna Swann,Female,,In 236 AC or before,In or between 249 AC and 257 AC,,,,,1093,House Frey of the Crossing
+266,Daella Targaryen,Female,Valyrian,In 199 AC,,Princess,,,,,House Targaryen of King's Landing
+269,Daemon Targaryen,Male,Valyrian,In 81 AC,In 130 AC, at the Gods Eye,Prince,Commander of the City Watch,Master of coin,Master of laws,King of the Stepstones and the Narrow Sea
+271,Daenerys Targaryen,Female,,In 172 AC,,Princess,,,,719,House Nymeros Martell of Sunspear
+272,Daenora Targaryen,Female,Valyrian,,,Princess,,,,58,House Targaryen of King's Landing
+273,Daeron I,Male,,143 AC, at King's Landing,161 AC, at Dorne,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm
+277,Daeron Vaith,Male,Dornish,,,Lord of the Red Dunes,,,,,House Vaith of the Red Dunes
+278,Dagon Greyjoy,Male,Ironborn,,,Lord of Pyke,,,,,House Greyjoy of Pyke
+279,Dagos Manwoody,Male,,,,Lord of Kingsgrave,,,,,House Manwoody of Kingsgrave
+281,Dale Drumm,Male,,,,,Dale the Dread,,,,House Drumm of Old Wyk
+284,Damon Lannister,Male,,In 244 AC or 245 AC,,,,,,363,House Lannister of Casterly Rock
+285,Damon Marbrand,Male,,,,Lord of Ashemark,,,,,House Marbrand of Ashemark
+286,Damon Paege,Male,,,,Ser,,,,,House Paege
+288,Damon Vypren,Male,,In 265 AC or later,,Ser,,,,,House Vypren
+289,Danelle Lothston,Female,,,,Lady of Harrenhal,Mad Danelle,,,,House Lothston of Harrenhal
+290,Danos Slynt,Male,,,,,,,,,House Slynt of Harrenhal
+291,Danwell Frey,Male,,In or between 252 AC and 261 AC,,Ser,,,,1125,House Frey of the Crossing
+292,Darlessa Marbrand,Female,,,,,,,,1049,House Lannister of Casterly Rock
+295,Deana Hardyng,Female,,,,,,,,1100,House Frey of the Crossing
+296,Delena Florent,Female,,,,,,,,500,House Florent of Brightwater Keep
+297,Della Frey,Female,,In 296 AC,,,Deaf Della,,,,House Frey of the Crossing
+298,Delonne Allyrion,Female,Dornish,,,Lady of Godsgrace,,,,,House Allyrion of Godsgrace
+299,Dennis Plumm,Male,,,,Ser,,,,,House Plumm
+301,Denys Darklyn,Male,,,,Lord of Duskendale,,,,967,House Darklyn of Duskendale
+302,Denys Drumm,Male,Ironborn,,,,,,,,House Drumm of Old Wyk
+304,Denys Redwyne,Male,,,,,,,,,House Redwyne of the Arbor
+305,Denyse Hightower,Female,,,,,,,,307,House Hightower of the Hightower
+306,Desmond Grell,Male,,In or between 237 AC and 240 AC (roughly),,Ser,,,,,House Grell
+307,Desmond Redwyne,Male,,,,Ser,,,,305,House Redwyne of the Arbor
+308,Devan Seaworth,Male,,In 287 AC,,,,,,,House Baratheon of Dragonstone
+309,Deziel Dalt,Male,,,,The Knight of Lemonwood,,,,,House Dalt of Lemonwood
+311,Dickon Frey,Male,,In 294 AC,,,,,,,House Frey of the Crossing
+312,Dickon Manwoody,Male,,,,,,,,,House Manwoody of Kingsgrave
+313,Dickon Tarly,Male,,In or between 287 AC and 290 AC,,,,,,359,House Tarly of Horn Hill
+314,Domeric Bolton,Male,,In or between 279 AC and 281 AC (roughly),In 297 AC,,,,,,House Bolton of the Dreadfort
+316,Donel Greyjoy,Male,Ironborn,,,,,,,,House Greyjoy of Pyke
+319,Donnel Drumm,Male,Ironborn,,,,,,,,House Drumm of Old Wyk
+320,Donnel Haigh,Male,,In or between 255 AC and 282 AC,,Ser,,,,,House Haigh
+322,Donnel Swann,Male,Stormlander,,,Ser,Ser Donnel the Constant,,,,House Swann of Stonehelm
+323,Donnor Saltcliffe,Male,Ironborn,,,Lord,,,,,House Saltcliffe of Saltcliffe
+327,Dorna Swyft,Female,,,,,,,,605,House Swyft of Cornfield
+332,Duram Bar Emmon,Male,,In 284 AC,,Lord of Sharp Point,,,,,House Bar Emmon of Sharp Point
+334,Dyanna Dayne,Female,,,In or between 201 AC and 209 AC,Lady,,,,695,House Dayne of Starfall
+337,Eddara Tallhart,Female,Northmen,In 289 AC or 290 AC,,Lady of Torrhen's Square,,,,,House Tallhart of Torrhen's Square
+339,Eddard Stark,Male,Northmen,In 263 AC, at Winterfell,In 299 AC, at Great Sept of Baelor in King's Landing,Lord of Winterfell,Warden of the North,Hand of the King,Protector of the Realm
+341,Eddison Tollet,Male,Valemen,,,,Dolorous Edd,,,,House Tollett of the Grey Glen
+342,Eden Risley,Male,,,,Ser,,,,,House Risley
+343,Edgerran Oakheart,Male,,,,Lord,Edgerran the Open-Handed,,,,House Oakheart of Old Oak
+344,Edmund Ambrose,Male,,,,Ser,,,,,House Ambrose
+352,Edwyn Frey,Male,,In or between 259 AC and 278 AC,,,,,,534,House Frey of the Crossing
+355,Eglantine,Female,,,,Septa,,,,,House Baratheon of King's Landing
+358,Eldred Codd,Male,Ironborn,,,,,,,,House Codd
+359,Eleanor Mooton,Female,,In 286 AC or 287 AC,,,,,,313,House Mooton of Maidenpool
+362,Elinor Tyrell,Female,,In 286 AC (roughly),,,,,,,House Tyrell of Highgarden
+363,Ella Lannister,Female,,,,,,,,284,House Lannister of Casterly Rock
+364,Ellaria Sand,Female,Dornish,,,,The serpent's whore,,,1770,House Nymeros Martell of Sunspear
+365,Ellery Vance,Female,,,,Ser,,,,,House Vance of Atranta
+366,Ellyn Ever Sweet,Female,,,,,,,,,House Beesbury of Honeyholt
+368,Elmar Frey,Male,,In 290 AC,,,,,,,House Frey of the Crossing
+369,Elwood Meadows,Male,Reach,In 278 AC or 279 AC,,Lord of Grassy Vale,,,,,House Baratheon of Dragonstone
+370,Elyana Vypren,Female,,In or between 264 AC and 282 AC,,,,,,587,House Vypren
+371,Elyas Willum,Male,,,,,,,,,House Willum
+372,Elyn Norridge,Female,,,,,,,,665,House Norridge
+373,Elys Waynwood,Male,,,,Ser,,,,92,House Waynwood of Ironoaks
+374,Elys Westerling,Male,,,,Ser,,,,,House Westerling of the Crag
+375,Emberlei Frey,Female,,In 296 AC or 297 AC,,,,,,,House Frey of the Crossing
+377,Emmon Frey,Male,,In 237 AC or 238 AC,,Lord of Riverrun,Emm,,,415,House Frey of Riverrun
+378,Emphyria Vance,Female,,,,,,,,,House Vance of Wayfarer's Rest
+380,Eon Hunter,Female,,In 220 AC or before (roughly),In +/- 300 AC,Lord of Longbow Hall,Old Lord Hunter,,,,House Hunter of Longbow Hall
+381,Erena Glover,Female,Northmen,In 297 AC or 298 AC,,,,,,,House Glover of Deepwood Motte
+382,Ermesande Hayford,Female,,In 298 AC,,Lady of Hayford,,,,1051,House Hayford of Hayford
+383,Erren Florent,Female,,,,Ser,,,,,House Florent of Brightwater Keep
+387,Eustace Hunter,Male,,,,Ser,,,,,House Hunter of Longbow Hall
+391,Falena Stokeworth,Female,,In 125 AC,,Lady of Harrenhal,,,,656,House Lothston of Harrenhal
+393,Flement Brax,Male,,,,Ser,,,,765,House Brax of Hornvale
+394,Forley Prester,Male,,,,Ser,,,,,House Prester of Feastfires
+395,Foss the Archer,Male,,,,,,,,,House Fossoway of Cider Hall
+397,Galbart Glover,Male,Northmen,At Deepwood Motte,,Master of Deepwood Motte,,,,,House Glover of Deepwood Motte
+402,Garrett Paege,Male,,,,,,,,,House Paege
+403,Garrison Prester,Male,,,,Lord of Feastfires,,,,,House Prester of Feastfires
+407,Garth Hightower,Male,,At Oldtown,,Ser,Garth Greysteel,,,,House Hightower of the Hightower
+408,Garth Tyrell,Male,,,,Lord Seneschal,Garth the Gross,,,,House Tyrell of Highgarden
+411,Gawen Glover,Male,Northmen,In 295 AC or 296 AC,,,,,,,House Glover of Deepwood Motte
+413,Gawen Westerling,Male,Westermen,,,Lord of the Crag,,,,997,House Westerling of the Crag
+415,Genna Lannister,Female,,In 245 AC,,Lady,,,,377,House Frey of Riverrun
+416,Gerald Gower,Male,,,,Ser,,,,,House Gower
+417,Geremy Frey,Male,,In 263 AC,In or between 289 AC and 299 AC,Ser,,,,228,House Frey of the Crossing
+418,Gerion Lannister,Male,,In 255 AC,In circa 291 AC,,Gery,,,,House Lannister of Casterly Rock
+419,Germund Botley,Male,Ironborn,,,Lord of Lordsport,,,,,House Botley of Lordsport
+420,Gerold Grafton,Male,,,,Lord of Gulltown,,,,,House Grafton of Gulltown
+425,Gilbert of the Vines,Male,,,,,,,,,House Redwyne of the Arbor
+430,Godry Farring,Male,,,,Ser,Godry the Giantslayer,,,,House Baratheon of Dragonstone
+432,Gormond Drumm,Male,Ironborn,,,,Gormond the Oldfather,,,,House Drumm of Old Wyk
+433,Gormond Goodbrother,Male,Ironborn,In 282 AC or 283 AC,,,,,,,House Goodbrother of Hammerhorn
+434,Gorold Goodbrother,Male,Ironborn,,,Lord of Hammerhorn,,,,,House Goodbrother of Hammerhorn
+435,Gowen Baratheon,Male,,,,,,,,1044,House Baratheon of Storm's End
+436,Gran Goodbrother,Male,Ironborn,,,,,,,,House Goodbrother of Hammerhorn
+437,Grance Morrigen,Male,,,,Ser,,,,,House Morrigen of Crow's Nest
+440,Greydon Goodbrother,Male,Ironborn,,,,,,,,House Goodbrother of Hammerhorn
+441,Gulian Qorgyle,Male,,,,Ser,,,,,House Qorgyle of Sandstone
+442,Gulian Swann,Male,,In 259 AC or before,,Lord of Stonehelm,,,,,House Swann of Stonehelm
+444,Gunthor Hightower,Male,,,,Ser,,,,552,House Hightower of the Hightower
+445,Guthor Grimm,Male,,,,Lord of Greyshield,,,,,House Grimm of Greyshield
+447,Gwayne Corbray,Male,,,,Ser,,,,,House Corbray of Heart's Home
+448,Gwayne Gaunt,Male,,,At Duskendale,Ser,,,,,House Gaunt
+450,Gwin Goodbrother,Female,Ironborn,,,,,,,,House Goodbrother of Hammerhorn
+451,Gwynesse Harlaw,Female,Ironborn,,,,,,,,House Harlaw of Harlaw
+452,Gwyneth Yronwood,Female,Dornish,In 287 AC or 288 AC,,,,,,,House Yronwood of Yronwood
+453,Gylbert Farwynd,Male,Ironborn,,,Lord of the Lonely Light,,,,,House Farwynd of the Lonely Light
+455,Gyles Farwynd,Male,Ironborn,,,,,,,,House Farwynd of the Lonely Light
+456,Gyles Grafton,Male,,,,,,,,,House Grafton of Gulltown
+459,Gysella Goodbrother,Female,Ironborn,,,,,,,,House Goodbrother of Hammerhorn
+461,Hallis Mollen,Male,Northmen,,,Captain of the guards for Winterfell,Hal,,,,House Mollen
+462,Halmon Paege,Male,,,,Ser,,,,,House Paege
+464,Harbert Paege,Male,,,,Ser,,,,,House Paege
+466,Harlan Hunter,Male,,,,Ser,,,,,House Hunter of Longbow Hall
+468,Harlon Botley,Male,Ironborn,,,,,,,,House Botley of Lordsport
+469,Harlon Greyjoy,Male,Ironborn,,At Pyke,,,,,,House Greyjoy of Pyke
+470,Harmen Uller,Male,,,,Lord of Hellholt,,,,,House Uller of Hellholt
+471,Harmond Umber,Male,Northmen,,,Lord of the Last Hearth,The Drunken Giant,,,,House Umber of the Last Hearth
+476,Harrion Karstark,Male,Northmen,At Karhold,,Lord of Karhold,Harry,,,,House Karstark of Karhold
+478,Harrold Osgrey,Male,,,At the Redgrass Field,Ser,,,,,House Osgrey of Standfast
+480,Harry Strickland,Male,,,,Captain-General,Homeless Harry Strickland,,,,House Strickland
+483,Harwood Stout,Male,Northmen,,,Lord of Goldgrass,,,,,House Dustin of Barrowton
+485,Harwyn Plumm,Male,,,,Ser,Hardstone,,,,House Plumm
+486,Harys Haigh,Male,,In or between 254 AC and 282 AC,,Ser,,,,,House Frey of the Crossing
+489,Helicent Uffering,Female,,In 171 AC (roughly),,,,,,,House Uffering
+492,Herrock Kenning,Male,Ironborn,,,Lord of Kayce,Herrock the Whoreson,,,,House Kenning of Harlaw
+493,Hilmar Drumm,Male,Ironborn,,,,Hilmar the Cunning,,,,House Drumm of Old Wyk
+494,Hoare,Male,,,,Lord Commander of the Night's Watch,,,,,House Hoare of Orkmont
+495,Hoarfrost Umber,Male,Northmen,,,Lord of the Last Hearth,,,,,House Umber of the Last Hearth
+496,Hobber Redwyne,Male,Reach,At the Arbor,,Ser,Slobber,,,,House Redwyne of the Arbor
+497,Hooded Man,Male,,In Age of Heroes,,,,,,,House Banefort of Banefort
+498,Horas Redwyne,Male,Reach,At the Arbor,,Ser,Horror,,,,House Redwyne of the Arbor
+499,Horton Redfort,Male,Valemen,,,Lord of Redfort,,,,,House Redfort of Redfort
+500,Hosman Norcross,Male,,,,Ser,,,,296,House Norcross
+501,Hosteen Frey,Male,,In or between 250 AC and 258 AC,,Ser,Ser Stupid,,,173,House Frey of the Crossing
+502,Hoster Frey,Male,,In 287 AC,,,,,,,House Frey of the Crossing
+505,Hotho Harlaw,Male,Ironborn,,,Master of the Tower of Glimmering,Hotho Humpback,,,,House Harlaw of the Tower of Glimmering
+509,Hugh Beesbury,Male,,,,Ser,,,,,House Beesbury of Honeyholt
+510,Hugh Grandison,Male,,,,Lord of Grandview,Greybeard,,,,House Grandison of Grandview
+511,Hugo Vance,Male,,,,Ser,,,,,House Vance of Atranta
+515,Humfrey Hewett,Male,,,,Lord of Oakenshield,,,,,House Hewett of Oakenshield
+516,Humfrey Swyft,Male,,,,Ser,,,,,House Swyft of Cornfield
+518,Hyle Hunt,Male,,,,Ser,,,,,House Hunt
+519,Igon Vyrwel,Male,,,,,,,,,House Tyrell of Highgarden
+521,Ilyn Payne,Male,Westeros,,,Ser King's Justice,,,,,House Payne
+523,Jacelyn Bywater,Male,,,In 299 AC, at King's Landing,Ser,Captain of the Mud Gate,Commander of the City Watch,Lord,Ironhand
+526,Jaehaerys I,Male,,34 AC, at King's Landing,103 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm
+527,Jaehaerys II,Male,,225 AC, at King's Landing,262 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm
+528,Jaime Frey,Female,,In 299 AC or 300 AC,,,,,,,House Frey of the Crossing
+530,Jammos Frey,Male,,In 266 AC or 267 AC,,Ser,,,,952,House Frey of the Crossing
+531,Janei Lannister,Female,,In 296 AC or 297 AC,,,,,,,House Lannister of Casterly Rock
+532,Janna Tyrell,Female,,,,,,,,577,House Fossoway of New Barrel
+534,Janyce Hunter,Female,,,,,,,,352,House Frey of the Crossing
+535,Jared Frey,Male,,At 248 AC or 249 AC,In 300 AC (suspected),Ser,,,,95,House Frey of the Crossing
+537,Jarman Buckwell,Male,,,In 300 AC (supposedly),Ser,,,,,House Buckwell of the Antlers
+539,Jason Mallister,Male,,At Seagard,,Lord of Seagard,,,,,House Mallister of Seagard
+541,Jasper Redfort,Male,Valemen,,,Ser,,,,,House Redfort of Redfort
+542,Jasper Waynwood,Male,,,,,,,,,House Waynwood of Ironoaks
+544,Jeffory Mallister,Male,,,At King's Landing,,,,,,House Mallister of Seagard
+545,Jeffory Norcross,Male,,,,Ser,Neveryield,,,,House Norcross
+546,Jena Dondarrion,Female,,,,,,,,161,House Dondarrion of Blackhaven
+549,Jeyne Beesbury,Female,,,,,,,,866,House Beesbury of Honeyholt
+550,Jeyne Darry,Female,Westeros,,,,,,,1275,House Darry of Darry
+551,Jeyne Farman,Female,,,,,,,,1403,House Clifton
+552,Jeyne Fossoway,Female,,,,,,,,444,House Fossoway of New Barrel
+553,Jeyne Goodbrook,Female,,In 293 AC,,,,,,,House Goodbrook
+554,Jeyne Lothston,Female,,In 164 AC,,,,,,,House Lothston of Harrenhal
+555,Jeyne Lydden,Female,,,,,,,,994,House Lydden of Deep Den
+556,Jeyne Marbrand,Female,,,In 255 AC,Lady of Casterly Rock,,,,1057,House Lannister of Casterly Rock
+557,Jeyne Poole,Female,Northmen,At Winterfell,,,Arya Stark,,,849,House Poole
+558,Jeyne Royce,Female,,,,,,,,572,House Arryn of the Eyrie
+559,Jeyne Swann,Female,,,,,,,,,House Swann of Stonehelm
+563,Joanna Swyft,Female,,,,,,,,,House Swyft of Cornfield
+564,Jocelyn Swyft,Female,,,,,,,,,House Swyft of Cornfield
+566,Joffrey Caswell,Male,,In 190 AC or 191 AC,,Lord of Bitterbridge,,,,,House Caswell of Bitterbridge
+568,Johanna Lannister,Female,,At the Crag,,Lady of Casterly Rock,,,,538,House Lannister of Casterly Rock
+569,Johanna Swann,Female,,,,,The Black Swan,,,,House Swann of Stonehelm
+570,John the Oak,Male,,,,,The First Knight,,,,House Oakheart of Old Oak
+573,Jon Bettley,Male,,,,Ser,Beardless Jon,,,,House Bettley
+574,Jon Brax,Male,,In 296 AC,,,,,,,House Brax of Hornvale
+575,Jon Bulwer,Male,,,,Lord of Blackcrown,,,,1073,House Bulwer of Blackcrown
+578,Jon Hollard,Male,,,,Ser,,,,,House Hollard
+579,Jon Lynderly,Male,,,,Lord of the Snakewood,,,,,House Lynderly of the Snakewood
+580,Jon Myre,Male,Ironborn,,,,Pinchface Jon,,,,House Myre of Harlaw
+581,Jon Penrose,Male,,,,Ser,,,,,House Penrose of Parchments
+582,Jon Redfort,Male,Valemen,,,Ser,,,,,House Redfort of Redfort
+583,Jon Snow,Male,Northmen,In 283 AC,,Lord Commander of the Night's Watch,Lord Snow,Ned Stark's Bastard,The Snow of Winterfell,The Crow-Come-Over,The 998th Lord Commander of the Night's Watch
+584,Jon Stark,Male,,,,King in the North,,,,,House Stark of Winterfell
+587,Jon Wylde,Male,,,,Ser,,,,370,House Wylde of Rain House
+590,Jonos Frey,Male,,In 291 AC,,,,,,,House Frey of the Crossing
+594,Jorelle Mormont,Female,Northmen,In or between 278 AC and 289 AC,,,Jory,,,,House Mormont of Bear Island
+596,Joseth Mallister,Male,,,,Ser,,,,,House Mallister of Seagard
+597,Josmyn Peckledon,Male,,In 284 AC or 285 AC,,,Peck,,,,House Peckledon
+598,Josua Willum,Male,,,,,,,,,House Willum
+599,Jothos Slynt,Male,,,,,,,,,House Slynt of Harrenhal
+600,Joyeuse Erenford,Female,,In 282 AC or 283 AC,,Lady of the Crossing,,,,1093,House Erenford
+601,Justin Massey,Male,,,,Ser,The Smiler,,,,House Baratheon of Dragonstone
+602,Jyanna Frey,Female,,,,,,,,180,House Frey of the Crossing
+603,Karlon Stark,Male,Northmen,,,Lord of Karl's Hold,,,,,House Karstark of Karhold
+606,Kirth Vance,Male,,,,,,,,,House Vance of Atranta
+607,Kyle Condon,Male,,,,Ser,,,,,House Condon
+608,Kyle Royce,Male,,,At King's Landing,,,,,,House Royce of Runestone
+609,Kyra Frey,Female,,In or between 262 AC and 277 AC,,,,,,404,House Frey of the Crossing
+612,Lambert Turnberry,Male,,,,Ser,,,,,House Turnberry
+615,Lann,Male,,In Age of Heroes,,,Lann the Clever,,,,House Lannister of Casterly Rock
+616,Lanna Lannister,Female,,In or between 271 AC and 286 AC,,,,,,124,House Jast
+617,Larence Snow,Male,Northmen,In 286 AC,,,,,,,House Hornwood of Hornwood
+619,Leana Frey,Female,,In 299 AC or 300 AC,,,,,,,House Frey of the Crossing
+620,Lenwood Tawney,Male,Ironborn,,,,Little Lenwood Tawney,,,,House Tawney of Orkmont
+621,Leo Blackbar,Male,,,,Ser,,,,783,House Blackbar of Bandallon
+624,Leo Tyrell,Male,,,,Ser,,,,94,House Tyrell of Highgarden
+626,Leona Tyrell,Female,,,,,,,,,House Tyrell of Highgarden
+627,Leona Woolfield,Female,,,,,,,,1122,House Manderly of White Harbor
+628,Leonella Lefford,Female,,,,,,,,649,House Frey of the Crossing
+629,Leslyn Haigh,Female,,,,Ser,,,,819,House Haigh
+630,Lester Morrigen,Male,,,,Lord of Crows Nest,,,,,House Morrigen of Crow's Nest
+632,Lewys Lydden,Male,,,,Lord of the Deep Den,,,,,House Lydden of Deep Den
+633,Lewys Piper,Male,Rivermen,,,,Little Lew,,,,House Piper of Pinkmaiden
+634,Leyla Hightower,Female,,,,,,,,1553,House Hightower of the Hightower
+635,Leyton Hightower,Male,,,,Lord of the Hightower,Lord of the Port,Voice of Oldtown,Defender of the Citadel,Beacon of the South,Old Man of Oldtown
+636,Lia Serry,Female,,,,,,,,1019,House Serry of Southshield
+637,Liane Vance,Female,,,,,,,,,House Vance of Wayfarer's Rest
+638,Lollys Stokeworth,Female,,In 265 AC,,Lady of Stokeworth,Lollys Lackwit,,,217,House Stokeworth of Stokeworth
+639,Lomas Estermont,Male,Stormlands,,,Ser,,,,,House Estermont of Greenstone
+641,Lord Ashford,Male,Reach,,,Lord of Ashford,,,,,House Ashford of Ashford
+645,Lorent Lorch,Male,,,,Ser,,,,,House Lorch
+647,Lorent Tyrell,Male,,,,,,,,,House Tyrell of Highgarden
+648,Lorra Royce,Female,,,,Lady of Winterfell,,,,192,House Royce of Runestone
+651,Lothor Brune,Female,,,,Ser,Lothor Apple-Eater,,,,House Baelish of Harrenhal
+652,Lucamore Strong,Male,,,,Ser,Lucamore the Lusty,,,,House Strong of Harrenhal
+653,Lucas Codd,Male,Ironborn,,,,Left-Hand Lucas,,,,House Codd
+654,Lucas Corbray,Male,,,,Ser,,,,,House Corbray of Heart's Home
+658,Lucas Tyrell,Male,,,,,,,,,House Tyrell of Highgarden
+660,Lucias Vypren,Male,,,,Lord,,,,690,House Vypren
+661,Lucimore Botley,Male,Ironborn,,,,,,,,House Botley of Lordsport
+662,Lucion Lannister,Male,,In or between 270 AC and 285 AC,,Ser,,,,,House Lannister of Casterly Rock
+663,Lucos Chyttering,Male,,In 283 AC,,Lord,Little Lucos,,,,House Chyttering
+665,Luthor Tyrell,Male,,,,Ser,,,,372,House Tyrell of Highgarden
+666,Luthor Tyrell,Male,,,,,,,,,House Tyrell of Highgarden
+667,Lyanna Mormont,Female,Northmen,In 290 AC,,,,,,,House Mormont of Bear Island
+668,Lyarra Stark,Female,Northmen,,,,,,,887,House Stark of Winterfell
+670,Lyle Crakehall,Male,,At Crakehall,,Ser,Strongboar,,,,House Crakehall of Crakehall
+673,Lymond Goodbrook,Male,,,,Lord,,,,,House Goodbrook
+674,Lymond Lychester,Male,Rivermen,,,Lord of Castle Lychester,,,,,House Lychester
+675,Lymond Mallister,Male,,,,Lord of Seagard,,,,,House Mallister of Seagard
+676,Lymond Vikary,Male,,,,Ser,,,,,House Vikary
+677,Lyn Corbray,Male,,At Heart's Home,,Ser,,,,,House Corbray of Heart's Home
+678,Lynesse Hightower,Female,,,,,,,,1560,House Hightower of the Hightower
+679,Lyonel Baratheon,Male,,,In or between 239 AC and 245 AC,Ser  Lord of Storm's End Lord Paramount of the Stormlands  Storm King (briefly),The Laughing Storm,,,,House Baratheon of Storm's End
+682,Lyonel Frey,Male,,In or between 259 AC and 283 AC,,Ser,,,,741,House Frey of Riverrun
+686,Lyonel Tyrell,Male,,,,,,,,,House Tyrell of Highgarden
+687,Lyra Mormont,Female,Northmen,In or between 277 AC and 288 AC,,,,,,,House Mormont of Bear Island
+689,Lysa Meadows,Female,,,,,,,,785,House Meadows of Grassy Vale
+690,Lythene Frey,Female,,In 251 AC and 259 AC,,,,,,660,House Frey of the Crossing
+692,Maege Mormont,Female,Northmen,In or between 239 AC and 257 AC,,Lady of Bear Island,The She-Bear,,,,House Mormont of Bear Island
+693,Maegelle Frey,Female,,In or between 249 AC and 266 AC,,,,,,1305,House Frey of the Crossing
+695,Maekar I,Male,,or between 174 AC and 178 AC, at King's Landing,233 AC, at Starpike,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm
+698,Maldon Massey,Male,First Men,,,Lord of Stonedance,,,,,House Massey of Stonedance
+700,Malwyn Frey,Male,,In 284 AC,,,,,,,House Frey of the Crossing
+702,Manfred Dondarrion,Male,,,,Ser,,,,,House Dondarrion of Blackhaven
+703,Manfred Lothston,Male,,,,,,,,,House Lothston of Harrenhal
+704,Manfred Swann,Male,,,,Ser,,,,,House Swann of Stonehelm
+706,Manfryd Lothston,Male,,,,,Manfryd o' the Black Hood,,,,House Lothston of Harrenhal
+707,Manfryd Yew,Male,,,,Ser,,,,,House Yew
+708,Margot Lannister,Female,,,,Lady of Starpike,,,,1027,House Lannister of Casterly Rock
+709,Mariah Martell,Female,Dornish,,,Princess,Myriah Martell,,,274,House Nymeros Martell of Sunspear
+711,Marissa Frey,Female,,In 286 AC,,,,,,,House Frey of the Crossing
+712,Mariya Darry,Female,,,,,,,,751,House Darry of Darry
+713,Mark Mullendore,Male,,,,Ser,,,,,House Mullendore of Uplands
+716,Marna Locke,Female,Northmen,,,Lady of Winterfell,,,,351,House Locke of Oldcastle
+717,Maron Botley,Male,,,,,Fishwhiskers,,,,House Botley of Lordsport
+719,Maron Nymeros Martell,Male,Dornish,,,Prince of Dorne,,,,271,House Nymeros Martell of Sunspear
+721,Marq Piper,Male,Rivermen,At Pinkmaiden Castle,,Ser,,,,,House Piper of Pinkmaiden
+723,Marsella Waynwood,Female,,,,,,,,994,House Frey of the Crossing
+725,Martyn Lannister,Male,,In or between 285 AC and 287 AC,,,,,,,House Lannister of Casterly Rock
+726,Martyn Mullendore,Male,,,,Lord of Uplands,,,,,House Mullendore of Uplands
+727,Marwyn Belmore,Male,,,,Ser,Ser Ding-Dong,,,,House Belmore of Strongsong
+728,Mary Mertyns,Female,Westeros,,,Lady of Mistwood,,,,,House Mertyns of Mistwood
+730,Mathis Frey,Male,,In 294 AC,,,,,,,House Frey of the Crossing
+732,Maynard Plumm,Male,,,,Ser,,,,,House Plumm
+736,Megga Tyrell,Female,,In 286 AC (roughly),,,,,,,House Tyrell of Highgarden
+737,Melantha Blackwood,Female,,,,Lady of Winterfell,,,,1111,House Blackwood of Raventree Hall
+738,Melara Crane,Female,,,,,,,,72,House Crane of Red Lake
+739,Melara Hetherspoon,Female,,In 264 AC or 265 AC,In 276 AC,,,,,,House Hetherspoon
+740,Meldred Merlyn,Male,Ironborn,,,Lord of Pebbleton,The Merlyn,,,,House Merlyn of Pebbleton
+741,Melesa Crakehall,Female,,,,,,,,682,House Crakehall of Crakehall
+742,Melessa Florent,Female,,,,,,,,850,House Florent of Brightwater Keep
+744,Melissa Blackwood,Female,,In or between 156 AC and 160 AC,,,Missy,,,,House Blackwood of Raventree Hall
+745,Melwyn Sarsfield,Male,,,,Ser,,,,974,House Sarsfield of Sarsfield
+746,Meredyth Crane,Female,,At Red Lake,,,Merry,,,,House Crane of Red Lake
+747,Merianne Frey,Female,,In 288 AC,,,Merry Frey,,,,House Frey of the Crossing
+748,Merlon Crakehall,Male,,,,Ser,,,,,House Crakehall of Crakehall
+750,Merrell Florent,Male,,,,,,,,,House Florent of Brightwater Keep
+752,Meryn Trant,Male,,,,Ser,,,,,House Trant of Gallowsgrey
+753,Michael Mertyns,Male,,,,Ser,The White Owl,,,,House Mertyns of Mistwood
+754,Mina Tyrell,Female,,,,,,,,815,House Redwyne of the Arbor
+755,Minisa Whent,Female,Rivermen,,At Riverrun,Lady of Riverrun,,,,503,House Tully of Riverrun
+759,Morgil Hastwyck,Male,,,,Ser,,,,,House Hastwyck
+760,Moribald Chester,Male,,,,Lord of Greenshield,,,,,House Chester of Greenshield
+761,Morros Slynt,Male,,,,Lord,,,,,House Slynt of Harrenhal
+762,Mors Manwoody,Male,,,,,,,,,House Manwoody of Kingsgrave
+763,Mors Martell,Male,,In 248 AC or 257 AC,In 248 AC or 258 AC,,,,,,House Nymeros Martell of Sunspear
+765,Morya Frey,Female,,In 268 AC or 269 AC,,Lady,,,,393,House Brax of Hornvale
+768,Mychel Redfort,Female,Valemen,,,Ser,,,,1133,House Redfort of Redfort
+769,Mylenda Caron,Female,,In or between 258 AC and 265 AC,,,,,,824,House Caron of Nightsong
+770,Myles Manwoody,Male,,,,Ser,,,,,House Manwoody of Kingsgrave
+772,Myles Smallwood,Male,,,,Hand of the King,,,,,House Smallwood of Acorn Hall
+773,Myranda Lefford,Female,,,,,,,,984,House Lannister of Casterly Rock
+774,Myranda Royce,Female,,In 279 AC (roughly),,,Randa,,,,House Royce of the Gates of the Moon
+776,Myria Jordayne,Female,,,,,,,,,House Jordayne of the Tor
+777,Myriame Manderly,Female,Northmen,,,Lady of Winterfell,,,,918,House Manderly of White Harbor
+778,Myrielle Lannister,Female,,,,,,,,,House Lannister of Casterly Rock
+780,Norbert Vance,Male,,,,Lord of Atranta,,,,,House Vance of Atranta
+781,Nymella Toland,Female,Dornish,,,Lady of Ghost Hill,,,,,House Toland of Ghost Hill
+783,Olene Tyrell,Female,,,,,,,,621,House Tyrell of Highgarden
+785,Olymer Tyrell,Male,,,,Ser,,,,689,House Tyrell of Highgarden
+786,Olyvar Frey,Male,,In 281 AC,,,,,,,House Frey of the Crossing
+787,Olyvar Oakheart,Male,,,In 161 AC,Ser,The Green Oak,,,,House Oakheart of Old Oak
+788,Ondrew Locke,Male,Northmen,,,Lord of Oldcastle,,,,,House Locke of Oldcastle
+789,Orbert Caswell,Male,,,At Castle Black,Lord Commander of the Night's Watch,The Black Centaur,,,,House Caswell of Bitterbridge
+791,Ormond Osgrey,Male,,,,Lord of Coldmoat,,,,,House Osgrey of Standfast
+792,Ormond Westerling,Male,,,,Ser,,,,,House Westerling of the Crag
+795,Ormund Wylde,Male,,,,Ser,,,,,House Baratheon of Dragonstone
+798,Osbert Serry,Male,,,,Lord of Southshield,,,,,House Serry of Southshield
+800,Osmund Frey,Male,,In 297 AC,,,,,,,House Frey of the Crossing
+801,Osmund Kettleblack,Male,,,,Ser,Oswald Kettleblack,,,,House Kettleblack
+802,Osney Kettleblack,Male,,,,Ser,,,,,House Kettleblack
+803,Ossifer Plumm,Male,,,In 176 AC,Lord,,,,1358,House Plumm
+804,Oswell Kettleblack,Male,,,,,Kettleblack,,,,House Baelish of Harrenhal
+806,Othell Yarwyck,Male,,,,First Builder,,,,,House Yarwyck
+807,Otho Bracken,Male,,,,Ser,The Brute of Bracken,,,,House Bracken of Stone Hedge
+810,Owen Inchfield,Male,,,,Ser,,,,,House Inchfield
+812,Parmen Crane,Male,,At Red Lake,,Ser,Parmen the Purple,,,,House Crane of Red Lake
+813,Pate,Male,First Men,,,,Pate the Plowman,,,,House Moreland
+814,Patrek Mallister,Male,,,,,,,,,House Mallister of Seagard
+817,Perra Frey,Female,,In 294 AC,,,,,,,House Frey of the Crossing
+818,Perra Royce,Female,,In 221 AC or before,In or between 241 AC and 249 AC,,,,,1093,House Frey of the Crossing
+819,Perriane Frey,Female,,In or between 241 AC and 248 AC,,,,,,629,House Haigh
+820,Perwyn Frey,Male,,In or between 270 AC and 278 AC,,Ser,,,,,House Frey of the Crossing
+821,Perwyn Osgrey,Male,,,,Lord of Coldmoat,Perwyn the Proud,,,,House Osgrey of Standfast
+822,Peter Plumm,Male,,,,Ser,,,,,House Plumm
+826,Philip Plumm,Male,,,,Lord,,,,,House Plumm
+827,Podrick Payne,Male,,In 286 AC or 287 AC,,,Pod,,,,House Payne
+830,Qarl Kenning,Male,Ironborn,,,,Queer Qarl Kenning,,,,House Kenning of Harlaw
+835,Quellon Botley,Male,Ironborn,,,,,,,,House Botley of Lordsport
+837,Quenten Banefort,Male,,,,Lord of Banefort,,,,,House Banefort of Banefort
+838,Quentin Tyrell,Male,,,At Ashford,Ser,,,,,House Tyrell of Highgarden
+839,Quenton Greyjoy,Male,Ironborn,,,,,,,,House Greyjoy of Pyke
+842,Quentyn Ball,Male,,,At Near Redgrass Field,Ser,Fireball,,,,House Ball
+845,Quentyn Qorgyle,Male,,,,Lord of Sandstone,,,,,House Qorgyle of Sandstone
+847,Ralf Stonehouse,Male,Ironborn,,,Captain of Red Jester,Red Ralf Stonehouse,,,,House Stonehouse of Old Wyk
+848,Ralph Buckler,Male,,,,Lord,,,,,House Buckler of Bronzegate
+851,Ravella Swann,Female,,,,Lady of Acorn Hall,,,,1020,House Smallwood of Acorn Hall
+853,Raymun Fossoway,Male,,,,Ser,,,,,House Fossoway of New Barrel
+854,Raymund Frey,Male,,In 264 AC,,Ser,,,,187,House Frey of the Crossing
+855,Raymund Tyrell,Male,,,,,,,,,House Tyrell of Highgarden
+857,Raynard Ruttiger,Male,,,,Ser,,,,,House Ruttiger
+860,Regenard Estren,Male,,,,Lord of Wyndhall,,,,,House Estren of Wyndhall
+861,Renfred Rykker,Male,,,,Lord of Duskendale,,,,,House Rykker of Duskendale
+863,Renly Norcross,Male,,In 296 AC or 297 AC,,,,,,,House Norcross
+864,Reynard Webber,Male,,,,Lord of Coldmoat,,,,,House Webber of Coldmoat
+865,Rhae Targaryen,Female,Valyrian,In or between 201 AC and 209 AC,,Princess,,,,,House Targaryen of King's Landing
+866,Rhaegar Frey,Female,,In or between 269 AC and 273 AC,In 300 AC (suspected),,,,,549,House Frey of the Crossing
+868,Rhaegel Targaryen,Male,Valyrian,In or between 173 AC and 177 AC,In 215 AC,Prince of Dragonstone,,,,93,House Targaryen of King's Landing
+870,Rhaelle Targaryen,Female,,In or between 229 AC and 233 AC,,Princess,,,,794,House Baratheon of Storm's End
+874,Rhaenyra Targaryen,Female,Valyrian,In 97 AC,In 130 AC, at Dragonstone,Princess of Dragonstone,Lady of the Seven Kingdoms (claimant),The Realm's Delight,The Whore of Dragonstone,King Maegor with Teats
+877,Rhea Florent,Female,,,,,,,,635,House Florent of Brightwater Keep
+879,Rhialta Vance,Female,,,,,,,,,House Vance of Wayfarer's Rest
+880,Rhonda Rowan,Female,,,,,,,,159,House Rowan of Goldengrove
+881,Richard Horpe,Male,,,,Ser,The Slayer,,,,House Baratheon of Dragonstone
+882,Richard Lonmouth,Male,,,,Ser,The Knight of Skull and Kisses,,,,House Lonmouth
+883,Richard Morrigen,Male,,,,Ser,,,,,House Morrigen of Crow's Nest
+885,Rickard Ryswell,Male,Northmen,,,,,,,,House Ryswell of the Rills
+889,Rickard Tyrell,Male,,,,,,,,,House Tyrell of Highgarden
+890,Rickard Wylde,Male,,In 295 AC,,,,,,,House Wylde of Rain House
+893,Robb Reyne,Female,,,,Ser,,,,,House Reyne of Castamere
+895,Robert Ashford,Male,Reach,At Ashford,,Ser,,,,,House Ashford of Ashford
+897,Robert Brax,Male,,In 290 AC,,,,,,,House Brax of Hornvale
+899,Robert Frey,Male,,In 286 AC,,,,,,,House Frey of the Crossing
+900,Robert Frey,Male,,In 283 AC,,,,,,,House Frey of the Crossing
+901,Robert I Baratheon,Male,,262 AC, at Storm's End,298 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm
+902,Robert Paege,Male,,,,Ser,,,,,House Paege
+903,Robett Glover,Male,Northmen,At Deepwood Motte,,,,,,998,House Glover of Deepwood Motte
+904,Robin Greyjoy,Male,Ironborn,,At Pyke,,,,,,House Greyjoy of Pyke
+906,Robin Hollard,Male,,,,,,,,,House Hollard
+907,Robin Moreland,Male,,,,Lord,,,,,House Moreland
+908,Robin Peasebury,Male,,,,Lord of Poddingfield,Lord Pea Pord,,,,House Baratheon of Dragonstone
+910,Robyn Rhysling,Female,,,,Ser,,,,,House Rhysling
+911,Robyn Ryswell,Female,Northmen,,,,,,,589,House Ryswell of the Rills
+915,Rodrik Ryswell,Female,Northmen,,,Lord of the Rills,,,,,House Ryswell of the Rills
+916,Rodrik Stark,Female,Northmen,,,King in the North,,,,,House Stark of Winterfell
+917,Rodrik Stark,Female,Northmen,,,,The Wandering Wolf,,,1175,House Stark of Winterfell
+919,Roelle,Female,,,,Septa,,,,,House Tarth of Evenfall Hall
+920,Rohanne,Female,Tyroshi,,In or after 211 AC,,,,,267,House Blackfyre of King's Landing
+921,Roland Crakehall,Male,,,,Ser,,,,,House Crakehall of Crakehall
+922,Roland Crakehall,Male,,,,Lord of Crakehall,,,,,House Crakehall of Crakehall
+924,Rolland Darklyn,Male,,,,Ser,,,,,House Darklyn of Duskendale
+926,Rolland Uffering,Male,,,,Ser,,,,1891,House Uffering
+928,Ronald Connington,Male,,,,Ser the Knight of Griffin's Roost,,,,,House Connington of Griffin's Roost
+929,Ronald Vance,Male,,,,Ser,Ronald the Bad,,,,House Vance of Atranta
+930,Ronnel Harclay,Male,,,,,,,,,House Harclay
+931,Ronnel Stout,Male,Northmen,,,,,,,,House Stout of Goldgrass
+932,Ronnet Connington,Male,,In 274 AC,,Ser Knight of Griffin's Roost,Red Ronnet,,,,House Connington of Griffin's Roost
+934,Roose Ryswell,Male,Northmen,,,,,,,,House Ryswell of the Rills
+935,Roryn Drumm,Male,Ironborn,,,,Roryn the Reaver,,,,House Drumm of Old Wyk
+936,Rosamund Lannister,Female,,,,,,,,,House Lannister of Lannisport
+937,Roslin Frey,Female,Rivermen,In 282 AC or 283 AC,,,,,,346,House Frey of the Crossing
+939,Royce Coldwater,Male,,,,Lord of Coldwater Burn,,,,,House Coldwater of Coldwater Burn
+940,Runcel Hightower,Male,,,,Lord Commander of the Night's Watch,,,,,House Hightower of the Hightower
+942,Rupert Crabb,Male,,,,Ser,,,,,House Crabb
+944,Ryam Florent,Male,,,,Ser,,,,,House Florent of Brightwater Keep
+946,Rycherd Crane,Male,,,,Ser,,,,949,House Crane of Red Lake
+947,Ryella Frey,Female,,In 294 AC,,,,,,,House Frey of the Crossing
+948,Ryella Royce,Female,,,,,,,,145,House Frey of the Crossing
+949,Rylene Florent,Female,,,,,,,,946,House Crane of Red Lake
+951,Saera Targaryen,Female,Valyrian,In or between 61 AC and 82 AC,,Princess,,,,,House Targaryen of King's Landing
+952,Sallei Paege,Female,,,,,,,,530,House Frey of the Crossing
+953,Samwell Spicer,Male,,,,Ser,,,,,House Spicer of Castamere
+956,Sandor Frey,Male,,In 287 AC,,,,,,,House Frey of the Crossing
+958,Sargon Botley,Male,Ironborn,,,,,,,,House Botley of Lordsport
+959,Sarra Frey,Female,,In 285 AC,,,,,,,House Frey of the Crossing
+960,Sarya Whent,Female,,,,Lady,,,,1093,House Frey of the Crossing
+962,Sebastion Errol,Male,,,,Lord of Haystack Hall,,,,,House Errol of Haystack Hall
+963,Sebaston Farman,Male,Westerman,,,Lord of Fair Isle,,,,,House Farman of Faircastle
+964,Sefton Staunton,Male,,,,Septon,,,,,House Staunton of Rook's Rest
+965,Selmond Stackspear,Male,,,,Lord,,,,,House Stackspear
+966,Selwyn Tarth,Male,,In 245 AC or 246 AC,,Lord of Evenfall,the Evenstar,,,,House Tarth of Evenfall Hall
+967,Serala of Myr,Female,Myrish,In Myr,,Lady of Duskendale,The Lace Serpent,,,301,House Darklyn of Duskendale
+968,Serra Frey,Female,,In 285 AC,,,,,,,House Frey of the Crossing
+972,Shella Whent,Female,Rivermen,,In +/- 300 AC,Lady of Harrenhal,,,,1099,House Whent of Harrenhal
+973,Shiera Crakehall,Female,,,,,,,,282,House Crakehall of Crakehall
+974,Shierle Swyft,Female,,,,,,,,745,House Swyft of Cornfield
+976,Shirei Frey,Female,,In 292 AC or 293 AC,,,,,,,House Frey of the Crossing
+977,Shyra Errol,Female,,,,Lady of Haystack Hall,,,,,House Errol of Haystack Hall
+978,Sigfry Stonetree,Male,Ironborn,,,,,,,,House Stonetree of Harlaw
+979,Sigfryd Harlaw,Male,Ironborn,,,Master of Harlaw Hall,Sigfryd Silverhair,,,,House Harlaw of Harlaw Hall
+980,Sigorn,Male,Thenn,At Thenn,,Magnar of Thenn,,,,96,House Thenn
+981,Simon Leygood,Male,,,,Ser,,,,,House Leygood
+982,Simon Staunton,Male,,,,Ser,,,,1891,House Staunton of Rook's Rest
+985,Steffarion Sparr,Male,Ironborn,,,,,,,,House Sparr of Great Wyk
+988,Steffon Fossoway,Male,,,,Ser,,,,,House Fossoway of Cider Hall
+989,Steffon Frey,Male,,In or between 263 AC and 280 AC,,,Steffon the Sweet,,,,House Frey of the Crossing
+990,Steffon Hollard,Male,,,,Ser,,,,,House Hollard
+991,Steffon Stackspear,Male,,,,Ser,,,,,House Stackspear
+992,Steffon Swyft,Male,,,,Ser,,,,,House Swyft of Cornfield
+993,Steffon Varner,Male,,,,Lord,,,,,House Varner
+996,Sumner Crakehall,Male,,,,Lord of Crakehall,,,,,House Crakehall of Crakehall
+997,Sybell Spicer,Female,,,,Lady of the Crag,,,,413,House Spicer of Castamere
+998,Sybelle Glover,Female,Northmen,,,Lady of Deepwood Motte,,,,903,House Glover of Deepwood Motte
+1000,Sylwa Paege,Female,,,,,,,,1107,House Frey of the Crossing
+1003,Symond Botley,Male,Ironborn,,,,,,,,House Botley of Lordsport
+1008,Talla Tarly,Female,,,,,,,,,House Tarly of Horn Hill
+1009,Tallad,Male,,,,Ser,Tallad the Tall,,,,House Baratheon of King's Landing
+1011,Tanton Fossoway,Male,,,,Ser,,,,,House Fossoway of Cider Hall
+1012,Terrance Lynderly,Male,,,,,,,,,House Lynderly of the Snakewood
+1013,Terrence Kenning,Male,,,,Lord of Kayce,,,,,House Kenning of Kayce
+1014,Terrence Toyne,Male,,,In 178 AC,Ser,,,,,House Toyne
+1015,The Sparr,Female,Ironborn,,,The Sparr,,,,,House Sparr of Great Wyk
+1016,The Stonehouse,Female,Ironborn,,,Lord Stonehouse,,,,,House Stonehouse of Old Wyk
+1019,Theodore Tyrell,Male,,,,Ser,,,,636,House Tyrell of Highgarden
+1020,Theomar Smallwood,Male,,,,Lord of Acorn Hall,,,,851,House Smallwood of Acorn Hall
+1027,Titus Peake,Male,,,,Lord of Starpike,,,,708,House Peake of Starpike
+1028,Tom Costayne,Male,,,,Ser,Long Tom Costayne,,,,House Costayne of Three Towers
+1030,Tommen Costayne,Female,,,,Lord of the Three Towers,,,,,House Costayne of Three Towers
+1035,Trebor Jordayne,Male,,,,Lord of the Tor,,,,,House Jordayne of the Tor
+1036,Tremond Gargalen,Male,Dornish,,,Lord of Salt Shore,,,,,House Gargalen of Salt Shore
+1037,Tristan Mudd,Male,,,,Lord Commander of the Night's Watch,,,,,House Mudd of Oldstones
+1038,Tristan Ryger,Male,,,,,,,,,House Ryger of Willow Wood
+1039,Tristifer Botley,Male,Ironborn,At Lordsport,,Heir to Lordsport,Tris,,,,House Botley of Lordsport
+1042,Triston Sunderland,Male,,,,Lord of the Three Sisters,,,,,House Sunderland of the Three Sisters
+1043,Trystane Martell,Male,Dornish,In 287 AC,,Prince,,,,,House Nymeros Martell of Sunspear
+1044,Tya Lannister,Female,,,,,,,,435,House Baratheon of Storm's End
+1045,Tyana Wylde,Female,,,,,,,,56,House Frey of the Crossing
+1046,Tybolt Crakehall,Male,,,,Ser,,,,,House Crakehall of Crakehall
+1047,Tybolt Hetherspoon,Male,,,,Ser,,,,,House Hetherspoon
+1049,Tygett Lannister,Male,,In 250 AC,In or after 285 AC,Ser,Tyg,,,292,House Lannister of Casterly Rock
+1053,Tysane Frey,Female,,In 292 AC,,,,,,,House Frey of the Crossing
+1054,Tyta Frey,Female,,In 269 AC or 270 AC,,,Tyta the Maid,,,,House Frey of the Crossing
+1058,Tywin Frey,Male,,In 287 AC or 288 AC,,Ser,Ty,,,,House Frey of Riverrun
+1059,Tywin Frey,Male,,In 299 AC or 300 AC,,,,,,,House Frey of the Crossing
+1061,Ulwyck Uller,Male,,,,Ser,,,,,House Uller of Hellholt
+1062,Urrigon Greyjoy,Male,Ironborn,In 268 AC or 269 AC,At Pyke,,Urri,,,,House Greyjoy of Pyke
+1063,Utherydes Wayn,Male,,In or between 237 AC and 241 AC (roughly),,Steward,,,,,House Tully of Riverrun
+1064,Uthor Tollett,Male,Valemen,,,Lord of the Grey Glen,,,,,House Tollett of the Grey Glen
+1066,Vaemond Velaryon,Male,Valyrian,,In 126 AC,Ser,,,,,House Velaryon of Driftmark
+1070,Velaena Velaryon,Female,Valyrian,,,Lady of Dragonstone,,,,59,House Targaryen of King's Landing
+1071,Vickon Botley,Male,Ironborn,,,,,,,,House Botley of Lordsport
+1073,Victaria Tyrell,Female,,,,,,,,575,House Tyrell of Highgarden
+1075,Victor Tyrell,Male,,,,Ser,,,,,House Tyrell of Highgarden
+1076,Viserys I,Male,,77 AC, at King's Landing,129 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm
+1077,Viserys II,Male,,122 AC, at Dragonstone,172 AC, at King's Landing,King of the Andals, the Rhoynar and the First Men,Lord of the Seven Kingdoms,Protector of the Realm
+1078,Viserys Plumm,Male,,In 176 AC or 177 AC,,Lord,,,,,House Plumm
+1079,Viserys Targaryen,Male,Valyrian,In 276 AC, at King's Landing,In 298 AC, at Vaes Dothrak,King of the Andals, the Rhoynar and the First Men, Lord of the Seven Kingdoms and Protector of the Realm,The Beggar King
+1081,Walda Frey,Female,,In 290 AC or 291 AC,,,,,,,House Frey of the Crossing
+1082,Walda Frey,Female,,In 294 AC or 295 AC,,,,,,,House Frey of the Crossing
+1083,Walda Frey,Female,,In 280 AC or 281 AC,,,Fair Walda,,,,House Frey of the Crossing
+1085,Walda Frey,Female,,In 288 AC or 289 AC,,,White Walda,,,,House Frey of the Crossing
+1086,Walda Rivers,Female,,In 294 AC or 295 AC,,,,,,,House Frey of the Crossing
+1087,Walda Rivers,Female,,In 295 AC,,,,,,,House Frey of the Crossing
+1088,Walder Brax,Male,,In 293 AC,,,,,,,House Brax of Hornvale
+1089,Walder Frey,Male,,In 291 AC,,,Big Walder,,,,House Frey of the Crossing
+1090,Walder Frey,Male,Rivermen,In or between 260 AC and 280 AC,,,Black Walder,,,,House Frey of the Crossing
+1092,Walder Frey,Male,,In 285 AC,,,Red Walder,,,,House Frey of Riverrun
+1094,Walder Goodbrook,Male,,In 290 AC,,,,,,,House Goodbrook
+1095,Walder Haigh,Male,,In 294 AC or 295 AC,,,,,,,House Haigh
+1096,Walder Rivers,Male,Rivermen,,,Ser,Bastard Walder,,,1509,House Frey of the Crossing
+1097,Waldon Wynch,Male,Ironborn,,,Lord of Iron Holt,,,,,House Wynch of Iron Holt
+1098,Wallace Waynwood,Male,,In or between 278 AC and 283 AC,,Ser,,,,,House Waynwood of Ironoaks
+1099,Walter Whent,Male,Rivermen,,,Lord of Harrenhal,Old Lord Whent,,,972,House Whent of Harrenhal
+1100,Walton Frey,Male,,In or between 250 AC and 267 AC,,,,,,295,House Frey of the Crossing
+1102,Waltyr Frey,Male,,In 289 AC,,,Tyr,,,,House Frey of the Crossing
+1103,Warryn Beesbury,Male,,,,Lord of Honeyholt,,,,,House Beesbury of Honeyholt
+1105,Wendel Frey,Male,,In 286 AC,,,,,,,House Frey of the Crossing
+1107,Whalen Frey,Male,,In 267 AC or 268 AC,,Ser,,,,1000,House Frey of the Crossing
+1108,Wilbert Osgrey,Male,,,,Ser,the Little Lion,,,,House Osgrey of Standfast
+1113,Willas Tyrell,Male,,In or between 270 AC and 276 AC,,,,,,,House Tyrell of Highgarden
+1115,Willem Frey,Male,,In 289 AC or 290 AC,,,,,,,House Frey of Riverrun
+1117,Willem Wylde,Male,,,,Ser,,,,,House Wylde of Rain House
+1118,William Mooton,Male,,,,Lord of Maidenpool,,,,,House Mooton of Maidenpool
+1119,Willis Fell,Male,,,,Ser,,,,,House Fell of Felwood
+1120,Willis Wode,Male,,,,Ser,,,,,House Whent of Harrenhal
+1125,Wynafrei Whent,Female,,,,,,,,291,House Whent of Harrenhal
+1127,Wynton Stout,Male,Northmen,In or before 219 AC,,Ser,,,,,House Stout of Goldgrass
+1128,Ygon Farwynd,Male,,,,,,,,,House Farwynd of the Lonely Light
+1129,Ynys Yronwood,Female,Dornish,,,,,,,1922,House Allyrion of Godsgrace
+1130,Yohn Farwynd,Male,Ironborn,,,,,,,,House Farwynd of the Lonely Light
+1131,Yohn Royce,Male,Valemen,,,Lord of Runestone,Bronze Yohn,,,,House Royce of Runestone
+1133,Ysilla Royce,Female,Valemen,,,,,,,768,House Redfort of Redfort
+1134,Zachery Frey,Male,,In 287 AC,,,,,,,House Frey of the Crossing
+1136,Zia Frey,Female,,In 285 AC,,,,,,,House Frey of the Crossing
+1150,Alesandor Torrent,Male,,,,Lord of Littlesister,,,,,House Torrent of Littlesister
+1156,Alvyn Sharp,Male,Ironborn,,,,,,,,House Sharp
+1159,Alyn,Female,,,,,Sour Alyn,,,,House Bolton of the Dreadfort
+1160,Alysanne Bracken,Female,,,,,,,,,House Bracken of Stone Hedge
+1161,Amabel,Female,,,,,,,,,House Whent of Harrenhal
+1163,Andrey Dalt,Male,Dornish,,,Ser,Drey,,,,House Dalt of Lemonwood
+1164,Andrik,Male,Ironborn,,,Lord of Southshield,Andrik the Unsmiling,,,,House Drumm of Old Wyk
+1167,Argrave the Defiant,Male,,At Nunny,,Ser,,,,,House Butterwell
+1173,Arryk,Male,,,,,"Left or ""Right""",,,,House Tyrell of Highgarden
+1175,Arya Flint,Female,Northern mountain clans,,,,,,,917,House Flint  of the mountains
+1182,Baelish,Male,Braavosi,,,,,,,,House Corbray of Heart's Home
+1184,Ballabar,Male,,,,Maester,,,,,House Redwyne of the Arbor
+1185,Bandy,Female,Northmen,,,,,,,,House Stark of Winterfell
+1187,Barbara Bracken,Female,,,,,,,,,House Bracken of Stone Hedge
+1190,Barth,Male,,,,,,,,,House Stark of Winterfell
+1193,Becca,Female,,,,,,,,,House Arryn of the Eyrie
+1197,Belandra,Female,,,,,,,,,House Nymeros Martell of Sunspear
+1207,Ben,Male,,,,,Ben Blackthumb,,,,House Lannister of Casterly Rock
+1208,Ben,Male,,,,,Ben Bones,,,,House Bolton of the Dreadfort
+1212,Bess Bracken,Female,,,,,,,,,House Bracken of Stone Hedge
+1217,Betharios,Female,,,,,Betharios of Braavos,,,1004,House Frey of the Crossing
+1226,Bluetooth,Male,Ironborn,,,,,,,,House Greyjoy of Pyke
+1230,Bors,Male,,,,,,,,,House Nymeros Martell of Sunspear
+1233,Brella,Female,,,,,,,,,House Baratheon of Storm's End
+1234,Brenett,Male,,,,Maester,,,,,House Frey of the Crossing
+1240,Bryen,Male,,In or before 220 AC,,,,,,,House Baelish of the Fingers
+1241,Brynden Blackwood,Male,,,,,,,,,House Blackwood of Raventree Hall
+1244,Butterbumps,Male,,,,,Butterbumps,,,,House Tyrell of Highgarden
+1249,Byron,Male,,,,Ser,Byron the Beautiful,,,,House Baelish of the Fingers
+1250,Cadwyl,Male,Ironborn,,,,,,,,House Greyjoy of Pyke
+1251,Cadwyn,Male,,,,Ser,,,,,House Lannister of Casterly Rock
+1253,Caleotte,Male,,,,Maester,,,,,House Nymeros Martell of Sunspear
+1254,Calon,Male,Northmen,,,,,,,,House Stark of Winterfell
+1256,Carrot,Male,,,,,,,,,House Royce of the Gates of the Moon
+1259,Catelyn Bracken,Female,,,,,,,,,House Bracken of Stone Hedge
+1261,Cedra,Female,,,,,,,,,House Nymeros Martell of Sunspear
+1263,Cerrick,Male,Ironborn,,,Maester,The Grey Pup,,,,House Webber of Coldmoat
+1271,Clarence Crabb,Male,,,,Ser,,,,,House Crabb
+1276,Clifford Conklyn,Male,,,,Ser,,,,,House Conklyn
+1280,Colemon,Male,,,,Maester,,,,,House Arryn of the Eyrie
+1285,Corliss Penny,Male,,,,Ser,,,,,House Baratheon of Dragonstone
+1286,Corlos,Male,First Men,In Age of Heroes,,Lord of Casterly Rock,Corlos son of Caster,,,,House Casterly of Casterly Rock
+1287,Cosgrove,Male,,,,Steward,,,,,House Butterwell
+1292,Cragorn,Male,,,In 300 AC,,,,,,House Greyjoy of Pyke
+1299,Dacks,Male,,,,,,,,,House Redfort of Redfort
+1300,Daegon Shepherd,Male,Ironborn,,,,The Black Shepherd,,,,House Shepherd
+1301,Daemon Sand,Male,Dornish,In 275 or 276 AC,,Ser,Bastard of Godsgrace,,,,House Allyrion of Godsgrace
+1302,Daenaera Velaryon,Female,Valyrian,In 127 AC,,Queen,,,,40,House Targaryen of King's Landing
+1303,Daenerys Targaryen,Female,Valyrian,In 284 AC, at Dragonstone,,Queen of the Andals and the Rhoynar and the First Men, Lord of the Seven Kingdoms,Khaleesi of the Great Grass Sea,Breaker of Shackles/Chains,Queen of Meereen
+1306,Dagmer,Male,Ironborn,,,Captain of Foamdrinker,Dagmer Cleftjaw,,,,House Greyjoy of Pyke
+1307,Dagon Ironmaker,Male,Ironborn,,,,,,,,House Ironmaker
+1308,Dake,Male,,,At Coldmoat,,,,,,House Osgrey of Standfast
+1309,Dake,Male,,,,,,,,,House Lannister of Casterly Rock
+1312,Dalla,Female,,,,,,,,,House Baratheon of Dragonstone
+1313,Damon,Male,,,,,Damon Dance-for-Me,,,,House Bolton of the Dreadfort
+1318,Darla Deddings,Female,,,,Lady,,,,,House Deddings
+1325,Dermot,Male,,,,Ser,Dermot of the Rainwood,,,,House Baratheon of Dragonstone
+1336,Donnis,Male,Northmen,,,,,,,,House Stark of Winterfell
+1338,Dorcas,Female,,,,,,,,,House Lannister of Casterly Rock
+1339,Dorea Sand,Female,Dornishmen,In 291 AC or 292 AC,,,,,,,House Nymeros Martell of Sunspear
+1349,Dunaver,Male,,,,Ser,,,,,House Lannister of Casterly Rock
+1350,Dunsen,Male,,,,,,,,,House Clegane
+1355,Edric Storm,Male,,In 287 AC,,,,,,,House Baratheon of Storm's End
+1356,Eggon,Male,,,,,,,,,House Clegane
+1358,Elaena Targaryen,Female,Valyrian,In 150 AC,In or after 220 AC,Princess,,,,803,House Manwoody of Kingsgrave
+1361,Elenei,Female,,In Age of Heroes,,,,,,333,House Durrandon
+1371,Enger,Male,,,,,,,,,House Tully of Riverrun
+1377,Erryk,Male,,,,,"Left or ""Right""",,,,House Tyrell of Highgarden
+1380,Eustace Brune,Male,,,,Lord of the Dyre Den,,,,,House Brune of the Dyre Den
+1392,Franklyn Frey,Male,,,,Ser,,,,,House Frey of the Crossing
+1396,Gage,Male,,,,,,,,,House Stark of Winterfell
+1403,Gareth Clifton,Male,,,,Ser,,,,551,House Clifton
+1407,Gariss,Male,,,,,,,,,House Stark of Winterfell
+1409,Garrett Flowers,Male,,,,,,,,,House Tyrell of Highgarden
+1410,Garse Flowers,Male,,,,,,,,,House Tyrell of Highgarden
+1414,Gascoyne,Male,,,,Ser,Gascoyne of the Greenblood,,,,House Nymeros Martell of Sunspear
+1423,Gerrick,Male,Free folk,,,King of the Wildlings,Gerrick Kingsblood,,,,House Redbeard
+1428,Glendon Hewett,Male,,,,Ser,,,,,House Hewett of Oakenshield
+1430,Godwyn,Male,,,,,,,,,House Lannister of Casterly Rock
+1443,Gretchel,Female,,,,,,,,,House Arryn of the Eyrie
+1445,Grey Worm,Male,,,,,,,,,House Targaryen of King's Landing
+1448,Grisel,Female,,,,,,,,,House Baelish of the Fingers
+1452,Grunt,Male,Northmen,,,,,,,,House Bolton of the Dreadfort
+1462,Haegon Blackfyre,Male,Valyrian,In or between 189 AC and 193 AC,In 219 AC,,,,,,House Blackfyre of King's Landing
+1467,Hal,Male,,,In 299 AC,,Hal the Hog,,,,House Baratheon of Dragonstone
+1469,Haldon,Male,,,,,Haldon Halfmaester,,,,House Targaryen of King's Landing
+1480,Harmund Sharp,Male,Ironborn,,,,,,,,House Sharp
+1488,Harwin,Male,Northmen,In 271 AC or later,,,,,,,House Stark of Winterfell
+1489,Hayhead,Male,Northmen,,,,,,,,House Stark of Winterfell
+1495,Helya,Female,,,,,,,,,House Greyjoy of Pyke
+1498,Henly,Male,,,,Maester,,,,,House Slate of Blackpool
+1504,Hoke,Male,,,,,Hoke the Horseleg,,,,House Lannister of Casterly Rock
+1516,Humfrey Clifton,Male,,,,Ser,,,,,House Baratheon of Dragonstone
+1523,Irri,Female,Dothraki,In 283 AC or 284 AC,,,,,,,House Targaryen of King's Landing
+1526,Jacks,Male,,,,,,,,,House Stark of Winterfell
+1535,Jate Blackberry,Male,,,,,,,,,House Baratheon of Dragonstone
+1537,Jayne Bracken,Female,,,,,,,,,House Bracken of Stone Hedge
+1542,Jeyne,Female,,,,,Squinty Jeyne,,,,House Osgrey of Standfast
+1544,Jeyne Rivers,Female,,,,,,,,,House Frey of the Crossing
+1548,Jhiqui,Female,Dothraki,In 284 AC,,,,,,,House Targaryen of King's Landing
+1550,Jodge,Male,,,,,,,,,House Lannister of Casterly Rock
+1552,Jommy,Male,,,,,,,,,House Baratheon of Storm's End
+1554,Jon Heddle,Male,,,,Ser,Long Jon,,,,House Heddle
+1559,Jonos Bracken,Male,,At Stone Hedge,,Lord of Stone Hedge,,,,,House Bracken of Stone Hedge
+1562,Jorgen,Male,,,,,,,,,House Webber of Coldmoat
+1565,Joseth,Male,,,,,,,,,House Stark of Winterfell
+1568,Joss Stilwood,Male,,,,,,,,,House Clegane
+1570,Joy Hill,Female,,In 288 AC,,,,,,,House Lannister of Casterly Rock
+1572,Jyana,Female,Crannogmen,,,,,,,506,House Reed of Greywater Watch
+1574,Jynessa Blackmont,Female,Dornish,,,,,,,,House Blackmont of Blackmont
+1581,Kella,Female,,,,,,,,,House Baelish of the Fingers
+1584,Kennos of Kayce,Male,,,,Ser,,,,,House Kenning of Kayce
+1589,Kiera of Tyrosh,Female,Tyroshi,,,Lady,,,,1067,House Targaryen of King's Landing
+1607,Larra Blackmont,Female,Dornish,,,Lady of Blackmont,,,,,House Blackmont of Blackmont
+1614,Lem,Male,,In or around 161 AC,,,,,,,House Osgrey of Standfast
+1618,Leonette Fossoway,Female,,,,Lady,,,,401,House Tyrell of Brightwater Keep
+1619,Lester,Male,,,,,Red Lester,,,,House Lannister of Casterly Rock
+1620,Lew,Male,Northmen,,,,,,,,House Stark of Winterfell
+1621,Lew,Male,,,,,Long Lew,,,,House Tully of Riverrun
+1623,Lewys,Male,,,,,Lewys the Fishwife,,,,House Baratheon of Dragonstone
+1632,Loreza Sand,Female,Dorne,In 293 AC,,,Loree,,,,House Nymeros Martell of Sunspear
+1641,Lucas Nayland,Male,,,,Ser,,,,,House Nayland of Hag's Mire
+1642,Lucifer Hardy,Male,,,,Lord,,,,,House Hardy
+1647,Lum,Male,,,,,,,,,House Lannister of Casterly Rock
+1652,Lyonel,Male,,,,Ser,,,,,House Lannister of Casterly Rock
+1655,Maddy,Female,,,,,,,,,House Arryn of the Eyrie
+1665,Mallor,Male,,,,,Mallor the Dornishman,,,,House Lannister of Casterly Rock
+1674,Martyn Rivers,Male,,,,,,,,,House Frey of the Crossing
+1676,Marya Seaworth,Female,,,,Lady,,,,1319,House Seaworth of Cape Wrath
+1680,Matrice,Female,,,,,,,,,House Baratheon of Dragonstone
+1693,Mela,Female,,,,,,,,,House Arryn of the Eyrie
+1696,Mellara Rivers,Female,,,,,,,,,House Frey of the Crossing
+1697,Mellario,Female,Norvoshi,In or between 248 AC and 263 AC,,,Mellario of Norvos,,,326,House Nymeros Martell of Sunspear
+1698,Mellei,Female,,,,,,,,,House Nymeros Martell of Sunspear
+1713,Moon Boy,Male,,,,,,,,,House Baratheon of King's Landing
+1715,Mord,Male,,,,,,,,,House Arryn of the Eyrie
+1718,Morgan Martell,Male,Andal,,,Lord of the Sandship,,,,,House Nymeros Martell of Sunspear
+1719,Morgarth,Male,,,,Ser,Morgarth the Merry,,,,House Baelish of the Fingers
+1723,Morra,Female,,,,,,,,,House Nymeros Martell of Sunspear
+1727,Morton Waynwood,Male,,,,Ser,,,,,House Waynwood of Ironoaks
+1731,Mudge,Male,,,,,,,,,House Osgrey of Standfast
+1737,Murch,Male,Northmen,,,,,,,,House Stark of Winterfell
+1739,Mushroom,Male,,,In or after 136AC,,Mushroom,,,,House Targaryen of King's Landing
+1743,Myles,Male,,,,Maester,,,,,House Nymeros Martell of Sunspear
+1747,Nage,Male,,,,,,,,,House Bolton of the Dreadfort
+1749,Nan,Female,,,,,Old Nan,,,,House Stark of Winterfell
+1753,Ned Woods,Male,Northmen,,,,Noseless Ned,,,,House Woods
+1762,Norne Goodbrother,Male,Ironborn,,,Lord of Shatterstone,,,,,House Goodbrother of Shatterstone
+1765,Nute,Male,Ironborn,,,Lord of Oakenshield,Nute the Barber,,,,House Greyjoy of Pyke
+1766,Nymeria Sand,Female,Dornishmen,In 274 AC or 275 AC,,,Lady Nym,,,,House Nymeros Martell of Sunspear
+1769,Obella Sand,Female,Dornishmen,In 287 AC or 288 AC,,,,,,,House Nymeros Martell of Sunspear
+1777,Omer Blackberry,Male,,,,,,,,,House Baratheon of Dragonstone
+1782,Orland of Oldtown,Male,,,,,Ormond of Oldtown,,,,House Baratheon of King's Landing
+1787,Osha,Female,Free folk,,,,,,,,House Stark of Winterfell
+1788,Ossy,Male,,,,,,,,,House Royce of the Gates of the Moon
+1796,Palla,Female,Northmen,,,,,,,,House Stark of Winterfell
+1797,Patchface,Male,,,,,Patches,,,,House Baratheon of Dragonstone
+1798,Pate,Male,,In 291 AC or 292 AC,,,,,,,House Baratheon of King's Landing
+1803,Pate,Male,,In or between 161 AC and 181 AC,,,,,,,House Osgrey of Standfast
+1810,Perros Blackmont,Male,Dornish,,,,,,,,House Blackmont of Blackmont
+1811,Pia,Female,,At Harrenhal,,,Pretty Pia,,,,House Whent of Harrenhal
+1812,Plummer,Male,,,,Steward of Ashford,,,,,House Ashford of Ashford
+1816,Porther,Male,Northmen,,,,,,,,House Stark of Winterfell
+1822,Puckens,Male,,,,,,,,,House Lannister of Casterly Rock
+1829,Qalen,Male,,,In before 299,Maester,,,,,House Greyjoy of Pyke
+1833,Qarl Correy,Male,,,,Ser,,,,,House Velaryon of Driftmark
+1834,Qarl Shepherd,Male,Ironborn,,,,,,,,House Shepherd
+1841,Quellon Humble,Male,Ironborn,,,,,,,,House Humble
+1843,Quent,Male,Northmen,,,,,,,,House Stark of Winterfell
+1846,Quincy Cox,Male,,,,Serthe Knight of Saltpans,,,,,House Cox of Saltpans
+1848,Qyburn,Male,,In 217AC or after,,Master of whisperers,The Bloody Maester,,,,House Lannister of Casterly Rock
+1853,Ragnor Pyke,Male,Ironborn,,,,,,,,House Greyjoy of Pyke
+1864,Raymar Royce,Male,,,,Lord,,,,,House Royce of the Gates of the Moon
+1865,Raymond Nayland,Male,,,,Ser,,,,,House Nayland of Hag's Mire
+1867,Red Lamb,Male,Lhazarene,,,Ser,Red Lamb,,,,House Targaryen of King's Landing
+1870,Rennifer Longwaters,Male,,,,Chief Undergaoler,,,,,House Longwaters
+1872,Reznak mo Reznak,Male,Ghiscari,At Meereen,,Seneschal,,,,,House Targaryen of King's Landing
+1876,Ricasso,Male,,,,Seneschal of Sunspear,,,,,House Nymeros Martell of Sunspear
+1879,Rob,Male,,,,,Big Rob,,,,House Osgrey of Standfast
+1884,Rodrik Arryn,Female,,,,Lord of the Eyrie,,,,265,House Arryn of the Eyrie
+1888,Roger Ryswell,Male,Northmen,,,,,,,,House Ryswell of the Rills
+1892,Rolder,Male,,,,,,,,,House Lannister of Casterly Rock
+1895,Rolland Longthorpe,Male,,,,Lord of Longsister,,,,,House Longthorpe of Longsister
+1898,Romny Weaver,Male,Ironborn,,,,,,,,House Weaver
+1899,Ronald Storm,Male,,,,,,,,,House Connington of Griffin's Roost
+1900,Ronel Rivers,Male,,,,,,,,,House Frey of the Crossing
+1916,Ryger Rivers,Male,,,,,,,,,House Frey of the Crossing
+1919,Rymolf,Male,Ironborn,,,,Rymolf Stormdrunk,,,,House Greyjoy of Pyke
+1922,Ryon Allyrion,Male,Dornish,,,Ser,,,,1129,House Allyrion of Godsgrace
+1925,Salladhor Saan,Male,Lysene,,,Prince of the Narrow Sea Lord of Blackwater Bay,Salla,,,,House Baratheon of Dragonstone
+1928,Sam Stoops,Male,,,,,,,,,House Osgrey of Standfast
+1929,Samwell Stone,Male,,,,Ser Master-at-arms of Runestone,Strong Sam Stone,,,,House Royce of Runestone
+1930,Sarella Sand,Female,Dornishmen,In 280 AC or 281 AC,,,,,,,House Nymeros Martell of Sunspear
+1936,Senelle,Female,,,In 300 AC,,,,,,House Lannister of Casterly Rock
+1944,Shiera Seastar,Female,Westeros,In or between 178 AC and 184 AC,,,,,,,House Targaryen of King's Landing
+1945,Shortear,Male,,,,,,,,,House Lannister of Casterly Rock
+1946,Shyra,Female,Northmen,,,,,,,,House Stark of Winterfell
+1947,Sigrin,Male,Ironborn,,,,Sigrin the Shipwright,,,,House Greyjoy of Pyke
+1949,Skinner,Male,,,,,,,,,House Bolton of the Dreadfort
+1950,Skittrick,Male,Northmen,,,,,,,,House Stark of Winterfell
+1964,Stannis Seaworth,Male,,In 289 AC or 290 AC,,,,1319,1676,,House Seaworth of Cape Wrath
+1967,Steffon Seaworth,Male,,In 293 AC,,,,,,,House Seaworth of Cape Wrath
+1971,Stygg,Male,,,,,,,,,House Greyjoy of Pyke
+1974,Sylas,Male,,,In 294 AC,,Sylas Sourmouth,,,,House Greyjoy of Pyke
+1978,Symon Stripeback,Male,,,,,,,,,House Targaryen of King's Landing
+1981,Tal Toraq,Male,Summer Isles,,,,,,,,House Targaryen of King's Landing
+1989,Teora Kyndall,Female,,,In 212 AC,Lady of Casterly Rock,,,,1048,House Kyndall
+1997,Theo Frey,Male,,,,Ser,,,,,House Frey of the Crossing
+1999,Theomore Lannister,Male,,At Lannisport,,Maester,,,,,House Manderly of White Harbor
+2001,Thormor Ironmaker,Male,Ironborn,,,,,,,,House Ironmaker
+2004,Three-Tooth,Female,Ironborn,,,Steward of Ten Towers,,,,,House Harlaw of Harlaw
+2011,Timoth,Male,,,,,,,,,House Nymeros Martell of Sunspear
+2012,Tobbot,Male,,,,,,,,,House Clegane
+2019,TomToo,Male,Northmen,,,,,,,,House Stark of Winterfell
+2032,Triston,Male,,,,Ser,Triston of Tally Hill,,,,House Sunglass of Sweetport Sound
+2033,Triston Farwynd,Male,Ironborn,,,Lord of Sealskin Point,,,,,House Farwynd of Sealskin Point
+2037,Turnip,Female,Northmen,,,,,,,,House Stark of Winterfell
+2041,Tyene Sand,Female,Dornish,In 276 AC or 277 AC,,,,,,,House Nymeros Martell of Sunspear
+2042,Tymor,Male,,,,,,,,,House Greyjoy of Pyke
+2045,Tytos Blackwood,Male,,At Raventree Hall,,Lord of Raventree Hall,,,,,House Blackwood of Raventree Hall
+2049,Uller,Male,Ironborn,,,,,,,,House Greyjoy of Pyke
+2052,Umfred,Male,,,,,,,,,House Baelish of the Fingers
+2054,Unknown,Male,Westerosi,In 195 AC or 196 AC,,Lady,,,,113,House Butterwell
+2055,Urek Ironmaker,Male,Ironborn,,,,,,,,House Ironmaker
+2061,Urzen,Male,Ironborn,,,,,,,,House Greyjoy of Pyke
+2072,Vylarr,Male,,,,Captain of Lannister household guard,,,,,House Lannister of Casterly Rock
+2077,Walton,Male,,,,,Steelshanks Walton,,,,House Bolton of the Dreadfort
+2079,Wat,Male,,,,,Wat Barleycorn,,,,House Osgrey of Standfast
+2080,Wat,Male,,,,,Blue Bard,,,,House Tyrell of Highgarden
+2083,Wat,Male,,,,,,,,,House Osgrey of Standfast
+2084,Wat,Male,,,,,Wet Wat,,,,House Osgrey of Standfast
+2085,Wat,Male,,,,,Whitesmile Wat,,,,House Lannister of Casterly Rock
+2086,Wate,Male,,,,,,,,,House Targaryen of King's Landing
+2089,Wayn,Male,Northmen,,,,,,,,House Stark of Winterfell
+2093,Wendamyr,Male,,,,Maester,,,,,House Greyjoy of Pyke
+2094,Wendell Webber,Male,,,,Ser,,,,,House Webber of Coldmoat
+2096,Werlag,Male,Ironborn,,,,,,,,House Greyjoy of Pyke
+2097,Wex Pyke,Male,Ironborn,In 286 AC,,,,,,,House Botley of Lordsport
+2100,Will,Male,,,In 299 AC,,Hookface Will,,,,House Baratheon of Dragonstone
+2103,Will,Male,,,,,,,,,House Osgrey of Standfast
+2105,Will,Male,,,,,Treb,,,,House Osgrey of Standfast
+2106,Will Humble,Male,Ironborn,,,,,,,,House Humble
+2111,Willit,Male,,,,,,,,,House Swyft of Cornfield
+2115,Wolmer,Male,,,,,,,,,House Webber of Coldmoat
+2117,Wulfe,Male,Ironborn,,,,Wulfe One-Ear,,,,House Greyjoy of Pyke
+2121,Wylla,Female,,,,,,,,,House Dayne of Starfall
+2124,Yandry,Male,,,,,,,,2132,House Targaryen of King's Landing
+2128,Yorkel,Male,,,,,,,,,House Targaryen of King's Landing
