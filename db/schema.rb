@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20161108002856) do
+ActiveRecord::Schema.define(version: 20161108004442) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -25,6 +25,8 @@ ActiveRecord::Schema.define(version: 20161108002856) do
     t.text     "alias"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer  "house_id"
+    t.index ["house_id"], name: "index_characters_on_house_id", using: :btree
   end
 
   create_table "houses", force: :cascade do |t|
@@ -33,4 +35,5 @@ ActiveRecord::Schema.define(version: 20161108002856) do
     t.datetime "updated_at", null: false
   end
 
+  add_foreign_key "characters", "houses"
 end

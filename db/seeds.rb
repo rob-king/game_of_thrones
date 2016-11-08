@@ -1,7 +1,37 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+require 'csv'
+
+csv_text = File.read(Rails.root.join('db','got-export.csv'))
+csv =  CSV.parse(csv_text, headers:true)
+
+
+def get_unique_houses(csv)
+  houses = []
+  csv.each { |row|
+    record = row.to_hash
+    houses << record['allegiances'].strip
+  }
+  houses.uniq
+end
+
+unique_houses = get_unique_houses(csv)
+characters = csv.map { |e| e.to_hash }
+
+unique_houses.each { |house|
+  banner = House.create(name:house)
+  members = characters.select { |character| character['allegiances'] == house
+  }
+  members.each { |member|
+    banner.characters.create(name: member['name'],
+      gender: member['gender'],
+      culture: member['culture'],
+      born: member['born'],
+      died: member['died'],
+      title: member['title'],
+      alias: member['alias']
+    )
+  }
+
+}
+
+puts Character.all.count
+puts House.all.count
