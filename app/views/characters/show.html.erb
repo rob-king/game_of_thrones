@@ -1,2 +1,9 @@
 <h1>Characters#show</h1>
-<p>Find me in app/views/characters/show.html.erb</p>
+
+<p><%= @character.name  %></p>
+<p><%= @character.house.name %></p>
+<p><%= @character.title %></p>
+<p><%= @character.alias %></p>
+<p><%= @character.culture %></p>
+<p>birth: <%= @character.born %></p>
+<p>death: <%= @character.died %></p>

@@ -1,2 +1,8 @@
 <h1>Houses#show</h1>
 <p>Find me in app/views/houses/show.html.erb</p>
+
+<h1><%= @house.name %></h1>
+
+<% @characters.each do |character| %>
+<p><%= link_to character.name, house_character_path(@house, character) %></p>
+<% end %>

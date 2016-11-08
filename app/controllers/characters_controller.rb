@@ -5,6 +5,8 @@ class CharactersController < ApplicationController
   end
 
   def show
+    @house = House.find(params[:house_id])
+    @character = Character.find(params[:id])
   end
 
   def new
