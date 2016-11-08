@@ -3,6 +3,8 @@
 
 <h1><%= @house.name %></h1>
 
+<%= link_to "Edit", edit_house_path %>
+
 <% @characters.each do |character| %>
 <p><%= link_to character.name, house_character_path(@house, character) %></p>
 <% end %>

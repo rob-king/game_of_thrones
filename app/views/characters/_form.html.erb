@@ -1,0 +1,15 @@
+<%= form_for [@house, @character] do |f| %>
+<%= f.label :name %>
+<%= f.text_field :name %>
+<%= f.label :title %>
+<%= f.text_field :title %>
+<%= f.label :gender %>
+<%= f.text_field :gender %>
+<%= f.label :born %>
+<%= f.text_field :born %>
+<%= f.label :died %>
+<%= f.text_field :died %>
+<%= f.label :alias %>
+<%= f.text_field :alias %>
+<%= f.submit "Save" %>
+<% end %>
