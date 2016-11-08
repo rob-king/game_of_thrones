@@ -1,10 +1,13 @@
 <h1>Characters#show</h1>
 
+<p><%= link_to @character.house.name, @character.house %></p>
 <p><%= @character.name  %></p>
-<p><%= @character.house.name %></p>
 <p><%= @character.title %></p>
 <p><%= @character.alias %></p>
 <p><%= @character.culture %></p>
 <p>birth: <%= @character.born %></p>
 <p>death: <%= @character.died %></p>
 <%= link_to "edit", edit_house_character_path%>
+<%= link_to 'Delete Character', [@character.house, @character],
+               method: :delete,
+               data: { confirm: 'Are you sure?' } %>

@@ -32,6 +32,13 @@ class CharactersController < ApplicationController
     redirect_to house_character_path(@house, @character)
   end
 
+  def destroy
+    @house =  House.find(params[:house_id])
+    @character =  Character.find(params[:id])
+    @character.destroy
+    redirect_to house_characters_path @house
+  end
+
   private
 
   def character_params
