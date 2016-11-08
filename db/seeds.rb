@@ -8,7 +8,7 @@ def get_unique_houses(csv)
   houses = []
   csv.each { |row|
     record = row.to_hash
-    houses << record['allegiances'].strip
+    houses << record['allegiances']
   }
   houses.uniq
 end
@@ -32,6 +32,8 @@ unique_houses.each { |house|
   }
 
 }
+
+#leaving behind characters with no house in the bad data
 
 puts Character.all.count
 puts House.all.count
